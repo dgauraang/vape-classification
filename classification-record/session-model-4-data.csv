@@ -1,141 +1,104 @@
 ,Name,Timestamp,Video_Title,Video_ID,Video_URL,Channel_Name,Channel_URL,Description,Publish_Date,Category,View_Count,Like_Count,Dislike_Count,Comment_Count,Classification,hispanicmale24_Search_Appearance,hispanicmale24_Page,hispanicmale24_Ranking,hispanicfemale24_Search_Appearance,hispanicfemale24_Page,hispanicfemale24_Ranking,whitemale24_Search_Appearance,whitemale24_Page,whitemale24_Ranking,whitefemale24_Search_Appearance,whitefemale24_Page,whitefemale24_Ranking,africanamericanmale24_Search_Appearance,africanamericanmale24_Page,africanamericanmale24_Ranking,africanamericanfemale24_Search_Appearance,africanamericanfemale24_Page,africanamericanfemale24_Ranking,whitemale24_2_Search_Appearance,whitemale24_2_Page,whitemale24_2_Ranking,whitefemale24_2_Search_Appearance,whitefemale24_2_Page,whitefemale24_2_Ranking,hispanicmale16_Search_Appearance,hispanicmale16_Page,hispanicmale16_Ranking,hispanicfemale16_Search_Appearance,hispanicfemale16_Page,hispanicfemale16_Ranking,whitemale16_Search_Appearance,whitemale16_Page,whitemale16_Ranking,whitefemale16_Search_Appearance,whitefemale16_Page,whitefemale16_Ranking,whitemale16_2_Search_Appearance,whitemale16_2_Page,whitemale16_2_Ranking,whitefemale16_2_Search_Appearance,whitefemale16_2_Page,whitefemale16_2_Ranking,africanamericanmale16_Search_Appearance,africanamericanmale16_Page,africanamericanmale16_Ranking,africanamericanfemale16_Search_Appearance,africanamericanfemale16_Page,africanamericanfemale16_Ranking,electronic_cigarette_search,e-cigarette_search,e-cig_search,vape_search,vaping_search,e-liquid_search,e-juice_search,vape_pods_search,vape_mods_search,cigalikes_search,box_mods_search,vape_pens_search,pod_mods_search,disposable_vape_search,disposable_e-cigs_search,disposables_search,vape_juice_search,ends_search,has_label_0,has_label_1,has_label_2,has_label_3,has_labels,has_label_4,has_label_5,has_label_6,has_label_7,has_label_8,has_label_9,has_label_10,has_label_11,has_label_12,has_label_13,has_label_14,Index,model 4
-0,Alex,2020-11-15 21:57:28.445876,I made an E-Cig (Box Mod),GP0mOpG0Vck,https://www.youtube.com/watch?v=GP0mOpG0Vck,Simply Electronics,https://www.youtube.com/channel/UCiLgdNKZCiod7k5nsrUkOJA,"ahh, why not share an invention!",2016-06-12T23:11:18Z,Science & Technology,5515,64.0,5.0,10.0,[],True,5.0,13.0,True,5.0,2.0,True,5.0,4.0,True,6.0,6.0,True,3.0,9.0,True,5.0,2.0,True,5.0,10.0,True,5.0,3.0,True,7.0,1.0,False,,,True,5.0,10.0,True,5.0,11.0,True,5.0,15.0,True,6.0,6.0,True,5.0,4.0,False,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,219.0,3
-0,Alex,2020-11-15 21:58:51.682046,Which E Cig Is Closest To A Real Tobacco Cigarette? (And Specifically Marlboro Reds),e0vBqKcsTM8,https://www.youtube.com/watch?v=e0vBqKcsTM8,Martin Lotsberg,https://www.youtube.com/channel/UCE1gk_WqpRj_7EFuN1uRAVQ,"which e cig is closest to a real cigarette? (and specifically marlboro reds) - here's my vote for both the closest to a real cigarette and the electronic cigarette that is the most like a marlboro red, as well as a couple other aspects of it, such as one way to save a lot of money compared to smoking regular tobacco cigarettes.
+0,Alex,2020-11-15 22:18:49.192110,E-Cigarettes: To Vape or Not To Vape?,_wAM3ql4HWs,https://www.youtube.com/watch?v=_wAM3ql4HWs,Ontario Tobacco Research Unit,https://www.youtube.com/channel/UCKkEUo7pyC5s8lUjNVRyFyw,"should non-smokers vape? is vaping less harmful than smoking? can smokers quit by using e-cigarettes?
 
-buy v2 here: http://bit.ly/1j6n0cj
+more information about otru's research on e-cigarettes can be found at http://otru.org/research-evaluation/e-cigarettes/. you many also be interested in our review in n&tr. malas m, van der tempel j, schwartz r, minichiello a, lightfoot c, noormohamed a, et al. (2016). electronic cigarettes for smoking cessation: a systematic review. nicotine & tobacco research, 18(10), 1926-1936.
 
-save 10-15%:
+animation thanks to dan depeuter, thunder bay district health unit.",2017-03-08T16:20:25Z,Education,54730,,,,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,6.0,14.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,3103.0,3
+0,Alex,2020-11-15 22:20:31.777722,Sniper: Assassin's End OFFICIAL TRAILER - Available on Blu-ray & Digital 6/16,Ub9EikTkrTk,https://www.youtube.com/watch?v=Ub9EikTkrTk,Sony Pictures Entertainment,https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw,"special ops sniper brandon beckett (chad michael collins) is set-up as the primary suspect for the murder of a foreign dignitary on the eve of signing a high-profile trade agreement with the united states. narrowly escaping death, beckett realizes that there may be a dark operative working within the government and partners with the only person whom he can trust, his father legendary sniper sgt. thomas beckett (tom berenger). both becketts are on the run from the cia, russian mercenaries, and a yakuza-trained assassin with sniper skills that rival both legendary sharp shooters.
 
-enter coupon code save for 15% off starter kits.
+#sony #sniperassassinsend #sniperfilms #sniper #assassinsend #sonypictures",2020-05-11T19:01:03Z,Entertainment,950595,10799.0,353.0,527.0,[],True,3.0,7.0,True,3.0,8.0,False,,,False,,,False,,,False,,,False,,,False,,,True,3.0,16.0,False,,,True,3.0,9.0,True,2.0,10.0,True,3.0,14.0,True,3.0,1.0,True,3.0,8.0,True,3.0,10.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,1754.0,3
+0,Alex,2020-11-15 22:21:12.620545,Multi-Level Prevention Strategies to Address Teen E-Cigarette Use,QE8QyZW3Jqo,https://www.youtube.com/watch?v=QE8QyZW3Jqo,SAMHSA,https://www.youtube.com/channel/UCAkmVsd_pi2eLlfaPJ0iSCA,"this webinar highlights the latest data trends, challenges in youth e-cigarette prevention, evidence-based tools and resources, and strategies for curbing e-cigarette use among youth. viewers will receive valuable information and resources to help address e-cigarette use among teens in their communities. presenters include prevention leaders from samhsa, the centers for disease control and prevention, the truth initiative, and the u.s. food and drug administration. find more resources and learn about samhsa’s national prevention week at samhsa.gov/prevention-week.",2019-02-28T20:35:33Z,Education,2546,8.0,0.0,0.0,[],True,4.0,3.0,True,4.0,7.0,True,4.0,10.0,True,4.0,1.0,True,7.0,1.0,True,4.0,5.0,True,4.0,2.0,True,4.0,4.0,True,4.0,5.0,False,,,True,4.0,6.0,True,4.0,15.0,True,4.0,10.0,True,4.0,3.0,True,4.0,7.0,True,3.0,9.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,41.0,3
+0,Alex,2020-11-15 22:22:11.819616,the best supplier for disposable vape pen,mi4oX34oGVk,https://www.youtube.com/watch?v=mi4oX34oGVk,Tony Chou,https://www.youtube.com/channel/UCLdAJ6m6yu7yFT-QNr3Enbg,"the best supplier for disposable vape pen, electronic ecigarette from 2009, this vape pen has been selling on market for 9 year! contact me for oem service at whatsapp :+86-18948315518, wechat: 170819299",2018-04-28T13:11:51Z,People & Blogs,5833,59.0,9.0,19.0,[],False,,,True,5.0,14.0,False,,,False,,,False,,,True,3.0,12.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,3.0,False,,,True,5.0,8.0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,2062.0,3
+0,Alex,2020-11-15 22:24:28.848265,Vapourlites VL Micro Disposable E-Cigarette Review,JDfr8MBPaCM,https://www.youtube.com/watch?v=JDfr8MBPaCM,TheVapourmists,https://www.youtube.com/channel/UCrPWpjO-QOkpzut3ct32h5Q,"a look at the vl micro disposable e-cigarette from http://vapourlites.com , weighing in at just 5 grams...ahh...bless :) .
+intro & outro music by kevin mccloud 2009 ""what you want v2"" cc attribution v3.0 , powerdirector 11 soundbank royalty free music and apple ilife pack royalty free music,for ""stings",2014-01-18T10:57:32Z,Science & Technology,1435,18.0,0.0,10.0,['tricks'],True,5.0,4.0,True,4.0,18.0,True,5.0,4.0,True,5.0,2.0,True,4.0,16.0,True,4.0,18.0,True,5.0,3.0,True,4.0,18.0,True,5.0,9.0,True,6.0,14.0,True,5.0,2.0,True,5.0,2.0,True,5.0,3.0,True,5.0,0.0,True,4.0,18.0,True,4.0,15.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,1509.0,3
+0,Alex,2020-11-15 22:27:42.631177,Top E Juice Brands | Top 3 E Juice Brands,is4H_Qv7rVs,https://www.youtube.com/watch?v=is4H_Qv7rVs,iknowecigs,https://www.youtube.com/channel/UCAEqO6Op7BKvRDcmZ7PTfCA,"top e juice brands | top 3 e juice brands
 
-enter coupon code save for 10% off all v2 products.
+v2 cigs got bought by juul - very sad day for me
 
-here's our full review of v2 cigs,. you can buy them through this page also:
-http://www.ecigintel.com/v2-cigs-e-cigarette-review/
+new favorite apollo - learn more about apollo
+http://iknowecigs.com/recommends/apollo-ecigs
 
-v2 cigs review video:
-http://www.youtube.com/watch?v=xawr3ibijw0
+learn more about - vapor fi
+http://iknowecigs.com/recommends/vaporfi
 
-follow us on facebook:
-https://www.facebook.com/ecigarettereviewsbyklks
+learn more about - mig vapor
+http://iknowecigs.com/recommends/mig-vapor
 
-https://www.ecassoc.org/electronic-cigarettes/
+ok guys so today i wanted to talk about what i consider to be some of the top e juice brands on the market.  
 
-https://www.ecassoc.org",2013-08-25T16:13:03Z,Howto & Style,14818,45.0,0.0,3.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,4.0,11.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,3291.0,0 1
-0,Alex,2020-11-15 21:59:43.910463,Pepega Edition Finale - HOW will it end?! | NFS MW KuruHS,0M4w8ZkAuIg,https://www.youtube.com/watch?v=0M4w8ZkAuIg,KuruHS,https://www.youtube.com/channel/UCK9i4hUwQEpzMi0KBxrYAzg,"livestream https://www.twitch.tv/kuruhs
-cheap game keys: https://www.instant-gaming.com/en/?igr=kuruhs
-madmonq gamer supplement: https://www.madmonq.gg/kuru
+starting in no particular order with vapor fi, which is on most peoples top e juice brands list and here's why.  vapor fi offers one of the widest range of e liquids on the market.  with vapor fi you can a create your own blend with over 30,000 custom blends or if you lazy like me or just indecisive, you can pick from 115 pre-made flavors that they offer.   now one of the coolest things about vapor fi is that they offers different mixes of pg /vg with the standard e liquids using 70/30 or 50/50 blend, their reserve collection uses a 40/60 blend and their grand reserve collection uses a 30/70 blend.  so they have something for everyone.   4 flavors that i really like are the catch ya latte, which is from the grand reserve line, it's a 30/70 pg vg ration and smells and taste like freshly brewed espresso and is super awesome.  just a side note, the e juice from vapor fi's grand reserve line are a little more pricey currently costing $21.99, but i can tell a big difference in flavor compared to their other lines and these all come in 30ml bottles.  another flavor from the grand reserve line i like is called cloud candy.  vapor fi describes it as gummy bears swimming in a pool of gelatin under fluffy clouds of cotton candy and i must admit it's pretty sweet!  if you looking for something a little less pricey from the reserve line, black velvet is really good.  it's like  a cherry soft drink flavor, which i'm a big cherry coke, cherry dp, cherry any kind of soft drink kind of guy.  so this fields that void for me.  this one i got on the cheap off their site for $9.99.  and if i'm picking something from their  standard e liquid flavor line, i have to go with very vanilla.  i'm just a sucker for vanilla e juice.  all of vapor fi's e juices are 100% made in the usa, come with child proof bottle tops, and lot numbers so you can trace back the origins of your eliquid.  also vapor fi has registered all their formulas with the fda and their e-liquid lab is also registered with the fda as a tobacco manufacturer.  
 
-🎮 capture your gameplay the same way i do! 👉 http://e.lga.to/kuruhs
-kuru controllers: https://www.controllerchaos.com/kuruh...
+which brings me to the v2 cigs.  v2 cigs is not really known as one of the top e juice brands mainly because they just don't have the selection.  their platinum e liquids come in 12 flavors including tobacco  flavors of v2 red, sahara and congress; the chill flavors of v2 menthol, peppermint and green tea menthol; and sweet flavors of grape, cherry, chocolate, vanilla, coffee and v2 cola.  
+all the v2 e liquid bottles come with a clearly labelled batch number and expiration date. you can enter your batch number into their website and it will send you a pdf of that batch report. unlike a lot of other e juice manufacturers v2 cigs clearly state exactly what is in their vape juice, including the flavors and sweeteners they use.   the 2 flavors that really stand out of me are v2 cigs vanilla e juice, which is really good and their menthol which is really similar to a marlboro menthol flavor.  v2's vape juice is comes in 25ml bottles and 50ml bottles.  the 25ml currently runs $16.95 and he 50ml cost $29.95 before using any kind of disconts.  
 
-discord community https://discordapp.com/invite/kuru
-twitter https://twitter.com/kuru_hs
+finally i wanted to talk about mig vapor.  mig vapor is starting to build it's reputation as one of the top e juice brands on the market.  they have numerous of lines of vape juice and they got something for everyone and they come in multiple sizes including 15ml at $10.95, 30ml at $17.95 , and even 120ml bottles at $69.95 and you can also pick different vg levels.   their 50/50 line is made for e cigarettes and vaporizer tanks.  they have one of the best tasting tobacco flavors with their ry tobacco, which has a soft gentle tobacco flavor.  and their red line e juice uses super high grade kosher vg.  this line is known for it's intense flavor and is pretty much designed for drippers and mod users.  mig vapor also like vapor fi offers a mix your own e juice option.  with their system you can add up to 75 flavors 5 times which comes out to almost endless possibilities.
 
-you can directly donate to me here: https://streamlabs.com/kuruhs
-crypto donations: https://1upcoin.com/donate/kuruhs
-video edited by: javi_nitro",2020-07-29T14:00:48Z,Gaming,85410,6374.0,28.0,357.0,[],False,,,False,,,False,,,True,2.0,2.0,False,,,False,,,False,,,True,2.0,2.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,2337.0,3
-0,Alex,2020-11-15 22:00:36.494277,50 NEW End Updates we PAID for in Minecraft,ToMGTGig15g,https://www.youtube.com/watch?v=ToMGTGig15g,Logdotzip,https://www.youtube.com/channel/UC2D-GCxeE69hCUmRwISXABw,"new mobs to battle, new blocks to collect, new items to discover and new biomes to explore! this is dev vs dev! 
+more electronic cigarette stuff: http://iknowecigs.com or check out: http://youtube.com/iknowecigs for random electronic cigarette video reviews, news, and coupons.
 
-new minecraft dungeons gameplay! ► https://youtu.be/vhb-8jyje2s 
+follow us on twitter ►http://twitter.com/iknowecigs1
+like us on facebook ►https://www.facebook.com/iknowecigs
+instagram ►http://instagram.com/iknowecigs
+subscribe ► http://www.youtube.com/subscription_center?add_user=iknowecigs
 
-play block ness monster ► http://bit.ly/blocknessmonstergame
-play noob girl's map ► http://bit.ly/alexdanoobgame
-become a member today! ► https://www.youtube.com/channel/uc2d-gcxee69hcumrwisxabw/join
-buy logdotzip shirts & more ► https://logdotzip.merchforall.com/
+top e juice brands |top 3 e juice brands
+https://youtu.be/is4h_qv7rvs",2016-05-02T03:13:59Z,People & Blogs,31410,127.0,31.0,18.0,['tricks'],True,3.0,12.0,True,4.0,3.0,True,4.0,7.0,True,3.0,19.0,True,3.0,4.0,True,6.0,14.0,True,4.0,0.0,True,4.0,0.0,False,,,True,4.0,9.0,True,6.0,7.0,True,4.0,2.0,True,3.0,15.0,True,3.0,15.0,True,6.0,9.0,True,5.0,2.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,626.0,1
+0,Alex,2020-11-15 22:28:15.759398,How The Fed Bubble Ends | What You MUST KNOW,sOHA1Y5tjJo,https://www.youtube.com/watch?v=sOHA1Y5tjJo,Mark Moss,https://www.youtube.com/channel/UC9ZM3N0ybRtp44-WLqsW3iQ,"the markets are booming right now, thanks to the federal reserve and the federal government's massive stimulus money program. but... what happens when it ends - how will the fed bubble end?
+_________________________________________________________________________ 🔥 sign up for my free 1hr training 🔥 
+this obscure scientific law teaches us a system to make money in any market - while lowering risk and protecting your money 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬
+*click here to sign up*: https://go.1markmoss.com/bb-training __________________________________________________________________________ in this video we're going to look at why the fed can't just keep printing money forever, what risks it poses and what are the warning signs of when it's finally going to end. this is a massive bubble that's finally going to burst, we're gonna take a look at it 
 
-in today's dev vs dev we showcase 50 new end updates in minecraft created by 5 of our developers. ranging from deadly new mobs to battle, to new ores and blocks to collect, alongside new items to discover and even new biomes to explore. let us know which was your favorite in the comments below! 
+this is a standalone video, but it's also a continuation of the previous video that i did, where i basically made the case that the markets, still have a ways to go. everyone's waiting for a crash. i know previously i said that the markets, still have a ways to go and as i said in that video, i can make the case, really good. either way, i can argue that the markets are going to keep going up for a while. i can argue that there shouldn't be crashing at any moment 
 
-50 new end updates we paid for in minecraft
+now in the other video. it was the bullish case why because still go up in this video, it's the bearish case. so, if you want to go see the other video you can go watch that here: https://youtu.be/dyuq3o6xobc 
 
-#minecraft #end #update
+for now, we're going to talk about when the bubble finally burst when the fed finally runs out of ammo. and of course, in this market that we're in, talks about it all the time we see this over and over where everybody basically says, don't fight the fed. 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬
+and what does that mean the federal reserve, if so much money that they're printing they're pumping trillions of dollars in the market and it's pushing the market higher so it's kind of that old saying if you can't beat them, join them. 
 
-my youtube channels: subscribe 🔔 and click the bell!
-subscribe to logdotzip ► https://www.youtube.com/channel/uc2d-gcxee69hcumrwisxabw?sub_confirmation=1
-subscribe to logdotzip pe ► https://www.youtube.com/channel/ucjohkw_bbprzq23m_5hxrzg?sub_confirmation=1
-subscribe to dotzip ► https://www.youtube.com/channel/uc3k2qbjcrvzg1e5xpyc0xzw?sub_confirmation=1
+and so don't try to beat the fed just bet with the fed, because the fed put all right now, the fed has made it abundantly clear that they do not want to let the markets crash. but at some point. they're going to run out of ammo. now, for now, as long as they keep hoping the market for liquidity in the markets should still keep going up. 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬
+so if the feds gonna do that, like i said, then we just want to bet alongside them. so far it's been working. it's easy to see if we go all the way back you know just till 2008 to the great financial crash. you can see that the fed ballooned their balance sheets during the financial crash, and then you can see in the markets, how they shot higher from that stimulus. 
 
-hang out with logdotzip!
+_____________________________________________________________________ ★☆★ connect with mark on social media ★☆★ facebook: https://www.facebook.com/1markmoss/ twitter : https://twitter.com/1markmoss instagram: https://www.instagram.com/1markmoss/ linkedin: https://www.linkedin.com/in/markmoss/ __________________________________________________________________________ ★☆★ join the community ★☆★ https://www.facebook.com/groups/4pillarportfolio/ __________________________________________________________________________ disclaimer: i am not a financial advisor, and nothing i say is meant to be a recommendation to buy or sell any financial instrument. i will never ask you to send me money to trade for you. please report any suspicious emails or fake social media profiles claiming to be me. don't invest money you can't afford to lose. there are no guarantees or certainties in trading or investing. my videos may contain affiliate links or sponsorship to products i believe will add value to your life and help you in trading. no matter what i or anyone else says, it’s important to do your own research before making a financial decision involving cryptocurrencies. 
 
-fan discord ► http://discord.gg/logdotzip
+#stockmarketcrash #bubbleburst #fedbubble",2020-07-28T19:00:17Z,Education,78921,4497.0,190.0,758.0,['tutorial'],False,,,False,,,True,2.0,18.0,False,,,False,,,True,2.0,0.0,True,2.0,0.0,False,,,True,2.0,0.0,False,,,True,2.0,1.0,False,,,True,2.0,7.0,True,2.0,8.0,True,2.0,4.0,True,2.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,2214.0,3
+0,Alex,2020-11-15 22:29:40.213266,What is E-Liquid?,-gf2xx8lXzE,https://www.youtube.com/watch?v=-gf2xx8lXzE,Vaping360,https://www.youtube.com/channel/UCUT5YiVAmOd94A8qklZCJLA,"learn everything you need to know about e-liquid in under 90 seconds. 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬
+----
+see full article on vaping360:
+► http://vaping360.com/best-e-juice-e-liquid-and-vape-juices/
 
-my social media:
-📰 facebook ► http://facebook.com/logdotzip
-💬 twitter ► http://twitter.com/logdotzip
-📸 instagram ► http://instagram.com/logdotzip
+follow us on social media:
+►facebook: https://www.facebook.com/vaping360
+►twitter: https://twitter.com/vaping360
+►instagram: https://www.instagram.com/vaping360
+►google+: https://plus.google.com/+vaping360
+►flickr: http://www.flickr.com/photos/vaping360",2017-08-25T19:02:33Z,Education,11847,68.0,5.0,3.0,[],True,7.0,10.0,False,,,False,,,False,,,True,6.0,15.0,False,,,False,,,True,7.0,17.0,True,5.0,19.0,True,6.0,15.0,True,7.0,14.0,False,,,True,7.0,7.0,False,,,True,7.0,13.0,False,,,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,638.0,3
+0,Alex,2020-11-15 22:32:26.109807,What Is Squonking (bottom feed mods)? A Vape Nerd Squonk Tutorial,vIww8ebeSEk,https://www.youtube.com/watch?v=vIww8ebeSEk,FlavourVapour,https://www.youtube.com/channel/UCgfbXuWeYy6CYEcOL33EpWQ,"what is squonking? we let our tamed vape nerd give you the low-down on squonk mods, squonking, squonk ready rda & bottom feed mods...
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬
+for more information on these products;
 
-🎶 music courtesy of epidemic sound
-all music used with permission from its creator.",2020-05-31T17:41:04Z,Gaming,1138807,19061.0,451.0,1438.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,4.0,12.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,3783.0,3
-0,Alex,2020-11-15 22:02:48.327955,iStick D by Eleaf - Best Disposable?,s9Y4VxsrrYU,https://www.youtube.com/watch?v=s9Y4VxsrrYU,Matt From SMM,https://www.youtube.com/channel/UCaABLqKOy33BcQBU0bG1mmA,"in this video we check out the istick d by eleaf. this is a disposable pod system that has a 280 mah battery and holds 1.5ml of liquid. 
+dot squonk: https://flavourvapourltd.wordpress.com/2019/11/04/best-mods-of-2019/
 
-facebook
- https://www.facebook.com/smmvapereviews
-instagram
-https://www.instagram.com/suckmymod/
-twitter
-https://twitter.com/suckmymod
+vandy vape pulse bf box mod:
+https://flavourvapourltd.wordpress.com/2019/11/04/best-mods-of-2019/
+--------------------------------------------------------------------
 
-check out our new youtube channel!
-https://www.youtube.com/c/mattandv
+subscribe to our bi-weekly videos:
+https://www.youtube.com/user/flavourvapourltd?sub_confirmation=1
 
-once again don’t forget to join http://casaa.org 
+sit tight & strap in as we take you on a irreverent adventure through the world vaping. from advice to smokers, tips for first time vapers, hints for experienced vapers or cloud chasing pointers for the vape-nerd, we'll cover it all here with bi-weekly uploads. 
 
-these videos are my opinions based on the experiences i have had with the product. some of the products i have received at no charge or at a discount for the purpose of review. i retain the right to say whatever i want about the products, and i have always been 100% honest in my videos.",2019-12-29T21:51:17Z,Science & Technology,8699,239.0,20.0,41.0,[],False,,,True,3.0,3.0,True,3.0,11.0,False,,,True,4.0,16.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,2088.0,3
-0,Alex,2020-11-15 22:04:26.570180,How to Rewick Smok Infinix Vape Pod,DjKGPpJXnYk,https://www.youtube.com/watch?v=DjKGPpJXnYk,Pypson,https://www.youtube.com/channel/UCUpOUFeijRzi5NWBAUKv_HQ,"this video is showing how to rewick, change cotton on smok infinix vape pods. its a 2 minute job once you get it right. getting it right will save you cash.
+be sure to subscribe to the channel to keep up to date with the latest products & news from the vaping world.
 
-subscribe obviously to my channel because you haven't yet, i need 1k subscribers, cmon man.
+if you like what we do, please subscribe to channel and join the fun over on:
 
-how to setup & refill smok infinix vape pod tutorial https://www.youtube.com/watch?v=frjolaeis-k
+instagram: https://www.instagram.com/flavourvapourltd/
+facebook: https://www.facebook.com/flavourvapour.co.uk
+alex on instagram: https://www.instagram.com/incrediblesulk83/
 
-follow my other socials 
-facebook : https://www.facebook.com/pypson911/
-instagram: https://www.instagram.com/pypson911/",2019-04-19T00:08:55Z,Science & Technology,21772,449.0,6.0,66.0,['tutorial'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,6.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,3686.0,3
-0,Alex,2020-11-15 22:07:15.416338,"12 states ban e-cigarettes, health ministry urges all to follow | Doctors claim Its  health risks",v-JU3r-lKos,https://www.youtube.com/watch?v=v-JU3r-lKos,WeGYAN,https://www.youtube.com/channel/UCquq5KHL-LjZMEeCp5AFAYA,"12 states ban e-cigarettes, health ministry urges all to follow | doctors claim its  health risks 
-doctors claim e-cigarettes pose significant health risks to users that are frighteningly similar to those of conventional cigarettes
-ends emits nicotine, the addictive component of tobacco products
 
-following an advisory from the ministry of health and family welfare issued last year, at least 12 states in india have banned electronic nicotine delivery systems (ends). states of punjab, maharashtra, karnataka, kerala, bihar, uttar pradesh, jammu & kashmir, himachal pradesh, tamil nadu, puducherry and jharkhand have taken steps to ban the use of ends, officials in the union health ministry have said.
 
-of late there has been an increasing popularity of ends, more commonly known as e-cigarettes or “vapes"" in india. e-cigarettes do not fall within the scope of existing national legislation on tobacco production, distribution, and use. yet doctors claim they pose significant health risks to users that are frighteningly similar to those of conventional cigarettes.
-
-in august 2018, the ministry had issued an advisory to all states and union territories to ensure that ends, e-cigarettes, heat-not-burn devices, vape, e-sheesha, e-nicotine flavoured hookah, and similar devices that enable nicotine delivery are not sold (including online sale), manufactured, distributed, traded, imported and advertised in their jurisdictions. the move came in the wake of the delhi high court taking strong exception to the centre for delay in coming up with appropriate measures to tackle the “new emerging threat"" of e-cigarettes in the country. recently, the directorate general of health services (dghs), central drugs standard control organization (cdsco), had also issued a similar order.
-#e-cigarettes
-#health
-#healthnews",2019-03-13T13:02:17Z,News & Politics,118,0.0,1.0,0.0,[],False,,,False,,,False,,,False,,,True,3.0,2.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,2853.0,3
-0,Alex,2020-11-15 22:08:20.681196,Report Release: Public Health Consequences of E Cigarettes,vifAY4YcVbQ,https://www.youtube.com/watch?v=vifAY4YcVbQ,NASEM Health and Medicine Division,https://www.youtube.com/channel/UCTsNAwHTqog3hVKIhLR-myw,"read the full report here: 
-http://nationalacademies.org/hmd/reports/2018/public-health-consequences-of-e-cigarettes.aspx",2018-01-23T20:35:26Z,Science & Technology,10620,29.0,4.0,3.0,[],False,,,False,,,False,,,False,,,True,5.0,13.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,2899.0,3
-0,Alex,2020-11-15 22:09:20.866482,Case Closed | Study Shows No Lung Damage from Vaping,2hcp6EEC4TM,https://www.youtube.com/watch?v=2hcp6EEC4TM,Regulator Watch,https://www.youtube.com/channel/UC1oVxQf3SyK3YC9_n1e1Jwg,"no lung damage. that’s the key finding from the first of its kind long-term study investigating the health impacts of vaping. 
-
-conducted by dr. riccardo polosa, world-renowned researcher and director of the institute for internal medicine & clinical immunology at the university of catania in italy, the study measured and tracked the health outcomes of a cohort of daily e-cigarette users for 3.5-years.
-
-the results shatter the myths promulgated by public health propagandists in the progressives’ war against vaping.
-
-get the story in this exclusive interview with dr. polosa—only on regwatch by regulatorwatch.com.
-
-produced by: brent stafford
-released december 19, 2017
-
-watch web extra: unmet need | mental illness and vaping
-https://youtu.be/gk4jefksbyk
-
-get the study: https://regwat.ch/2bmhtx7
-#regwatch #vaping",2017-12-20T06:51:29Z,News & Politics,212192,4009.0,114.0,671.0,['EVALI'],True,6.0,19.0,True,7.0,4.0,True,7.0,5.0,True,7.0,5.0,False,,,True,7.0,5.0,True,7.0,6.0,False,,,False,,,True,6.0,4.0,True,7.0,2.0,False,,,False,,,False,,,True,7.0,4.0,False,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,429.0,3
-0,Alex,2020-11-15 22:12:32.655789,Cigalike E cigs - Using Your Starter Kit Essential - 180 Smoke Visual Help Desk,nAWJWWzIiuU,https://www.youtube.com/watch?v=nAWJWWzIiuU,180 SMOKE VAPE STORE,https://www.youtube.com/channel/UCi8p8cIFzikgMA7BD1Q2TIA,"here's a quick tutorial on how to use your cigalike starter kit essential from 180 smoke!
-
-for purchasing visit: http://www.180smoke.ca/starter-kit-essential-5-cartomizers?options=cart
-
-for refills visit: http://www.180smoke.ca/cartomizer-cartridges-refills
-
-for replacement batteries: http://www.180smoke.ca/starter-kit-cigalikes-battery?options=cart
-
-www.180smoke.ca",2015-03-23T16:25:52Z,Nonprofits & Activism,1577,4.0,0.0,0.0,['tutorial'],True,3.0,5.0,True,3.0,1.0,True,3.0,1.0,True,2.0,16.0,True,2.0,18.0,True,3.0,7.0,True,2.0,16.0,True,2.0,14.0,True,2.0,17.0,True,3.0,4.0,True,3.0,4.0,True,2.0,4.0,True,3.0,5.0,True,2.0,18.0,True,3.0,4.0,True,2.0,3.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,931.0,1
+subscribe to the channel:
+https://www.youtube.com/user/flavourvapourltd?sub_confirmation=1 sign up to the newsletter: sign up to the newsletter: https://smokefreecommunity.co.uk/flavour-vapour-mailing-list/ https://smokefreecommunity.co.uk/flavour-vapour-mailing-list/",2018-02-07T17:55:48Z,Howto & Style,30514,249.0,7.0,140.0,['tricks'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,2.0,True,7.0,18.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,3128.0,3
