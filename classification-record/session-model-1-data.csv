@@ -1,368 +1,81 @@
 ,Name,Timestamp,Index,Video_Title,Video_ID,Video_URL,Channel_Name,Channel_URL,Description,Publish_Date,Category,View_Count,Like_Count,Dislike_Count,Comment_Count,Classification,hispanicmale24_Search_Appearance,hispanicmale24_Page,hispanicmale24_Ranking,hispanicfemale24_Search_Appearance,hispanicfemale24_Page,hispanicfemale24_Ranking,whitemale24_Search_Appearance,whitemale24_Page,whitemale24_Ranking,whitefemale24_Search_Appearance,whitefemale24_Page,whitefemale24_Ranking,africanamericanmale24_Search_Appearance,africanamericanmale24_Page,africanamericanmale24_Ranking,africanamericanfemale24_Search_Appearance,africanamericanfemale24_Page,africanamericanfemale24_Ranking,whitemale24_2_Search_Appearance,whitemale24_2_Page,whitemale24_2_Ranking,whitefemale24_2_Search_Appearance,whitefemale24_2_Page,whitefemale24_2_Ranking,hispanicmale16_Search_Appearance,hispanicmale16_Page,hispanicmale16_Ranking,hispanicfemale16_Search_Appearance,hispanicfemale16_Page,hispanicfemale16_Ranking,whitemale16_Search_Appearance,whitemale16_Page,whitemale16_Ranking,whitefemale16_Search_Appearance,whitefemale16_Page,whitefemale16_Ranking,whitemale16_2_Search_Appearance,whitemale16_2_Page,whitemale16_2_Ranking,whitefemale16_2_Search_Appearance,whitefemale16_2_Page,whitefemale16_2_Ranking,africanamericanmale16_Search_Appearance,africanamericanmale16_Page,africanamericanmale16_Ranking,africanamericanfemale16_Search_Appearance,africanamericanfemale16_Page,africanamericanfemale16_Ranking,electronic_cigarette_search,e-cigarette_search,e-cig_search,vape_search,vaping_search,e-liquid_search,e-juice_search,vape_pods_search,vape_mods_search,cigalikes_search,box_mods_search,vape_pens_search,pod_mods_search,disposable_vape_search,disposable_e-cigs_search,disposables_search,vape_juice_search,ends_search,has_label_0,has_label_1,has_label_2,has_label_3,has_label_4,has_label_5,has_label_6,has_label_7,has_label_8,has_label_9,has_labels,has_label_10,has_label_11,has_label_12,has_label_13,has_label_14,Comment,model 1
-0,Alex,2020-11-20 17:33:39.450313,11,Electronic Cigarettes and Vaping,9dZS_Rniak0,https://www.youtube.com/watch?v=9dZS_Rniak0,David Geffen School of Medicine UCLA,https://www.youtube.com/channel/UCEYQ_9JVn9FPpn_lkRLLelg,"people have been smoking for at least 7,000 years, but it wasn't until the 1800s that cigarettes became the smoke of choice, after machines were developed to mass produce them. 200 years later, in 2003, the electronic cigarette was invented in china. since then, the use of e-cigarettes, also known as vaping, has grown exponentially around the world.",2017-08-23T15:22:02Z,Science & Technology,290268,1764.0,926.0,480.0,[],True,2.0,5.0,True,2.0,14.0,True,2.0,14.0,True,2.0,3.0,True,2.0,11.0,True,6.0,18.0,True,2.0,3.0,True,2.0,1.0,True,6.0,4.0,True,2.0,7.0,True,7.0,16.0,True,3.0,1.0,True,2.0,5.0,True,6.0,4.0,True,7.0,15.0,True,4.0,1.0,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,1
-0,Alex,2020-11-20 17:34:37.903382,987,My blu rewick refill hack!!my blu refillable pod system hack,Ug2to8Kl9Dk,https://www.youtube.com/watch?v=Ug2to8Kl9Dk,Geremy,https://www.youtube.com/channel/UCr948_bprNFspR-Cdi415Ig,"in this video i will show you how to hack the my blu pod system and rewick/refill with tour own cotton / ejuice 
-goto www.blu.com
-for the 1$ starter kit 
-thanks for watching please like and suscribe for more vape videos",2018-08-08T13:50:29Z,Gaming,49260,555.0,38.0,144.0,['tutorial'],True,6.0,8.0,True,6.0,5.0,True,6.0,9.0,True,6.0,7.0,True,7.0,13.0,True,6.0,16.0,True,6.0,6.0,True,6.0,7.0,False,,,True,6.0,16.0,True,6.0,10.0,True,6.0,4.0,True,6.0,17.0,True,6.0,3.0,True,6.0,15.0,True,5.0,13.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,3 7
-0,Alex,2020-11-20 17:35:44.993989,2249,Top 3 Vaping Starter Kits of 2019 For The First Time Vaper,95G_S4MGls8,https://www.youtube.com/watch?v=95G_S4MGls8,FlavourVapour,https://www.youtube.com/channel/UCgfbXuWeYy6CYEcOL33EpWQ,"top 3 vaping starter kits of 2019 for the first time vaper
+0,Alex,2020-11-24 17:52:19.840230,3276,Exploring the secret world of vaporizer tricks and mods,wqplhtADAzc,https://www.youtube.com/watch?v=wqplhtADAzc,The Verge,https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ,"last week, the e-cigarette industry had a run-in with the girl scouts. the issue? thin mint-flavored e-liquid. wacky flavors are a huge part of the culture that has cropped up around nicotine vaporizers, but it doesn't stop there. in addition to creating their own custom flavors, vapers like to tamper with the insides of their devices to make what are called ""mods."" it's sort of like rolling your own cigarettes rather than buying packs. vape shops do a robust business in ""rebuildable"" devices, while the internet offers endless youtube videos and forum posts explaining how to alter the atomizer to get a stronger flavor or tweak the battery to get a deeper puff. just be careful it doesn't explode.",2014-05-28T13:08:31Z,Science & Technology,243380,904.0,176.0,146.0,"['marijuana', 'tutorial', 'tricks']",False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,5.0,10.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,True,False,False,False,False,False,tech review conglomorate,1 3 7
+0,Alex,2020-11-24 17:54:20.291047,2253,Vaping Valerian Root in Your Ascent Vaporizer - You Can Vape What?!,8t8shEaXkH8,https://www.youtube.com/watch?v=8t8shEaXkH8,DaVinci Vaporizer,https://www.youtube.com/channel/UCTHbbC9ONjmD58YXpfcCCkw,"http://www.davincivaporizer.com - on this episode of ""you can vape what?!"", we'll show you how you can vape valerian root with the ascent portable vaporizer. click now to see the video.
 
-for more information:
-innokin endura t18 ii: https://smokefreecommunity.co.uk/innokin-endura-t18-starter-kit/
-smok nord aio pod: https://smokefreecommunity.co.uk/smok-nord-2-pod-starter-kit/
+valerian root has a ton of beneficial properties and is commonly said to have a sedative effect.
 
-#startervape #beginnervape #bestmtl
-------------------------------------------------------------------
-subscribe to the channel:
-https://www.youtube.com/user/flavourvapourltd?sub_confirmation=1 
-sign up to the newsletter: https://smokefreecommunity.co.uk/flavour-vapour-mailing-list/ https://smokefreecommunity.co.uk/flavour-vapour-mailing-list/ https://smokefreecommunity.co.uk/flavour-vapour-mailing-list/",2020-01-03T15:00:02Z,Howto & Style,12555,166.0,12.0,20.0,['tutorial'],False,,,False,,,False,,,True,7.0,18.0,False,,,False,,,False,,,False,,,True,3.0,4.0,False,,,False,,,True,7.0,14.0,False,,,False,,,False,,,False,,,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,vaping blog ,0
-0,Alex,2020-11-20 17:36:53.924634,666,Juul Pods vs Jones Pods,R6woXxjYdEA,https://www.youtube.com/watch?v=R6woXxjYdEA,LiamsGhosts,https://www.youtube.com/channel/UCHLxd9CFzIt813EUIxAdPAQ,"today i decided to review juul pods vs jones pods( juul compatible). thank you for watching hope you enjoy 
+to start, load your bowl with your favorite organic valerian root. close it up and power on. bring the temperature up to 400 fahrenheit or 220 celsius and you're ready to vape.
 
+thanks for watching everybody! for more vape and aromatherapy content be sure to subscribe to our channel. feel free to check out our site at http://www.davincivaporizer.com today! 
 
-follow me on social media’s! 
 
-ig- liamkran
 
-snapchat- liamkran
+** show us some love **
 
-for business inquires- liamsghosts@gmail.com",2019-07-09T21:00:03Z,People & Blogs,72651,1581.0,57.0,136.0,[],True,2.0,6.0,True,3.0,11.0,True,3.0,9.0,True,4.0,1.0,False,,,True,4.0,8.0,True,4.0,2.0,True,2.0,4.0,True,7.0,2.0,True,3.0,9.0,True,2.0,4.0,True,2.0,6.0,True,2.0,7.0,True,5.0,18.0,True,4.0,2.0,True,7.0,15.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-11-20 17:37:19.620241,3088,Britney Spears - Till The World Ends (Official Video),qzU9OrZlKb8,https://www.youtube.com/watch?v=qzU9OrZlKb8,BritneySpearsVEVO,https://www.youtube.com/channel/UCZijND2e2tPp2AQL8Go2YSg,"britney spears' official music video for 'till the world ends'. click to listen to britney spears on spotify: http://smarturl.it/britneyspot?iqid=b...
+feel free to share your thoughts by commenting below or
 
-as featured on the essential britney spears. click to buy the track or album via itunes: http://smarturl.it/brineyessitunes?iq...
-google play: http://smarturl.it/britneyttweplay?iq...
-amazon: http://smarturl.it/britneyessamz?iqid...
+drop us a like on facebook: https://www.facebook.com/davincivaporizer
 
-more from britney spears
-make me... ft. g eazy: https://www.youtube.com/watch?v=etfjc...
-criminal: https://youtu.be/s6b33ptbgxk
-i wanna go: https://youtu.be/t-sxsd1uwou
-hold it against me: https://youtu.be/-edv8onsrgg
+follow us on twitter: https://twitter.com/davincivape",2015-12-24T08:30:01Z,Education,4571,23.0,0.0,10.0,[],False,,,False,,,False,,,True,7.0,9.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,dry herb vape,7
+0,Alex,2020-11-24 17:55:29.597491,3098,Tutorial - How to Refill your Electronic Cigarette,-fPrR_A66vg,https://www.youtube.com/watch?v=-fPrR_A66vg,blu UK,https://www.youtube.com/channel/UCEpWeAfwhcY0kx6eKezZlgQ,"learn how to refill your electronic cigarette with blu.
+ 
+the how to refill your electronic cigarette video is an instructional video featuring the blu pro® e-cigarette model.
 
-follow britney spears
-website: http://www.britneyspears.com/
-facebook: https://www.facebook.com/britneyspears
-twitter: https://twitter.com/britneyspears
-instagram: https://instagram.com/britneyspears
-tumblr: http://britneyspears.tumblr.com/
+be sure to watch carefully and take advantage of the useful tips to help you get the most from your blu pro® e-cigarette and blu pro® clearomiser.
 
-subscribe to britney spears on youtube: http://smarturl.it/britneysub?iqid=br...
+overview
 
-more great nineties videos here: http://smarturl.it/ultimate00?iqid=br...
+electronic cigarettes, more commonly known as e-cigarettes or vapes, can be confusing if you’re not entirely sure of how they work.
 
----------
+tackling this, our instructional video explains and demonstrates how to refill your electronic cigarette and the best ways to avoid leaking e-liquid. 
 
-lyrics:
+to get started, all you’ll need is some paper towels, your chosen blu® liquid flavour and of course your blu pro® e-cigarette. everything else is fully explained in the video.
 
-this kitten got your tongue tied in knots, i see
-spit it out cause i'm dying for company
-i notice that you got it
-you notice that i want it
-you know that i can take it
-to the next level, baby
-if you want this good ish
-sicker than the remix
-baby, let me blow your mind
-tonight
+for more top tips on taking care of your blu® e-cigarette, subscribe to our youtube channel today and keep up-to-date with the latest e-cigarette tips and tricks from blu.",2017-02-21T14:27:59Z,Howto & Style,994,2.0,1.0,0.0,"['tutorial', 'tricks']",False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,11.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,vape pen manufacturer (blu),7
+0,Alex,2020-11-24 17:56:00.313945,2345,Elton John - Club At The End Of The Street,m34NGreosnE,https://www.youtube.com/watch?v=m34NGreosnE,EltonJohnVEVO,https://www.youtube.com/channel/UCI8Ry7NdFNLel-S8dWU7mDA,"“club at the end of the street” was the third single from elton’s 1989 album, sleeping with the past. the video was released in april 1990, created by over a half-dozen animators and director derek hayes at animation city in london.
 
-i can't take it, take it, take no more
-never felt like, felt like this before
-come on get me, get me on the floor
-dj what you, what you waiting for?
+explore the music of elton john: https://eltonjohn.lnk.to/essentialsid
 
-woah oh oh oh oh oh ohhh.",2011-04-05T19:38:58Z,Music,193388324,815056.0,35011.0,144594.0,['marijuana'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,2.0,0.0,True,2.0,12.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,britney spears song ,10
-0,Alex,2020-11-20 17:38:01.091655,175,"Michigan Bans Flavored E-Cigarettes, Vaping Products | Morning Joe | MSNBC",jEXOyAt36sM,https://www.youtube.com/watch?v=jEXOyAt36sM,MSNBC,https://www.youtube.com/channel/UCaXkIU1QidjPwiAYu6GcHjg,"michigan gov. gretchen whitmer is putting a ban on flavored e-cigarettes and vaping products beginning wednesday, september 4, 2019. gov. whitmer joins morning joe to discuss.
-» subscribe to msnbc: http://on.msnbc.com/subscribetomsnbc
+buy diamonds 2cd: https://eltonjohn.lnk.to/diamondsid
+buy diamonds deluxe boxset: https://eltonjohn.lnk.to/diamondsdeluxeid
+buy diamonds vinyl: https://eltonjohn.lnk.to/diamondsvinylid
+   
+watch more elton videos: https://eltonjohn.lnk.to/watchmore
+subscribe to elton channel: http://bit.ly/eltonytsubscribe
+ 
+about elton john: 
+welcome to the official elton john channel. subscribe today for a vast video collection of music videos, iconic live performances, exclusive interviews, behind the scenes content and playlists to explore elton’s musical legacy in-depth.
+ 
+follow elton john on...
+facebook: https://eltonjohn.lnk.to/facebookyt
+twitter: https://eltonjohn.lnk.to/twitteryt
+instagram: https://eltonjohn.lnk.to/instayt
+official website: https://eltonjohn.lnk.to/websiteofficial
+join the rocket club newsletter: https://eltonjohn.lnk.to/rocketclub
+ 
+elton john - club at the end of the street
+https://www.youtube.com/user/eltonjohn",2016-12-06T10:00:02Z,Music,912386,6236.0,225.0,357.0,[],False,,,False,,,False,,,True,7.0,13.0,False,,,False,,,True,7.0,15.0,False,,,True,7.0,13.0,False,,,False,,,False,,,True,7.0,14.0,True,7.0,12.0,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,,10
+0,Alex,2020-11-24 17:58:15.646416,513,$15 Vape Juice vs. $500 Vape Juice,bWcTXkyEarQ,https://www.youtube.com/watch?v=bWcTXkyEarQ,Ryan Hall,https://www.youtube.com/channel/UC23zfpquyxJLwpLDDzeBVuQ,"for more information on everything you saw in this video & more, please go here: http://bit.ly/ryanhalltv
 
-msnbc delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. find video clips and segments from the rachel maddow show, morning joe, meet the press daily, the beat with ari melber, deadline: white house with nicolle wallace, hardball, all in, last word, 11th hour, and more.
+my website: https://www.rkhtv.com
 
-connect with msnbc online
-visit msnbc.com: http://on.msnbc.com/readmsnbc
-subscribe to msnbc newsletter: http://msnbc.com/newslettersyoutube
-find msnbc on facebook: http://on.msnbc.com/likemsnbc
-follow msnbc on twitter: http://on.msnbc.com/followmsnbc
-follow msnbc on instagram: http://on.msnbc.com/instamsnbc
+twitter https://twitter.com/rkhtv (@rkhtv)
+instagram https://www.instagram.com/rkhtvinsta/ (rkhtvinsta)
+facebook https://www.facebook.com/rkhtv/",2019-07-05T20:12:28Z,Entertainment,188129,4536.0,89.0,479.0,[],True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,3.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,True,1.0,1.0,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
+0,Alex,2020-11-24 17:59:07.688403,1256,VooPoo Vinci 40W Mod Pod - Unboxing & Review,1-8tSpGbYCo,https://www.youtube.com/watch?v=1-8tSpGbYCo,180 SMOKE VAPE STORE,https://www.youtube.com/channel/UCi8p8cIFzikgMA7BD1Q2TIA,"the vinci by voopoo is available from 180 smoke stores across canada, and at https://www.180smoke.ca/voopoo-vinci-40w-pod-mod
 
-michigan bans flavored e-cigarettes, vaping products | morning joe | msnbc",2019-09-04T16:17:19Z,News & Politics,26014,260.0,941.0,1037.0,[],True,6.0,4.0,True,6.0,7.0,True,6.0,3.0,False,,,False,,,True,6.0,5.0,False,,,False,,,True,6.0,3.0,False,,,True,6.0,5.0,True,6.0,14.0,True,6.0,8.0,False,,,True,6.0,6.0,False,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,,2
-0,Alex,2020-11-20 17:38:59.093148,864,How to make a wood Box mod,SumuheWfDkw,https://www.youtube.com/watch?v=SumuheWfDkw,How To Do,https://www.youtube.com/channel/UCLiMtiFkJY6VrFH7K7Yobhw,"my patreon - https://www.patreon.com/howtodo hello everybody! how do you do? this is project howtodo my name is konstantin, and today i want to show you how i made this wooden box mod.
+for more gear, e-liquid, and vaporizers, visit us at http://www.180smoke.com or http://www.180smoke.ca
 
-more information in the instructables: coming soon
+thanks for checking us out! 
 
+make sure to subscribe to us! we'll update you on the newest vape mods, vaporizers, tanks and any product we carry in our vape shop.
 
-despite the fact that my english is almost perfect, maybe you could notice a small eastern european accent, it's because i'm russian, and answering the question ""why don't you make videos in both languages?"" i actually do, and my russian channel is here - https://www.youtube.com/user/shhitov
+be sure to stay connected with us through our social media!  we'll keep you updated on all the new products we get and deals we offer.
+https://www.instagram.com/180smoke
+https://twitter.com/180smoke
+https://www.facebook.com/180smoke
 
- (the videos are the same, so for english-speaking viewers it makes no sense to subscribe)",2018-02-05T04:58:14Z,Science & Technology,234299,2100.0,176.0,148.0,[],True,2.0,16.0,True,1.0,14.0,True,2.0,3.0,True,2.0,14.0,True,2.0,5.0,True,1.0,16.0,True,2.0,15.0,True,3.0,8.0,True,1.0,16.0,True,3.0,10.0,True,2.0,0.0,True,2.0,12.0,True,2.0,15.0,True,4.0,12.0,True,2.0,0.0,True,7.0,7.0,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,3 7
-0,Alex,2020-11-20 17:39:22.515867,1644,Reloading Kodak Disposable Camera,lB8YOEYRGrs,https://www.youtube.com/watch?v=lB8YOEYRGrs,Alexander B Spencer,https://www.youtube.com/channel/UCgwIHXEHMQmsIoMUNXG9CKQ,"in this video, i show how to open a kodak disposable camera to reuse the camera. even though these cameras are made to be single use and disposable, i am going to show how to open the camera and reuse it to reduce the amount of waste being omitted into the local landfill. when you purchase those cheap fujifilm disposable cameras, sadly those are unable to be reused. i still wanted the look of a disposable camera, so asking for many disposable cameras from the local camera shop i went to testing. among the many cameras on the market, it appears there is only so few that is capable of being reused. hopefully this aids in someone who wants to use disposable cameras and be environmentally friendly. especially being apart generation z we have to do our part to help the environment for the coming years .",2020-05-06T15:06:57Z,Science & Technology,1107,40.0,2.0,7.0,['tutorial'],True,7.0,11.0,True,7.0,10.0,True,7.0,18.0,True,7.0,14.0,True,7.0,12.0,True,7.0,14.0,True,7.0,16.0,True,7.0,19.0,False,,,False,,,True,7.0,11.0,True,7.0,12.0,True,7.0,13.0,True,7.0,12.0,True,7.0,10.0,True,7.0,19.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,disposable camera review ,10
-0,Alex,2020-11-20 17:42:30.437521,737,Better than the Juul Mango Pods!? | DonnySmokes,o4XhZo_425s,https://www.youtube.com/watch?v=o4XhZo_425s,Donny Vapes,https://www.youtube.com/channel/UCni5t6BX5I2OrRn9eStqcKg,"(18+) this video is intended for adults either 18+ or 21+ 
-click the link to get your hoodie today! https://smokesbrand.com/
+the voopoo vinci is a compact 40w mod pod system with stylish and ergonomic design, and a versatile gene.ai chipset powered by a 1500mah internal cell that delivers a superior vaping experience. the rectangular aluminum alloy chassis is lightweight and durable with comfortable to grip beveled edges, and the side inlay panels are strikingly colorful. the magnetic pod attaches firmly to the base and has a side fill port with large silicone plug, capacity for 5.5ml e-liquid, and a wide built in mouthpiece. the pod is compatible with the pnp series of dl, half-dl, and ml press fit coils, and the draw is determined by the direction which the pod is installed - facing the fill plug toward the front leaves all three airflow channels on each side unplugged for an open direct to lung draw; and turning the pod with the fill port facing the back plugs 2.5 of each of the channels on both sides, leaving only half one one exposed for a tight mtl draw. the kit includes a pnp-vm1 dl 0.3ω mesh coil rated for 32-40w recommended for use with freebase nicotine e-liquids under 10mg and a pnp-r1 half-dl 0.8ω dual coil rated for 12-18w and recommended for use with nicotine salt e-juices under 35mg.
 
-in todays video we check out the new mango pod juice and it is insane!! cheers!
 
-business email: donnysmokes@outlook.com
-
-follow my social media!!
-
-instagram: donnyk17
-snapchat: smokes.daddy
-
-_________________________________________________________
-
-#juul #mango #donnysmokes",2019-06-05T21:00:12Z,People & Blogs,73799,1840.0,30.0,270.0,[],True,6.0,3.0,False,,,False,,,True,6.0,3.0,True,7.0,13.0,True,6.0,14.0,True,6.0,4.0,True,6.0,4.0,False,,,True,2.0,6.0,True,6.0,13.0,True,6.0,1.0,True,6.0,7.0,True,5.0,11.0,True,6.0,11.0,False,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-11-20 17:43:15.595162,3379,How to Hack a Blu E cigarette if the battery goes out,GZLhNcOyOl8,https://www.youtube.com/watch?v=GZLhNcOyOl8,Atradies Inc.,https://www.youtube.com/channel/UCCezGs1DCmGnUutK82Rhrow,i created this video with the youtube video editor (http://www.youtube.com/editor),2014-05-21T00:38:41Z,Entertainment,54532,195.0,42.0,42.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,4.0,1.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,3 7
-0,Alex,2020-11-20 17:45:09.685689,3246,Let's Mix: Kings Custard (DIY E-liquid Recipes),yJjA8qaxx3A,https://www.youtube.com/watch?v=yJjA8qaxx3A,DIY or DIE,https://www.youtube.com/channel/UCFoe3PEb1_7sAY1ZgehNP3A,"recipe: https://diyordievaping.com/2018/08/08/lets-mix-kings-custard-diy-e-liquid-recipes/
-
-pick up diyordie one-shot flavor concentrates!
-
-liquidbarn (us) - http://nolife.link/oneshots
-chef's flavours (uk) - http://nolife.link/chefsoneshots
-ecx (us) - http://nolife.link/ecxoneshots
-chef's profit shots (uk short fills) -http://nolife.link/chefsprofitshots
-
-one-shots are the easiest way to mix your favorite recipes, at the cheapest price possible (1/16th the price of commercial eliquid). watch this video to learn how to use them -https://www.youtube.com/watch?v=_nxl_8aplcg
-
-visit the #1 site for diy e-liquid recipe tips, tutorials, and content
-http://www.diyordievaping.com
-
----------- { diyordie recommended } ----------
-
-(us) base - http://www.liquidbarn.com
-code: diyordie will get you 15% off
-the scale i use:
-https://amzn.to/2mtulzj (affiliate)
-
-
----------- { social media } ----------
-
-twitter: https://twitter.com/diyordievaping
-instagram: https://instagram.com/diyordievaping
-facebook: http://facebook.com/diyordievaping
-
-----------------------------------------­----------------------------------------­----------------------------------------­------------------------------
-
-**attention**
-[diyordie, walker vapor group llc, or any of its associations, do not condone or encourage the use of nicotine or other addicting and mood altering chemicals or drugs. all the information provided is for entertainment purposes only, and not meant to be seen as educational nor informational.  must be 21+ years or older to view any of the content provided]",2018-08-08T21:24:36Z,Science & Technology,27046,601.0,14.0,122.0,['tutorial'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,3.0,3.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,diy vape juice blog website,3 7
-0,Alex,2020-11-20 17:45:47.805547,1297,"The BIGGEST and BEST ""Pod Mod""?!?! Smok RPM 160 Review! VapingwithTwisted420 (Cloudy)",vcSiGxKbfFA,https://www.youtube.com/watch?v=vcSiGxKbfFA,VapingwithTwisted420,https://www.youtube.com/channel/UCgPR3trFb_fZbRADdcsMbfQ,"well isn't this refreshing! a new ""pod"" device but this one is 
-right up my alley! to find out how far into my alley....watch this video! 
-
-subscribe to my second channel! i do all kinds of shit there. 
-https://www.youtube.com/channel/ucyurjmjqqdfhnjkgspmpulg
-
-my twitch..................
-https://www.twitch.tv/twistedlootgoblin
-
-
-also remember to join casaa.org !
-
-and check out their call to actions!
-http://casaa.org/call_to_action.php
-
-
-my facebook hangout page...................
-https://www.facebook.com/groups/759398784136680/
-
-
-thanks for watching once again! and please.....please remember to stay sexy! 
-
-also come like my facebook page if you like....if not that's fine too :)
-https://www.facebook.com/vapingwithtwisted420?ref=hl",2020-07-17T13:35:04Z,Entertainment,4602,226.0,4.0,45.0,[],True,5.0,8.0,True,5.0,16.0,True,6.0,4.0,True,5.0,18.0,False,,,True,5.0,18.0,True,5.0,17.0,True,5.0,7.0,True,5.0,0.0,True,7.0,6.0,True,5.0,17.0,True,5.0,11.0,True,5.0,9.0,True,4.0,15.0,True,5.0,17.0,True,4.0,6.0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-11-20 17:46:17.424473,1555,BRAND NEW VAPO BY VAPORTECH- DISPOSABLE E-CIG,OtjJ_0fX5xc,https://www.youtube.com/watch?v=OtjJ_0fX5xc,Sammy Trenser,https://www.youtube.com/channel/UCwULxGsxmXQDbg22Y0IzYIg,vapo disposable e-cigarette by vapor tech review,2018-12-12T00:19:02Z,People & Blogs,12011,27.0,10.0,11.0,[],True,7.0,19.0,True,7.0,19.0,False,,,False,,,False,,,False,,,False,,,True,7.0,17.0,True,5.0,15.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-11-20 17:47:20.501660,1536,The Frii Disposable Menthol Disposable E-Cig Review,QiKfD9hiXgE,https://www.youtube.com/watch?v=QiKfD9hiXgE,Bill Prater,https://www.youtube.com/channel/UCT1YOQjDFJPj0SgrLRpFGxw,"this disposable is really good surprisingly, i was very impressed by it, best disposable ive had yet, if your getting into vaping or if your thinking of quiting analogs (real cigarettes) and arent sure what to get then i would highly recommend this to start with and i am putting the website where you can pick it up really good priced down below.
-
-https://www.smokefrii.com/store/disposable-e-cigarette.html frii disposable site
-
-don't forget to subscribe to my channel and happy vaping :)",2013-01-05T03:22:22Z,People & Blogs,153,1.0,0.0,2.0,[],True,6.0,17.0,False,,,True,7.0,5.0,True,6.0,16.0,True,7.0,15.0,True,6.0,14.0,True,6.0,19.0,True,6.0,15.0,False,,,True,7.0,3.0,True,6.0,16.0,True,7.0,6.0,True,6.0,18.0,True,6.0,15.0,True,6.0,12.0,True,6.0,18.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-11-20 17:48:18.689509,167,E-cigarettes are harmful to your immune system and lungs,8qp0iqDCP3I,https://www.youtube.com/watch?v=8qp0iqDCP3I,Hashem Al-Ghaili,https://www.youtube.com/channel/UCfAInEvJMxEq_pCb9vehdCw,"research papers: 
-https://ehp.niehs.nih.gov/ehp2175/
-https://thorax.bmj.com/content/early/2018/08/18/thoraxjnl-2018-211663
-https://ehp.niehs.nih.gov/doi/full/10.1289/ehp3469
-
-
-for more videos, follow me on facebook: https://www.facebook.com/sciencenaturepage/
-
-#ecigarettes #health #lungs #smoking #immunesystem",2019-05-05T16:42:38Z,Science & Technology,5297,205.0,11.0,34.0,['EVALI'],True,5.0,15.0,True,5.0,1.0,False,,,True,4.0,11.0,True,4.0,10.0,True,4.0,17.0,True,4.0,12.0,True,4.0,18.0,True,5.0,3.0,True,5.0,18.0,True,4.0,14.0,True,5.0,5.0,True,5.0,2.0,True,4.0,12.0,True,4.0,17.0,True,4.0,4.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,1
-0,Alex,2020-11-20 17:49:11.232559,222,What We Don't Know about E-Cigs,n6hH-PQ7Ct8,https://www.youtube.com/watch?v=n6hH-PQ7Ct8,SciShow,https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow,"you might have one of them, e-cigarette. some people switch to it from average tobacco to quit smoking. but is it really a better and safer option for you?
-
-hosted by: michael aranda
-----------
-support scishow by becoming a patron on patreon: https://www.patreon.com/scishow
-----------
-dooblydoo thanks go to the following patreon supporters -- we couldn't make scishow without them! shout out to james harshaw, kevin bealer, mark terrio-cameron, patrick merrithew, accalia elementia, charles southerland, fatima iqbal, benny, kyle anderson, tim curwick, will and sonja marple, philippe von bergen, bryce daifuku, chris peters, kathy philip, patrick d. ashmore, charles george, bader alghamdi.
-----------
-like scishow? want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? check out our awesome products over at dftba records: http://dftba.com/scishow
-----------
-looking for scishow elsewhere on the internet?
-facebook: http://www.facebook.com/scishow
-twitter: http://www.twitter.com/scishow
-tumblr: http://scishow.tumblr.com
-instagram: http://instagram.com/thescishow
-----------
-sources:
-http://www.fda.gov/food/ingredientspackaginglabeling/gras/scogs/ucm261045.htm 
-http://time.com/3678402/electronic-cigarettes-ecigs-health-science-research/ 
-http://www.nejm.org/doi/full/10.1056/nejmc1413069?query=featured_home& 
-http://www.scientificamerican.com/article/smoke-screen-are-e-cigarettes-safe/ 
-http://www.fda.gov/newsevents/newsroom/pressannouncements/ucm499234.htm 
-http://www.fda.gov/downloads/drugs/scienceresearch/ucm173250.pdf 
-http://www.livescience.com/32089-do-e-cigarettes-help-smokers-quit.html 
-http://gizmodo.com/5-facts-that-everyone-gets-wrong-about-vaping-1659938937 
-http://www.bloomberg.com/news/articles/2014-05-21/some-good-news-for-the-e-cig-industry-vaping-can-help-smokers-quit 
-http://www.addictionjournal.org/press-releases/e-cigarette-use-for-quitting-smoking-is-associated-with-improved-success-rates-
-http://gizmodo.com/why-e-cigarettes-might-not-be-as-safe-as-you-think-1589485508 
-http://www.fda.gov/newsevents/newsroom/pressannouncements/ucm173222.htm 
-http://www.ncbi.nlm.nih.gov/pmc/articles/pmc4454963/
-http://www.ncbi.nlm.nih.gov/pmc/articles/pmc4819171/ 
-http://onlinelibrary.wiley.com/doi/10.1111/add.12623/abstract 
-
-image sources:
-https://commons.wikimedia.org/wiki/file:propylene-glycol-3d-balls.png
-https://commons.wikimedia.org/wiki/file:safesmokes.jpg
-https://en.wikipedia.org/wiki/file:e_cigarettes,_ego,_vaporizers_and_box_mods_(17679064871).jpg
-https://commons.wikimedia.org/wiki/file:diethylene_glycol_3d_ball.png",2016-11-21T22:00:04Z,Education,675419,14149.0,995.0,2478.0,['tricks'],True,5.0,17.0,True,5.0,10.0,True,5.0,12.0,True,6.0,14.0,True,3.0,12.0,True,5.0,13.0,True,5.0,18.0,True,6.0,12.0,True,5.0,12.0,True,7.0,0.0,True,6.0,2.0,True,5.0,15.0,True,6.0,2.0,True,5.0,10.0,True,5.0,16.0,True,7.0,2.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,science channel (hank green),1
-0,Alex,2020-11-20 17:49:35.403676,3216,Questions to ask at the End of an Interview | Career Interview Tips,EbA5rzpSWLM,https://www.youtube.com/watch?v=EbA5rzpSWLM,Cass Thompson Career Advice,https://www.youtube.com/channel/UCZgW5ffUPOv1VQBt6CQ0zaQ,"questions to ask in a job interview.  plus, get my free interview prep checklist at https://bit.ly/2lx3ae7. do you have trouble thinking of what questions to ask in a job interview. do you struggle with job interview questions for the hiring manager. today i’ll give you my strategy on what to ask at the end of a job interview. 
-
-interview playlist: https://youtu.be/hd33yqmyhts
-
-today we will go over:
-what not to ask at the end of a job interview
-the types of questions to be thinking about
-why you should have three questions
-the somewhat scary interview question  you don’t want to ask but should
-
-
-other videos on questions to ask in an interview: 
-work it daily: https://www.youtube.com/watch?v=y95ei-ek_e8&t=1s
-
-#jobinterview #interviewadvice #ctcareer
-
-
-
-to get my free linkedin all star profile checklist go to www.linkedinallstarprofile.com
-
-need resume help? get my course the complete guide to writing your best resume at www.completeresumeguide.com
-what was your favorite part? leave a comment on my latest ig post! www.instagram.com/cassthompsonconsulting
-
-🌟did you get a job from the help in my videos? 
-
-first, a ⭐️ for you! second, leave me a comment on any video letting me know and you could be my next “you got a job” shoutout!
-
-♡ ♡ ♡
-
-need new business cards? i love moo. get your new cards here: https://bit.ly/2lsejqf
-
-
-♡ ♡
-
-you’re gonna love these videos
-
-questions to ask at the end of the interview: https://youtu.be/eba5rzpswlm
-
-8 tips to make a great linkedin profile: https://youtu.be/tdphv_yl2e0
-
-overcoming interview nerves: https://youtu.be/4y0i22ydsk0
-
-creative vs. traditional resume: https://youtu.be/x4kuc9l_ais
-
-
-♡ ♡ ♡
-
-
-shop amazon to see my favorite things! cass thompson career advice
- it's no extra cost to you but it does give me a small percentage for giving you the recommendation!
-shop → → →  https://amzn.to/2qfwcv8
-
-
-if you want to see exactly what i buy, check out all my favorites, in my store here:  www.amazon.com/shop/cassthompsoncareeradvice
-
-
-
-♡ ♡ ♡ 
-
-
-want to work one on one with me? 👩🏼‍💻
-📆 book it here
-want your resume or linkedin profile reviewed? go here: https://calendly.com/cass-thompson/linkedin-resume-audit
-
-need a mock interview to practice: https://calendly.com/cass-thompson/interview
-
-for career advice  half hour: https://calendly.com/cass-thompson/30min
-
-
-
-♡ ♡ ♡ 
-
-
-speaking inquiries 🙋🏼‍♀️
-contact: cass.thompson@gmail.com
-
-
-
-♡ ♡ ♡
-
-
-find me ❤
-
-blog | https://www.cassthompson.com
-
-instagram | https://instagram.com/cassthompsonconsulting
-
-twitter | https://twitter.com/cassthompson
-
-linkedin | https://www.linkedin.com/in/cassthompson
-
-
-♡ ♡ ♡
-
-
-more 🌟
-
-📫sign up for my weekly newsletter | http://eepurl.com/diet_p
-
-
-
-♡ ♡ ♡
-
-business inquiries only | cass.thompson@gmail.com
-
-
-♡ ♡ ♡
-
-
-info 🌟
-
-welcome to cass thompson career advice!
-
-subscribe to cass thompson career advice for regular videos: www.youtube.com/c/cassthompsoncareeradvice
-
-♡ ♡ ♡
-about
-
-hi, i'm cassandra and i help driven professionals build their careers through weekly tutorials on linkedin, interviewing, networking, and other career tools; using practical tips that take the overwhelm out of career and biz growth. please subscribe and hit that notifications bell to be updated when new videos are uploaded!
-
-
-
-
-♡ ♡ ♡
-
-
-disclosure 🌟
-
-thank you for trusting me with my honest and reliable opinion on any future purchase you may make. i always disclose affiliate or sponsored information when it is the case. as a part of our community you allow me to earn a small commission if you make a purchase through my affiliate/referral links. this doesn't affect you in any way in the checkout process unless i've been able to arrange a discount for you that is special from other customers. thank you for supporting this channel!",2018-07-13T16:20:54Z,Education,1012690,24543.0,401.0,1248.0,['tutorial'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,5.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,interview help ,10
-0,Alex,2020-11-20 17:49:52.388191,3110,What you need to know about vaping,n2ClQtfmk4M,https://www.youtube.com/watch?v=n2ClQtfmk4M,UW Medicine,https://www.youtube.com/channel/UC-Nnu2-eKA0aRYrCSx3kHDQ,"the federal drug administration recently proclaimed an epidemic of vaping among young people and gave the five largest e-cigarette manufacturers 60 days to produce plans to stop underage use of their products. they warn of the effects of nicotine in developing brains.
-
-for more information on this topic: https://newsroom.uw.edu/postscript/upsides-and-downsides-vaping
-
-for more stories from the uw medicine newsroom, please visit https://newsroom.uw.edu/.",2018-09-17T23:56:38Z,Education,53237,338.0,51.0,0.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,7.0,False,,,False,,,False,,,False,,,False,,,False,,,True,5.0,9.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,1
-0,Alex,2020-11-20 17:51:18.060614,138,"Health effects of Vaping and E-cigarette use, what is known thus far",AENLOJ6fbFY,https://www.youtube.com/watch?v=AENLOJ6fbFY,Distinctive Voices,https://www.youtube.com/channel/UCOzWn948D9YO41K3G7vl_Zg,"before the hubbub over e-cigarette or vaping product use associated lung injury (evali), we had growing evidence that vaping would cause health problems. but how did this disease blow-up so fast? is it really vitamin e causing these cases of severe lung injury? we will discuss what is known and unknown about the effects of nicotine and thc containing e-cigarette aerosols on respiratory health, cardiovascular health, and neuro, renal and hepatic health while we are at it! outside of this acute disease entity (evali), what health effects are likely to occur due to vaping?
-
-» laura crotty alexander, university of california at san diego",2020-03-05T17:08:10Z,Science & Technology,588,8.0,6.0,,['EVALI'],True,2.0,2.0,True,2.0,1.0,True,2.0,2.0,True,3.0,5.0,True,6.0,5.0,True,3.0,11.0,True,3.0,8.0,True,3.0,8.0,True,3.0,2.0,True,3.0,14.0,True,3.0,10.0,True,2.0,5.0,True,2.0,3.0,True,3.0,1.0,True,3.0,11.0,False,,,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,,1 6
-0,Alex,2020-11-20 17:51:46.457194,1022,OKR-T30 DIY Box Mod (Passthrough) Build,4BMMx6iRyew,https://www.youtube.com/watch?v=4BMMx6iRyew,Analog Box Mods,https://www.youtube.com/channel/UCt3W-LdbWcGFSddiOtl1bWQ,"an okr-t30 ""passthrough"" device in a hammond 1590a enclosure, powder coated black texture.
-
-new - updated okr-t30 passthrough build video: https://youtu.be/jxctykmjvqk
-
-parts kit: http://analogboxmods.ca/box-mod-kits/passthrough-kit
-power supply (vapestation) build: https://youtu.be/0k1pamrnhsa",2017-04-16T02:39:29Z,Howto & Style,12856,178.0,1.0,61.0,[],True,3.0,1.0,True,4.0,2.0,True,4.0,4.0,True,2.0,19.0,True,6.0,0.0,True,2.0,17.0,True,3.0,0.0,True,2.0,19.0,False,,,True,4.0,7.0,True,2.0,19.0,False,,,True,2.0,18.0,False,,,True,3.0,1.0,False,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,3 7
-0,Alex,2020-11-20 17:52:42.295832,1466,Can a disposable e-cigar be refilled and recharged?,G17KPN9Zy5Q,https://www.youtube.com/watch?v=G17KPN9Zy5Q,bigclivedotcom,https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA,"every so often i'm tempted to buy one of these devices so i can see if the technology has changed much.  and also so i can pose in front of the mirror with a big cigar like a daddy.
-it's also fun to take the challenge of whether they can be refilled or not and also if the battery is rechargeable.  although it seems wasteful to include a rechargeable cell in a disposable product, the modern lithium cells are so much cheaper to make than the non rechargeable ones that it makes sense to manufacturers to just use a rechargeable one.
-
-this item came from a uk based reseller, so i won't give a link to the exact listing.  a search for disposable cigar -lighter should come up with something.  but also consider a fully rechargeable one.
-
-if you enjoy these videos you can help support the channel with a dollar for coffee, cookies and random gadgets for disassembly at:-
-http://www.bigclive.com/coffee.htm",2017-04-10T16:10:59Z,Science & Technology,207557,3735.0,137.0,512.0,[],True,1.0,19.0,True,1.0,21.0,True,2.0,0.0,True,1.0,21.0,True,1.0,18.0,True,1.0,11.0,True,1.0,21.0,True,1.0,16.0,True,1.0,19.0,True,1.0,8.0,True,1.0,19.0,True,2.0,1.0,True,1.0,15.0,True,1.0,16.0,True,1.0,19.0,True,2.0,17.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,electronic cigar,3 7
+the vinci's gene.ai chipset supports button firing and automatic draw activation, and has a 2 week puff curve that tracks use for the last 14 days. device settings can be easily adjusted using the +/- buttons mounted below a 0.96"" tft color screen, and variable wattage is supported for 5 - 40w for atomizers in the range of 0.1 - 3.0ω. the micro usb charging port is bottom mounted and supports 5v/1a quick charge under 90min.",2019-10-22T21:33:44Z,Science & Technology,26977,171.0,9.0,16.0,['EVALI'],True,3.0,4.0,True,3.0,1.0,True,3.0,8.0,True,3.0,9.0,True,5.0,4.0,True,3.0,4.0,True,3.0,12.0,True,3.0,7.0,False,,,True,5.0,12.0,True,3.0,9.0,False,,,False,,,False,,,True,3.0,8.0,False,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
