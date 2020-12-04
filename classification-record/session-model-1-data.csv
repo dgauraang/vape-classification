@@ -1,262 +1,452 @@
-,Name,Timestamp,Index,Video_Title,Video_ID,Video_URL,Channel_Name,Channel_URL,Description,Publish_Date,Category,View_Count,Like_Count,Dislike_Count,Comment_Count,Classification,hispanicmale24_Search_Appearance,hispanicmale24_Page,hispanicmale24_Ranking,hispanicfemale24_Search_Appearance,hispanicfemale24_Page,hispanicfemale24_Ranking,whitemale24_Search_Appearance,whitemale24_Page,whitemale24_Ranking,whitefemale24_Search_Appearance,whitefemale24_Page,whitefemale24_Ranking,africanamericanmale24_Search_Appearance,africanamericanmale24_Page,africanamericanmale24_Ranking,africanamericanfemale24_Search_Appearance,africanamericanfemale24_Page,africanamericanfemale24_Ranking,whitemale24_2_Search_Appearance,whitemale24_2_Page,whitemale24_2_Ranking,whitefemale24_2_Search_Appearance,whitefemale24_2_Page,whitefemale24_2_Ranking,hispanicmale16_Search_Appearance,hispanicmale16_Page,hispanicmale16_Ranking,hispanicfemale16_Search_Appearance,hispanicfemale16_Page,hispanicfemale16_Ranking,whitemale16_Search_Appearance,whitemale16_Page,whitemale16_Ranking,whitefemale16_Search_Appearance,whitefemale16_Page,whitefemale16_Ranking,whitemale16_2_Search_Appearance,whitemale16_2_Page,whitemale16_2_Ranking,whitefemale16_2_Search_Appearance,whitefemale16_2_Page,whitefemale16_2_Ranking,africanamericanmale16_Search_Appearance,africanamericanmale16_Page,africanamericanmale16_Ranking,africanamericanfemale16_Search_Appearance,africanamericanfemale16_Page,africanamericanfemale16_Ranking,electronic_cigarette_search,e-cigarette_search,e-cig_search,vape_search,vaping_search,e-liquid_search,e-juice_search,vape_pods_search,vape_mods_search,cigalikes_search,box_mods_search,vape_pens_search,pod_mods_search,disposable_vape_search,disposable_e-cigs_search,disposables_search,vape_juice_search,ends_search,has_label_0,has_label_1,has_label_2,has_label_3,has_label_4,has_label_5,has_label_6,has_label_7,has_label_8,has_label_9,has_labels,has_label_10,has_label_11,has_label_12,has_label_13,has_label_14,Comment,model 1
-0,Alex,2020-12-03 20:17:04.721393,2389,"E-Cigarettes: 7,000 Flavors of Addiction",3eSKprGuPoc,https://www.youtube.com/watch?v=3eSKprGuPoc,Boston University,https://www.youtube.com/channel/UCuNjAAXrEmQyxLAanISnZUw,"hosted by film major josh jason (com'16), bu today angles explores the benefits and risks of e-cigarettes through the eyes of boston university professors in public health, bio-medicine, and advertising; and the students who use them.",2014-10-14T20:04:25Z,Education,19016,138.0,31.0,5.0,[],False,,,False,,,False,,,False,,,True,3.0,11.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,bu youtube channel,1
-0,Alex,2020-12-03 20:19:49.305709,103,"""Heat, Not Burn"" Tobacco - Is it any good?",VJ_8BQWyHSc,https://www.youtube.com/watch?v=VJ_8BQWyHSc,DashVapes,https://www.youtube.com/channel/UCaxBVm0RTllwCweQtbcuotg,"http://www.dashtv.cc/
+,Name,Timestamp,Index,Video_Title,Video_ID,Video_URL,Channel_Name,Channel_URL,Description,Publish_Date,Category,View_Count,Like_Count,Dislike_Count,Comment_Count,Classification,hispanicmale24_Search_Appearance,hispanicmale24_Page,hispanicmale24_Ranking,hispanicfemale24_Search_Appearance,hispanicfemale24_Page,hispanicfemale24_Ranking,whitemale24_Search_Appearance,whitemale24_Page,whitemale24_Ranking,whitefemale24_Search_Appearance,whitefemale24_Page,whitefemale24_Ranking,africanamericanmale24_Search_Appearance,africanamericanmale24_Page,africanamericanmale24_Ranking,africanamericanfemale24_Search_Appearance,africanamericanfemale24_Page,africanamericanfemale24_Ranking,whitemale24_2_Search_Appearance,whitemale24_2_Page,whitemale24_2_Ranking,whitefemale24_2_Search_Appearance,whitefemale24_2_Page,whitefemale24_2_Ranking,hispanicmale16_Search_Appearance,hispanicmale16_Page,hispanicmale16_Ranking,hispanicfemale16_Search_Appearance,hispanicfemale16_Page,hispanicfemale16_Ranking,whitemale16_Search_Appearance,whitemale16_Page,whitemale16_Ranking,whitefemale16_Search_Appearance,whitefemale16_Page,whitefemale16_Ranking,whitemale16_2_Search_Appearance,whitemale16_2_Page,whitemale16_2_Ranking,whitefemale16_2_Search_Appearance,whitefemale16_2_Page,whitefemale16_2_Ranking,africanamericanmale16_Search_Appearance,africanamericanmale16_Page,africanamericanmale16_Ranking,africanamericanfemale16_Search_Appearance,africanamericanfemale16_Page,africanamericanfemale16_Ranking,electronic_cigarette_search,e-cigarette_search,e-cig_search,vape_search,vaping_search,e-liquid_search,e-juice_search,vape_pods_search,vape_mods_search,cigalikes_search,box_mods_search,vape_pens_search,pod_mods_search,disposable_vape_search,disposable_e-cigs_search,disposables_search,vape_juice_search,ends_search,has_label_0,has_label_1,has_label_2,has_label_3,has_label_4,has_label_5,has_label_6,has_label_7,has_label_8,has_label_9,has_labels,has_label_10,has_label_11,has_label_12,has_label_13,has_label_14,has_label_nan,Comment,model 1
+0,Alex,2020-12-04 22:17:01.412745,2060,CBDfx vs CBDistillery Comparison (Disposable CBD Vape Pens),V7IA75rvRnc,https://www.youtube.com/watch?v=V7IA75rvRnc,Premium CBD Products,https://www.youtube.com/channel/UCoqotAlfA0ktlyx6_CgJ5-Q,"choosing which disposable cbd vape pen is the best for you can be difficult. there are a lot of things to take into account- cbd strength, taste, and price point are all deciding factors before you click ‘add to cart’. in this video, we’re looking at two of the most popular cbd vape pens currently on the market, the cbdfx terpene vape pen, and the cbdistillery vape pen. both are strong contenders for your business, but which company is right for you?
 
-heat, not burn products started gaining a lot of attention, but always seemed to be overshadowed by vaping. how do they compare? find out here!
+for cbdfx it’s their use of terpenes that keep us coming back. we’ve seen cbdfx put some serious thought into how they’re included, and the end result is a disposable vape pen product range that is filled with some of your favorite flavors. they’ve really made a mark with a promise of full flavor at a price point that is kinder than most, backed by all the benefits that terpenes bring to cbd products. studies have suggested that the use of terpenes can increase the efficacy of cbd, and cbdfx has used this to their advantage.
 
-follow us!
+cbdistillery, on the other hand, has focused on the chemicals in the vape juice itself, opting to use tec temper over more traditional carriers like pg or vg. tec temper is a new kind of thinning or liquidating agent and is being touted as the next step for e-liquid carriers. it’s essentially an antioxidant and an anti-irritant and due to the way it behaves when heated, it doesn’t release hazardous or toxic compounds. it’s all-natural and is made with organic ingredients. in essence, this means it’s kind to your throat and lungs while still giving you the ability to create great, billowing clouds at a moment's notice-something that’s rare for a disposable pen.
 
-instagram - @dashvapes
-twitter - @dashvapes
-facebook - www.fb.me/dashvapes
+these are two fantastic products with some serious science backing them up, so what do we prefer? and more importantly, which one is right for you?
 
-dashvapes is canada's leading electronic cigarette and e-juice retailer and distributor.",2019-01-05T10:39:16Z,Film & Animation,700788,9308.0,940.0,2001.0,[],True,7.0,3.0,True,6.0,16.0,True,6.0,17.0,True,7.0,6.0,False,,,True,7.0,19.0,True,7.0,9.0,True,7.0,7.0,False,,,True,6.0,1.0,True,7.0,15.0,True,7.0,11.0,True,7.0,6.0,True,7.0,2.0,True,7.0,10.0,True,6.0,16.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,heat not burn tobacco,7
-0,Alex,2020-12-03 20:20:14.140307,3185,Metallica - Disposable Heroes | REACTION,kIty8wJ4HsE,https://www.youtube.com/watch?v=kIty8wJ4HsE,Jamel_AKA_Jamal,https://www.youtube.com/channel/UCX_uC0GfYw6UqiiR-6vxZBw,"nothing but facts!! 😩
+the pens themselves are relatively similar- both are easy to use, just puff and play. one nice feature with the cbdistillery pen is its clear chamber, which allows you to see how much oil you have left. with the exception of the branding choices, both pens are well constructed- no issues here.
 
+the differences begin with the strength- cbdfx’s disposable vape pen weighs in at a modest 50mg of cbd per pen, whereas cbdistilleries is 200mg. this means the pricing for the cbdistilleries disposable pen is slightly higher, and this may be something you want to take into consideration. one of the benefits of disposable vape pens is their pocket-friendly pricing when compared to traditional vape kits, and cbdfx has created one of the cheapest options available. this, of course, means you sacrifice on strength, but that’s where cbdfx’s love of terpenes comes into play.
 
+terpenes in cbd create what is known as the ‘entourage effect’. essentially they work in synergy with the other compounds present in the cbd oil, increasing its effectiveness and absorption rate. this means that while each pen contains just 50mg of cbd, that’s 50mg of cbd living it’s the best life and realizing it’s full potential. instead of bumping up the strength, cbdfx has gone back to the drawing board and made what they already have more effective. as the saying goes, there’s always room for improvement, and you can tell from the first puff that cbdfx has taken this to heart.
 
+cbdistillery has chosen an alternative route, focusing on large clouds, big flavor, and bigger doses. the end result is a disposable pen that gives you a surprisingly solid hit that we usually associate with more expensive vaping kits. the choice to use tec temper oil has well and truly paid off, and the cbdistillery disposable vape pen is a joy to use.
 
+flavor-wise, each pen has its own unique characteristics and a range of flavors to choose from. for our money, however, cbdfx just pips cbdistillery to the post on this one. we used gg#4 for cbdistillery and gelato for cbdfx and while they are both full of flavor, cbdfx’s in-depth knowledge of the right terpenes made our decision for us. of course, the taste is always a personal choice, and we wouldn’t presume to tell you what you like, just bear in mind that cbdfx has a proven track record of blending complex flavor profiles to great effect.
 
+as you can see, a lot of rides on personal preference, so which disposable cbd vape pen is best? 
+ultimately, the final decision is yours, and we hope this breakdown can help you consider your options. of course, we know which one we prefer- check out the video for our thoughts which pen is best overall, and for a 15% discount on purchases from both cbdistillery and cbdfx!
 
-here’s the video link https://youtu.be/iyarqkf0mpk",2020-05-09T21:20:47Z,Entertainment,61980,4033.0,27.0,1382.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,4.0,7.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,,10
-0,Alex,2020-12-03 20:21:59.204103,3289,The Future of Vaping - The Vivid E-Cig - Review,TdfUsId_7zs,https://www.youtube.com/watch?v=TdfUsId_7zs,Richard Vick,https://www.youtube.com/channel/UCgwaNlQAgrQcvSwYu-voJkA,"hey guys, thanks to andrew for the idea, as others have said and organised by nick grimm green. we thought it would be beneficial to show you what vape reviews will look like if big tobacco get their way and bring in these proposed regulations.
+learn more at https://www.bestdosage.com/
 
-useful links: 
+disclaimer: due to youtube’s community guidelines & the contents of this video. anyone under the age of 18 must exit the video. the contents of this video are for educational and entertainment purposes only. i am not encouraging the use nor sale of any products in this video. this is just my honest opinion & review. thank you!",2019-06-08T10:44:38Z,People & Blogs,5598,62.0,4.0,42.0,"['marijuana', 'tutorial', 'tricks', 'EVALI']",False,,,True,3.0,11.0,False,,,False,,,True,6.0,0.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False,,cannabis review and info website,0 5 7
+0,Alex,2020-12-04 22:17:31.834498,973,Cigalike comparison vuse vs mark 10 xl,EoaSATbBX48,https://www.youtube.com/watch?v=EoaSATbBX48,dj X.A.N.A,https://www.youtube.com/channel/UCfOa5I4OnXWSFTCyR64ukaw,,2017-11-17T21:05:14Z,Gaming,118,1.0,1.0,0.0,[],True,5.0,13.0,True,3.0,19.0,True,4.0,1.0,False,,,False,,,True,5.0,4.0,True,4.0,19.0,True,4.0,2.0,True,6.0,12.0,False,,,True,5.0,3.0,True,4.0,0.0,True,5.0,14.0,True,5.0,2.0,True,5.0,18.0,True,3.0,16.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:18:29.810794,563,Best Menthol Vape Juice 2020 | Popular Cold Eliquids Top 5,wJWt_ipeh7o,https://www.youtube.com/watch?v=wJWt_ipeh7o,Vape and Juice TV,https://www.youtube.com/channel/UCj6E2CB1nRR2Upkzq86K6NA,"best menthol vape juice list for 2019 as based on the sales at vape and juice, the uk's local vape shop. if you want to know what are the most popular cold eliquids, then our top 5 'top of the ejuices' launches now.
 
-vividvapours.com
-nicocig.co.uk
-independent.co.uk/news/business/news/philip-morris-buys-ecigarette-maker-nicocigs-as-it-warns-of-falling-profits-9565087.html
-efvi.eu
-thevapingmilitia.org/
-casaa.org/become_a_member.html
-change.org/p/council-of-the-european-union-stop-ecig-ban
-article20legalchallenge.com/",2015-04-10T20:08:05Z,People & Blogs,7324,67.0,10.0,25.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,4.0,8.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-12-03 20:22:44.658908,3247,Bazooka Sour Straws eLiquid! | TiaVapes Review,CRCO0F9Y37w,https://www.youtube.com/watch?v=CRCO0F9Y37w,TiaReviews,https://www.youtube.com/channel/UCd8Yc4aaOywBodPmoWj3mIw,"► favorites: http://www.amazon.com/shop/athomewithtia
-►my life channel: https://www.youtube.com/athomewithtia
-►patreon: https://www.patreon.com/tiavapes
-►hope for lucas: https://www.gofundme.com/hopeforlucas
+0:35 - number 5 - vampire vape ice menthol review
+0:44 - number 4 - vampire vape attraction review
+1:06 - number 3 - vape and juice eliquid review of red rocket
+1:10 - number 2 - heisenberg vape review
+1:30 - number 1 - best menthol vape juice uk
 
-♥connect with me!♥
-----------------------
-facebook: http://www.facebook.com/athomewithtia ☜
-instagram: http://www.instagram.com/athomewithtia ☜
-twitter: http://www.twitter.com/athomewithtia ☜
-***************************
+we often get asked, what are the best selling menthol e-liquids, and these vary, whether they are pg or vg based. so, you know us, we love a video - so diving back into the archives of terrible tv footage, we resurrected top of the pops. this is our first episode so be kind, i'll try to get better :)
 
-[ftc: all opinions are my own! amazon affiliate link used in description. videos intended for education on harm reduction for persons 21 & older. this channel will not be held responsible or liable for any injury, damage, or defect, permanent or temporary that may be caused by the improper use of a li-ion (lithium-ion), lipo (lithium-ion polymer) and any rechargeable battery/batteries. please have a basic understanding of the batteries you are using and how to care for them properly. this channel will not be held responsible or liable for any injury, damage, or defect, permanent or temporary that may be caused by the improper use of nicotine &/or non-nicotine liquid.]",2016-09-27T02:43:05Z,Education,151537,1605.0,101.0,228.0,"['tutorial', 'EVALI']",False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,17.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,merch with images of her vaping ,0
-0,Alex,2020-12-03 20:24:44.205890,431,"Another teen ""hospitalized from vaping""",Hzd8Vz7Rvak,https://www.youtube.com/watch?v=Hzd8Vz7Rvak,DashVapes,https://www.youtube.com/channel/UCaxBVm0RTllwCweQtbcuotg,"http://www.dashtv.cc/
+we couldn't do these videos without the support of our brand vape and juice - they at https://vapeandjuice.co.uk fund the videos we do, so you can get up to date advice and a way to kill a few minutes for nothing. gratis. we don't even dump adverts in our videos - fxxx that!
 
-simah herman, 18, was hospitalized ""due to vaping"". she claims that the dangers of vaping are life-altering and that it is not a safe alternative to smoking. however, there are a few things we need to take into consideration.
+so if love your vapes cold, and of the higher pg variety, then this our top 5 best selling menthol e liquids based on sales in our stores across the uk. this is what we call the vaj index ;)
 
-subscribe for more #vapenews!
+let's get the show on the road - top 5 best menthol ejuices - roll vt.
+#juul #juulvape #vaping",2019-09-24T18:43:13Z,People & Blogs,5148,23.0,11.0,4.0,[],True,3.0,6.0,True,6.0,17.0,True,6.0,19.0,False,,,True,3.0,11.0,True,3.0,10.0,False,,,True,3.0,2.0,True,2.0,9.0,True,4.0,14.0,True,3.0,4.0,True,7.0,4.0,True,3.0,4.0,False,,,True,3.0,1.0,False,,,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:20:18.155371,2777,Vape Mojo Disposable E-Cigarette Menthol,IaMaW6XPsLo,https://www.youtube.com/watch?v=IaMaW6XPsLo,Mojo Vape,https://www.youtube.com/channel/UCQtD48q6zcTGwKW7XV3kuBw,"shot by @91chainz x @puff.x.x
 
-follow us!
+follow us on ig:
+https://www.instagram.com/vape_mojo
 
-instagram - @dashvapes
-twitter - @dashvapes
-facebook - www.fb.me/dashvapes
+like us on fb:
+https://www.facebook.com/mojovapepods",2019-02-04T17:53:04Z,People & Blogs,151,1.0,0.0,0.0,[],False,,,False,,,False,,,False,,,True,6.0,6.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,,vape manufacturer,9
+0,Alex,2020-12-04 22:21:41.563306,2488,VitaminVape B12 Vape Pen Inhaler: Boost Energy/Mood/Concentration? My Personal Experience & Review,Ktgf96kONo0,https://www.youtube.com/watch?v=Ktgf96kONo0,iLuvTrading,https://www.youtube.com/channel/UC1b4mfcfGZ6KJwWvIFb4OnQ,"here is my personal review/experience with this vitamin b12 vape ( https://amzn.to/2xparny). some say it gave them energy, better mood, more focused, cutting down on cigarettes, got over depression, replaced coffee with vape, had weird dreams, trouble breathing, didnt feel anything, etc. 
 
-dashvapes is canada's leading electronic cigarette and e-juice retailer and distributor.",2019-09-10T01:25:41Z,Film & Animation,507083,15425.0,783.0,4306.0,['EVALI'],True,7.0,1.0,True,6.0,16.0,True,6.0,17.0,False,,,True,3.0,7.0,True,7.0,11.0,False,,,True,2.0,9.0,True,5.0,7.0,True,6.0,17.0,True,6.0,17.0,True,5.0,7.0,True,5.0,5.0,True,5.0,19.0,True,7.0,1.0,True,6.0,13.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,1
-0,Alex,2020-12-03 20:25:14.328549,384,Smoking vs Vaping,haqi4xvjvKo,https://www.youtube.com/watch?v=haqi4xvjvKo,AsapSCIENCE,https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA,"is vaping actually better for your health?
-subscribe for more (it's free!): http://bit.ly/asapsci
-get free audiobook: http://audible.com/asap
+for myself i dont feel anything except i do enjoy vaping these and at best it does help me relax a little but could be just from the vaping experience not necessarily the b12. 
 
-share on twitter: http://ctt.ec/7f9ac & facebook: http://on.fb.me/1nylq00
+with these vapes there is no charging or adding liquids or any buttons to press to vape it or anything. you just grab one out of the box and start puffing until the battery is dead then you throw it away as they are disposable. for me each stick lasts about 4 days and i do occasionally vape it during works hours, in the mornings with my coffee, in the car and late at night before bed. they say each stick gets you about 84 normal puffs but im not counting. 
 
-written by: annik carson, gregory brown and mitchell moffit
+vitaminvape b12 inhaler - boost energy with natural vitamin b12 aromatherapy - 28 servings, citrus flavor (pack of 3): https://amzn.to/2xparny
 
-get the asapscience book: http://asapscience.com/book/
+breathe-in b12, the best way to get vitamin b12. save time and money compared to shots. 10-pack: https://amzn.to/2vyauen
 
-follow us!
-instagram and twitter: @whalewatchmeplz and @mitchellmoffit 
-clickable: http://bit.ly/16f1jec and http://bit.ly/15j7ube
+amazon daily deals: https://amzn.to/2qvcorc
 
-asapinstagram: https://instagram.com/asapscience/
-facebook: http://facebook.com/asapscience
-twitter: http://twitter.com/asapscience
-tumblr: http://asapscience.tumblr.com
-vine: search ""asapscience"" on vine!
+-----my gear for youtube videos-----
+main camera 99% (smartphone): https://amzn.to/2utqfgh
+tripod: http://amzn.to/2xxpkcw
+cell phone tripod adapter: http://amzn.to/2im4kw5
+selfie stick/tripod: http://amzn.to/2ik2agu
+microphone: http://amzn.to/2xtaw13
+lights: http://amzn.to/2xva5ic
+electric desk: https://amzn.to/2llyzqu
+dual device tripod setup w/ hand grip : https://amzn.to/2soxuc2
+filmora video editor: http://bit.ly/2hdamb7
 
-snapchat 'whalewatchmeplz' and 'pixelmitch'
 
-created by mitchell moffit (twitter @mitchellmoffit) and gregory brown (twitter @whalewatchmeplz).
+facebook: http://www.facebook.com/iluvtrading
+instagram: https://www.instagram.com/iluvtrading/
+twitter: https://twitter.com/virgilforex
 
-send us stuff!
+business inquiries: iluvtradingbiz@gmail.com
 
-asapscience inc.
-p.o. box 93, toronto p
-toronto, on, m5s2s6
+disclaimer: links above are affiliate links meaning i get a small  commission if you purchase items using those links.",2019-04-27T22:56:11Z,Science & Technology,25374,262.0,13.0,75.0,[],False,,,False,,,False,,,False,,,True,6.0,6.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,"vitamin vape, no nic",0
+0,Alex,2020-12-04 22:22:33.952050,2668,Smok Vape Pen 22 - Review,TjcvToiwNEE,https://www.youtube.com/watch?v=TjcvToiwNEE,Zona do Vapor,https://www.youtube.com/channel/UCsF62wfb5h_R1qQxqTp1y2A,instagram - https://www.instagram.com/zonadovapor/,2018-07-30T21:49:41Z,People & Blogs,712365,21159.0,467.0,1215.0,[],False,,,False,,,False,,,False,,,True,3.0,12.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,2.0,18.0,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:23:04.653705,1212,North Texas Man Dies After Vape Pen Explodes,zxlvhYZ_5vg,https://www.youtube.com/watch?v=zxlvhYZ_5vg,CBSDFW,https://www.youtube.com/channel/UCxMXl9L79X1Mq_4iwCOyPFg,an e-cigarette is being blamed for the death of a fort worth man. his family said a vape pen exploded while he was trying to use it.,2019-02-05T04:20:20Z,News & Politics,23442,138.0,14.0,169.0,[],True,7.0,4.0,True,7.0,10.0,True,7.0,12.0,True,7.0,7.0,False,,,False,,,True,7.0,6.0,True,7.0,4.0,True,7.0,3.0,True,5.0,16.0,True,6.0,18.0,True,6.0,17.0,True,7.0,4.0,True,5.0,7.0,True,6.0,16.0,True,6.0,1.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,,,2
+0,Alex,2020-12-04 22:23:51.595390,1038,Laisimo v80 Mini Box Mod Review and Rundown,kLVW7YqBO_A,https://www.youtube.com/watch?v=kLVW7YqBO_A,Jai Haze,https://www.youtube.com/channel/UCHzwxdmRbNXadfzPWVFpcXA,"youtube member: http://bit.ly/2n3dxu8
+join patreon (hazer): https://www.patreon.com/jaihaze 
 
-further reading:
+◈ social media & web ◈
+supporters and fans: https://www.patreon.com/jaihaze
+youtube member w/perks: https://www.youtube.com/jaihaze/join
+jai haze clothing: https://teespring.com/stores/jai-haze
+twitter: http://twitter.com/jaihaze
+instagram: http://instagram.com/jaihaze
+gaming on twitch: https://www.twitch.tv/jaihaze
+jai haze facebook page: https://www.facebook.com/officialjaihaze/",2017-05-16T04:25:01Z,People & Blogs,56254,,,31.0,[],True,4.0,6.0,True,5.0,14.0,True,5.0,19.0,True,4.0,6.0,True,4.0,7.0,True,3.0,11.0,True,4.0,7.0,True,4.0,7.0,True,3.0,11.0,True,3.0,4.0,True,3.0,12.0,True,2.0,19.0,True,4.0,5.0,True,5.0,9.0,True,3.0,13.0,True,5.0,11.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:25:11.396687,2548,Juul Pods vs Jones Pods!! | DonnyVapes,R9TsWbl7zq0,https://www.youtube.com/watch?v=R9TsWbl7zq0,Donny Vapes,https://www.youtube.com/channel/UCni5t6BX5I2OrRn9eStqcKg,"(18+) this video is intended for adults either 18+ or 21+ 
+click the link to get your hoodie today! https://smokesbrand.com/
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/pmc1853086/
-http://www.tandfonline.com/doi/abs/10.1300/j175v01n03_09#.vz094_lvhbd
-http://thebrain.mcgill.ca/flash/i/i_03/i_03_m/i_03_m_par/i_03_m_par_nicotine.html
-http://circ.ahajournals.org/content/129/19/1972.full
-http://www.ncbi.nlm.nih.gov/pubmed/22283580
-http://www.ncbi.nlm.nih.gov/pubmed/24898072",2015-08-16T16:00:02Z,Science & Technology,15104153,154468.0,6234.0,15705.0,[],True,2.0,16.0,True,1.0,18.0,True,2.0,13.0,True,2.0,1.0,True,5.0,6.0,True,1.0,20.0,True,2.0,10.0,True,1.0,16.0,True,1.0,21.0,True,4.0,13.0,True,1.0,21.0,True,1.0,15.0,True,1.0,19.0,True,1.0,8.0,True,1.0,21.0,True,2.0,12.0,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,1
-0,Alex,2020-12-03 20:25:28.725663,1738,"Arsenal but if i lose the video ends, 1 HOUR | ROBLOX",oEbs-nS_BCQ,https://www.youtube.com/watch?v=oEbs-nS_BCQ,GDILIVES,https://www.youtube.com/channel/UCojsj6T5tNPGPZSx7wn4coQ,"last time i did it for around the same time too lol, but this time i have cool purple team so i win games even faster
+in todays video we got the juul pods vs the jones pods directly and i gotta say they smack! cheers!
 
-#roblox",2020-07-29T01:31:04Z,Gaming,155553,6508.0,83.0,1499.0,[],True,2.0,10.0,True,2.0,9.0,True,2.0,10.0,False,,,False,,,False,,,False,,,False,,,False,,,True,3.0,4.0,True,3.0,3.0,True,2.0,9.0,True,4.0,9.0,True,4.0,7.0,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,,10
-0,Alex,2020-12-03 20:28:11.944521,1161,VFIRE OIL VAPE PEN REVIEW!,65euwNrjDVs,https://www.youtube.com/watch?v=65euwNrjDVs,Deevaology,https://www.youtube.com/channel/UCyIgN-Jtq4E1Autt_rjidLg,"vfire  features:
-* dimensions: 13.25 x 1.7 x 1.0 cm
-* 500mah battery for long and effective use
-* ceramic bar coil head for fantastic flavor
-* low resistance 1.3ohm coil creates a silky vapor
-* aluminum alloy shield keeps it durable and lightweight
-the ikrisher vfire is made by ald, a leading manufacturer of oil cartridges and pod pen systems.
+business email: donnysmokes@outlook.com
 
-listen & download my newest songs: https://soundcloud.com/deevaology
+follow my social media!!
 
-tiktok: @deevaology
-instagram: @deevaology
-twitter: @deevaology
-periscope: @deevaology
-my music: https://soundcloud.com/deevaology
-http://www.theweedtube.com/members/deevaology/
-email: deevaology@yahoo.com (business inquires only)",2020-05-06T16:08:26Z,Entertainment,2577,90.0,3.0,29.0,"['marijuana', 'tricks']",True,4.0,10.0,True,2.0,13.0,True,2.0,15.0,True,2.0,17.0,True,2.0,12.0,True,2.0,18.0,True,2.0,16.0,True,3.0,8.0,True,2.0,17.0,True,4.0,4.0,True,3.0,0.0,True,2.0,9.0,True,4.0,4.0,True,3.0,5.0,True,2.0,17.0,False,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,sells ash trays? and offers discount,0 5
-0,Alex,2020-12-03 20:29:49.965166,145,ASSA Health E-cigarette Double Single Stem 10pcs Cartridges With USB Charger,vR84JANQkIU,https://www.youtube.com/watch?v=vR84JANQkIU,chinabuye,https://www.youtube.com/channel/UC2B1EzNuJU533nt0SmJr8jw,"http://www.chinabuye.com/assa-health-e-cigarette-double-single-stem-10pcs-cartridges-with-usb-charger
+instagram: donnyk17
+snapchat: smokes.daddy
 
-quick overview
+_________________________________________________________
 
-this super mini electronic cigarette has the obvious effect to reduce smoking frequency and thus reaches these three objectives as reducing smoking, replacing smoking and smoking kill
-product description
+#juul #vaping #donnysmokes",2019-05-30T21:29:16Z,People & Blogs,310795,5734.0,230.0,532.0,[],False,,,False,,,False,,,False,,,True,2.0,8.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,link to store that used to have vape related merch,0 7
+0,Alex,2020-12-04 22:25:35.759879,196,Target 8 undercover: Kids buy e-cigs,eGVyAhXHp7A,https://www.youtube.com/watch?v=eGVyAhXHp7A,WOOD TV8,https://www.youtube.com/channel/UCDG0mJ_zkrODDT-4VTEV6TQ,target 8 sent ninth-graders undercover to see just how easy it is for kids to buy the e-cigarettes.,2015-02-06T04:32:27Z,News & Politics,804769,3817.0,2815.0,1446.0,['tutorial'],True,4.0,12.0,True,4.0,11.0,True,4.0,15.0,True,4.0,7.0,True,2.0,15.0,True,4.0,9.0,True,4.0,12.0,True,3.0,7.0,True,4.0,8.0,True,5.0,19.0,True,4.0,0.0,True,5.0,0.0,True,4.0,11.0,True,6.0,19.0,True,4.0,8.0,True,2.0,18.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,,,2
+0,Alex,2020-12-04 22:26:13.071068,3478,POD Filters Mythbusted,PAIxeQUSg-Q,https://www.youtube.com/watch?v=PAIxeQUSg-Q,Mighty Car Mods,https://www.youtube.com/channel/UCgJRL30YS6XFxq9Ga8W2J3A,"will a pod filter make your car faster? will you get more power? in this episode the boys from mighty car mods find out...
 
-specifications:
-* this super mini electronic cigarette produces no harm to secondhand smoke and cause no harm on the people around
-no lighting needed and no fire hazard exist
+join the discussion on this video here on the mcm forum: http://forums.mightycarmods.com/showthread.php?10342-**new-episode-pod-filters-mythbusted-***&p=174747#post174747
 
-* the super mini electronic cigarette can be used in most public place allowed by law
+get mad mcm stuff at the official shop:
+http://shop.mightycarmods.com
 
-* this super mini electronic cigarette is reusable with a convenient mini electronic cigarette usb charger
+like us on facebook:
+http://www.facebook.com/mightycarmods
 
-* the super mini electronic cigarette is an amazing device developed to provide an experience much like smoking any ordinary cigarette minus the tobacco, tar and unhealthy second hand smoke
+also something to note around mighty car mods: we are normal guys and are not trained mechanics. we like to make interesting car mods and show you how we've gone about it, but we can't promise that anything we show you will work for your particular car, or that you won't harm yourself, someone else, your car or your warranty doing it. please be safe, be responsible and unless you know what you're doing, do not fool around with very serious machinery just because you've seen us make it look so easy. talk to a qualified mechanic if you are in any doubt.
 
-* color: white
+this video is intended as entertainment only.",2012-04-16T04:12:21Z,Autos & Vehicles,2255484,12405.0,701.0,3134.0,['tutorial'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,2.0,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,,pod filter for cars,10
+0,Alex,2020-12-04 22:27:06.287533,740,THC Juul Pods!? | BammerTV,PBNEIDnpNwQ,https://www.youtube.com/watch?v=PBNEIDnpNwQ,Bammer TV,https://www.youtube.com/channel/UC_n8tpqamHcw-S3lgSS6xCA,"what's up bammerland?? in this video, we go into detail concerning different types of juul pods. specifically, thc juul pods.
 
-* taste: marlboro, peppermint, tobacco, coffee for option (please mark out the taste you want when you make order, or we will delivery random) 
+bammercast podcast: anchor.fm/bammercast
 
-package included:
-1 x electronic cigarette
-10 x cartridges
-1 x usb charger",2013-05-09T09:10:28Z,Science & Technology,71827,372.0,44.0,18.0,[],True,3.0,18.0,True,3.0,2.0,True,3.0,3.0,True,3.0,9.0,True,3.0,6.0,True,3.0,13.0,True,3.0,12.0,True,4.0,0.0,True,3.0,12.0,True,4.0,15.0,True,2.0,16.0,True,3.0,13.0,True,4.0,0.0,True,2.0,3.0,True,3.0,19.0,True,4.0,14.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,some sort of non vaping online wholesale store,7
-0,Alex,2020-12-03 20:30:30.678253,2679,Juul Halts Sale Of Fruit-Flavored Vape Pens,4CP1T62-YeA,https://www.youtube.com/watch?v=4CP1T62-YeA,CBS New York,https://www.youtube.com/channel/UCNZyLULUQBp5e9Q1cKtvk6Q,e-cigarette company juul says it will stop selling fruit and dessert-flavored vaping pens as the cdc releases new figures on vaping-related deaths.,2019-10-17T21:34:52Z,News & Politics,533,4.0,4.0,2.0,[],False,,,False,,,False,,,False,,,True,5.0,1.0,False,,,False,,,True,6.0,6.0,False,,,False,,,False,,,True,5.0,16.0,False,,,False,,,False,,,True,3.0,15.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,,2
-0,Alex,2020-12-03 20:31:44.675488,541,Honest Review! Eclypse E Liquids (e juice | e liquid),OfViQE2pp4g,https://www.youtube.com/watch?v=OfViQE2pp4g,TNOTPR Vaping,https://www.youtube.com/channel/UCjqiWWcaUMypTXA7-pGVfcw,"thanks for watching my video where i try a a few e juices from eclypse e liquids! i try: punchin peach lemonade, strawberry kiwi lemonade, crushin coconut limeade, mega mango lemonade, cheeky cherry limeade, burstin blue lemonade, melon medley lemonade and gushin guava limeade!
+want to donate to bammertv? https://streamlabs.com/bammertv
 
+stay tuned! we have tons planned for 2019!!
 
-check out my new store and get yourself some limited edition merch or vape related goodies!
+and remember, for everything weed and weed related, keep it here on bammertv.
 
-https://teespring.com/en-gb/stores/tnotpr-vaping
+if you can see this, comment your favorite pizza toppings. 
+mine is sausage and peppers. 
 
+subscribe for more great content
 
-subscribe for more videos: 
+we appreciate feedback as well! let us know how you are liking the content!
 
-https://www.youtube.com/c/tnotprvaping?sub_confirmation=1
+weed review playlist: https://www.youtube.com/playlist?list=pliqrukskbacfvv-pjtbntsibcjqnckuxb
 
+cart review playlist: https://www.youtube.com/playlist?list=pliqrukskbachb3j-it5ezqo6c632glf9h
 
-also why not follow me on social media!
+music credit:",2019-02-01T00:00:04Z,Education,26015,225.0,11.0,46.0,['marijuana'],True,6.0,6.0,False,,,False,,,False,,,True,4.0,13.0,False,,,False,,,True,4.0,0.0,True,6.0,13.0,False,,,True,5.0,12.0,True,7.0,12.0,True,6.0,5.0,False,,,False,,,True,3.0,1.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False,,,5 7
+0,Alex,2020-12-04 22:28:23.526102,470,Stay AWAY from this Eliquid! 🤮🤢😷 The WORST vape juice EVER,gmJ26xAOMUg,https://www.youtube.com/watch?v=gmJ26xAOMUg,ShadyVapes,https://www.youtube.com/channel/UCGDU6IRhDFkD-daqQE8KqfQ,"please stay away from this eliquid .... the worst vape juice ever! | e-liquid / e juice review
+this video does contain some swearing my apologies!
+i got this vape ejuice sent to me to review and i wished i never even opened it. it is a chinese e juice..... please do not try or buy!!!!
 
-youtube       ♥ https://www.youtube.com/channel/ucjqiwwcaumyptxa7-pgvfcw
-vape tube   ♥ https://www.vape-tube.com/tnotpr-vaping
-facebook    ♥ https://www.facebook.com/tnotprvaping/
-instagram    ♥ https://www.facebook.com/tnotprvaping/
-twitter         ♥ https://twitter.com/tnotpr
 
+vendors: if your looking for your product to be reviewed in a professional manner email me : adenh1982@gmail.com
 
+if you have a topic you want me to make a video about use #shadyvapes in the comments.
 
-**attention**
-here on tnotpr vaping we do not condone or encourage the use of nicotine or other addicting and mood altering chemicals or drugs. all the information provided is for entertainment purposes only, and not meant to be seen as educational nor informational. you  must be 18 years or older (uk) to view any of the content provided.",2019-12-01T08:00:06Z,Entertainment,299,16.0,0.0,8.0,[],True,5.0,11.0,True,4.0,10.0,True,4.0,18.0,True,6.0,8.0,False,,,True,5.0,17.0,True,6.0,8.0,True,6.0,3.0,True,5.0,11.0,True,5.0,19.0,True,5.0,12.0,True,4.0,13.0,True,5.0,9.0,False,,,True,5.0,9.0,True,5.0,14.0,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,vape related merch (phone cases_,0
-0,Alex,2020-12-03 20:33:04.909544,3260,HOW TO REFILL JUUL POD: 3 REASONS WHY TO REFILL JUUL VAPE FLAVOR PODS W/ NICOTINE SALTS,YW1_eL-L0GQ,https://www.youtube.com/watch?v=YW1_eL-L0GQ,HookahTownUSA,https://www.youtube.com/channel/UCpIxAC_xH5WiEZkXQELArug,refilling your juul vape pod will be the smartest decision you make. watch to find out how and why you should be doing so....,2018-01-29T00:53:09Z,Howto & Style,11302,59.0,2.0,16.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,4.0,14.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,3 7
-0,Alex,2020-12-03 20:33:41.116009,993,Joyetech AIO Review | The Best Beginners E-Cigarette Of 2016?,0UeMc9YCULk,https://www.youtube.com/watch?v=0UeMc9YCULk,AVAndy,https://www.youtube.com/channel/UCtXKe-W3GY4vd3kXSVJWk2w,"today we take a quick look at the joyetech aio all in one e-cigarette. the joyetech aio is an all in one setup that has the tank connected to the battery. this all in one setup is perfect for beginners, since you have everything that you need to start vaping in one simple package. 
+my most recent upload:  https://goo.gl/urqodq
 
-all you need to do is pick out your favorite e-liquid and pour it into the joyetech aio and you're good to go! did you enjoy this video? please leave a thumbs up and subscribe to our youtube channel!
+my most popular upload:  https://goo.gl/1tjjtz
 
-instagram: https://www.instagram.com/imavandy/",2016-03-29T15:02:09Z,Science & Technology,26385,287.0,10.0,47.0,['tutorial'],True,6.0,14.0,True,6.0,10.0,True,6.0,14.0,True,6.0,14.0,True,6.0,5.0,True,7.0,2.0,True,6.0,12.0,True,6.0,13.0,True,7.0,0.0,True,3.0,16.0,True,6.0,15.0,True,6.0,10.0,True,7.0,2.0,False,,,True,7.0,1.0,False,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-12-03 20:34:25.788338,2523,Nasty Juice Wicked Haze E-Juice (Taste Test / Review) | Tryout.,OLY0ONnrf44,https://www.youtube.com/watch?v=OLY0ONnrf44,TRYOUT,https://www.youtube.com/channel/UCcrgrI3lCbyh30jeRWAzvcw,"today i'm trying one of nasty juice's liquids called wicked haze!
+recommended playlist - how to make youtube videos:  https://goo.gl/edivni
 
-last review:
-• https://youtu.be/ym7_veij9xi
+disclaimer: all of these links are not affiliate links and i don't earn any money from them,
+i get sent samples for free and i don't receive any money for reviewing them, the only money i receive is from yt revenue
+which i put back into the channel by buying more mods or equipment....thank you all for your support....vape on!!
 
-last video:
-• https://youtu.be/v0smtq6vz6g
+learn more about me or contact me here:
+https://www.youtube.com/c/shadyvapes
 
+facebook - https://www.facebook.com/shadyvapes82/
+twitter - https://twitter.com/shadyvapes
+instagram - https://www.instagram.com/shadyvape82/
 
-music:
-• https://coryayo.bandcamp.com/
+help me to support this channel by making a small donation
+all proceeds will go to making this channel better.
+https://www.paypal.me/shadyvapes",2017-05-02T20:13:26Z,People & Blogs,123303,451.0,128.0,160.0,['tutorial'],True,3.0,12.0,True,4.0,18.0,True,5.0,3.0,True,3.0,9.0,True,4.0,8.0,True,2.0,6.0,True,3.0,10.0,True,2.0,13.0,True,4.0,8.0,True,4.0,1.0,True,3.0,16.0,False,,,False,,,False,,,True,3.0,5.0,True,4.0,10.0,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:29:38.557898,408,Robert Ellis Funny Vaping Compilation,39Vr2QKoI14,https://www.youtube.com/watch?v=39Vr2QKoI14,frick,https://www.youtube.com/channel/UCAgme2FeXV9Wd98sZfhC4hg,"all of these clips belong to robert ellis. i only edited them.
 
-▬▬▬▬▬▬▬▬▬▬▬▬tryout▬▬▬▬▬▬▬▬▬▬▬▬
-➫ subscribe: http://bit.ly/subtotryout
-➫ twitter: http://www.twitter.com/itryout
+like if you enjoyed!
+my ig meme page: https://instagram.com/victors_memery/
+robert ellis: https://m.youtube.com/user/roberteellis",2019-12-09T05:38:29Z,Gaming,2077083,51447.0,1342.0,3025.0,[],True,4.0,17.0,True,4.0,8.0,True,4.0,14.0,True,5.0,11.0,True,7.0,0.0,True,5.0,1.0,True,5.0,12.0,True,3.0,6.0,True,6.0,3.0,True,5.0,5.0,True,5.0,9.0,False,,,True,3.0,7.0,True,3.0,13.0,True,5.0,5.0,True,2.0,16.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,,,9
+0,Alex,2020-12-04 22:30:54.135772,838,How to make a powerful vape mod,a8Q3Oni3bmQ,https://www.youtube.com/watch?v=a8Q3Oni3bmQ,Make TV,https://www.youtube.com/channel/UCac8lPGGZzkxXSTmgm5E_zw,"atomizers:
+http://ali.pub/1ojyn5
 
-feel free to contact me if you should have any products you would like me to review. - tryout.inquiries@gmail.com
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+http://ali.pub/1ojypv
 
-disclaimer: the products featured and reviewed in this video are for the purpose of consuming nicotine. nicotine is a highly addictive substance and is not to be used or purchased by anyone under the age of 18.
+adapter for batteries - http://ali.pub/1ojyr1
 
-©tryout.™",2018-02-10T14:28:51Z,Entertainment,10192,134.0,32.0,33.0,[],False,,,False,,,False,,,False,,,True,4.0,9.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-12-03 20:35:15.966888,2819,DIY Eliquid NADQ Why does my e-juice get cloudy?,vw2qGDF4hYM,https://www.youtube.com/watch?v=vw2qGDF4hYM,DIY E-juice University,https://www.youtube.com/channel/UCmeXLtDpJAsSJIBRyxctxvg,"nadq never a dumb question.
+510 connector - http://ali.pub/1ojyt6
 
-why does my mix get cloudy?
+charging module - http://ali.pub/3aubhe
 
-anything suspended in triacetin will produce a cloudy mixture.
-these include but not limited to cinnamon red hot, citrus flavors, cherry, koolada and some menthols. 
-certain flavors can separate and cloud your juice especially with changes in temperature.
-one cure for cloudy mixes is to up the pg ratio in your mix.
-sometimes a good steeping will cure cloudy juice. 
-warmer temperatures can also cure cloudy juice.
-cloudy juice is safe to vape although it is not very eye appealing.
----------------------------------------------------------------",2016-03-17T00:15:52Z,Howto & Style,14800,158.0,8.0,74.0,['tricks'],False,,,False,,,False,,,False,,,True,5.0,3.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,3 7
-0,Alex,2020-12-03 20:37:01.443667,521,"Can I Mix e-Liquid Brands, Flavors, and Strengths? Vape Tips and Tricks from Vapor Kings",K91rBgG8fDA,https://www.youtube.com/watch?v=K91rBgG8fDA,Vapor Kings,https://www.youtube.com/channel/UCDSHET626GXiGzzzHd3rV3g,"vape tips & tricks: “can i mix e-liquid brands, flavors, and strengths?”
+button with fixing - http://ali.pub/1ojyv4
 
-yes! reasons people mix e-liquids they’ve purchased:
+button without fixing - http://ali.pub/1ojywv
 
-- custom flavors
-- adjust nicotine strength
-- adjust consistency
+voltmeter - http://ali.pub/1ojyzs
 
-mixing e-liquids can be a fun new way to experiment and discover new flavors. we’ve seen some crazy vape juice blends from people! 
 
-so if you have a liquid that is too thick or thin, too high or low in nicotine, or a flavor that could use a little more punch…don’t throw it out. mix it up!
+*****************************************************************************
 
-visit vapor kings online or at one of our vape shops in tulsa, sand springs, or las vegas. we carry today’s hottest vapor devices and have a wide selection of vape juice.
+my account in vk - https://vk.com/maksimdiy
 
+my group in vk - https://vk.com/maksimdiydoma
 
-subscribe to vapor kings:
-https://www.youtube.com/user/vaporkings
+instagram - https://www.instagram.com/maksimka_make_tv/
 
-follow vapor kings:
-http://www.facebook.com/vaporkings
-http://www.twitter.com/vaporkings 
-http://www.instagram.com/vaporkings 
-http://www.vaporkings.com",2017-09-29T18:42:42Z,Science & Technology,27699,341.0,3.0,56.0,['tricks'],True,5.0,7.0,True,4.0,18.0,True,4.0,18.0,True,3.0,14.0,True,3.0,14.0,True,4.0,10.0,True,3.0,16.0,True,5.0,4.0,True,3.0,2.0,True,5.0,10.0,True,4.0,9.0,True,5.0,1.0,True,5.0,9.0,True,4.0,1.0,True,4.0,10.0,False,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,7
-0,Alex,2020-12-03 20:37:26.615859,2533,My Top 5 E-Liquids Of 2018 So Far! 200th Video!,wI_AcH_3__Y,https://www.youtube.com/watch?v=wI_AcH_3__Y,The Scots Review,https://www.youtube.com/channel/UCTU6oafrTeZorAKWiJWQeyA,"today i'll be running through my top 5 eliquids of 2018 so far! 
+facebook - https://www.facebook.com/profile.php?id=100013217658975",2017-10-15T17:27:09Z,People & Blogs,342786,3093.0,222.0,165.0,[],True,4.0,15.0,True,4.0,17.0,True,5.0,0.0,True,5.0,1.0,True,3.0,16.0,True,4.0,1.0,True,5.0,2.0,True,5.0,0.0,True,3.0,16.0,False,,,True,4.0,3.0,True,3.0,8.0,True,4.0,15.0,True,3.0,11.0,True,4.0,3.0,True,6.0,13.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,,3 7
+0,Alex,2020-12-04 22:32:43.691675,542,Does Vape Juice Expire?,tGrI-DobpJQ,https://www.youtube.com/watch?v=tGrI-DobpJQ,VapeWild,https://www.youtube.com/channel/UCDKUsnmc-U81pi98VOm_f4A,"does vape juice or eliquid expire? this is a question all vapers ask at some point in their vaping journey. we will answer this question for you in this video and for more info on vape juice click here - http://bit.ly/2e9bnvq
 
-for vendors looking to have their product reviewed in a professional manner, email me here: kierangreen346@gmail.com
 
-for the scots review merchandise, check here: https://shop.spreadshirt.co.uk/thescotsreview/?nocache=true
+can vape juice expire? of course, it can! make sure you read how long it takes in the blog. also, get some tips for keeping your e-juice fresh for a little bit longer. if you didn’t already vape it, of course!
 
-get in touch on twitter: https://twitter.com/thescotsreview
 
-join our facebook group: https://www.facebook.com/groups/thescotsreview/
+if you are new to vapewild we have a bonus for you here  - http://bit.ly/2e5eg0p
 
-instagram pish here: https://www.instagram.com/thescotsreview/
+you can also find vapewild in the eu and ie
+eu - http://bit.ly/2e6yxav
+ie - http://bit.ly/2e5eip3
 
-fancy supporting me? visit my patreon: https://www.patreon.com/thescotsreview
+for more vape info make sure to subscribe to our channel and watch our vape how to playlist :-)",2019-05-15T19:00:05Z,Howto & Style,6843,136.0,3.0,21.0,['tutorial'],True,6.0,8.0,False,,,False,,,False,,,True,6.0,19.0,True,7.0,14.0,False,,,True,6.0,6.0,True,5.0,2.0,True,7.0,18.0,True,7.0,7.0,True,7.0,12.0,True,6.0,10.0,True,6.0,15.0,True,7.0,8.0,False,,,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,,7
+0,Alex,2020-12-04 22:33:42.356067,1683,KZOR's Juice Review : TKO E-juice Range,cD55Cp3XhkY,https://www.youtube.com/watch?v=cD55Cp3XhkY,KZOR SA Reviewer,https://www.youtube.com/channel/UCF1DY-pnKIho1jainu1fRtA,"website : https://tasteknockout.co.za/
+facebook : https://www.facebook.com/search/top/?q=taste%20knockout
 
-join our discord server: https://discord.gg/35erzq8
+setup :
+cotton bacon v2
+framed staple coil ( 28's , 0.3 ribbons, 38ga clapton)
+resistance : 0.16 ohm
+whattage : 50w
+atomizers : nudge, recoil, hadaly
 
-follow me on twitch: https://www.twitch.tv/thescotsreview
+i had the privilege of testing six flavours from tko over a period of a week. testing was done on different atomizers and either via dripping or squonking.
 
-disclaimer: the products featured and reviewed in this video are for the purpose of consuming nicotine. nicotine is a highly addictive substance and is not to be used or purchased by anyone under the age of 18.
+range tested : 
+1) me time - glazed cinnamon roll
+2) ice pick - cool mint
+3) crustee - peanut butter & maple syrup toast
+4) yellow milk - banana milkshake
+5) blue milk - bubblegum milkshake
+6) lime milk - lime milkshake",2018-02-18T11:22:28Z,People & Blogs,2613,,,26.0,[],True,6.0,5.0,False,,,False,,,True,6.0,12.0,False,,,False,,,True,6.0,12.0,True,5.0,16.0,False,,,False,,,False,,,True,6.0,3.0,True,6.0,7.0,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:34:24.594297,2758,Buzz Nic Salt Vape Pen Disposable,2DzMZQyBSik,https://www.youtube.com/watch?v=2DzMZQyBSik,Teagardins TV,https://www.youtube.com/channel/UCTAcwQyNocWXiMjZv0kF8gA,"text me (310) 974 - 1963 
 
-thanks for watching!",2018-04-23T21:52:43Z,People & Blogs,78228,798.0,82.0,144.0,[],False,,,False,,,False,,,False,,,True,6.0,1.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,0
-0,Alex,2020-12-03 20:38:15.348305,3620,How to refill and hack Vuse e-cig catridge,HAAwRPgvp3A,https://www.youtube.com/watch?v=HAAwRPgvp3A,deltaforcemusic,https://www.youtube.com/channel/UCNt4hMwyzexEHWHIKOkpb0Q,"please subscribe, comment, or thumbs up if this worked for you :d thanks!",2016-12-04T06:07:30Z,Education,111547,382.0,26.0,139.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,6.0,0.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,3 7
-0,Alex,2020-12-03 20:39:28.973408,1031,MOD TIPS #02: How to Drill Holes for Box Mods,EG3D6LtAm6s,https://www.youtube.com/watch?v=EG3D6LtAm6s,Find My Vapes,https://www.youtube.com/channel/UCt-6fkD-MQpTU7bJCmBC6Jg,"where to get step drill bit:
-http://amzn.to/1f5ifcr 
+link for purchase: 
+https://www.tgrsupply.com/products/buzz-nic-salt-vape-disposable-bar?variant=32078687567977
 
-see full article at: http://findmyvapes.com/mod-tips-02-how-to-drill-holes-for-box-mods/
+instagram - @tgrsupply",2020-03-18T02:08:58Z,People & Blogs,3593,32.0,5.0,11.0,[],False,,,False,,,False,,,False,,,True,6.0,14.0,True,7.0,1.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,6.0,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:35:04.100222,751,Mi-POD Clone?! The SMOK Mico Pod Kit! Tiny Vape Pod System!,zFDnDLLHoJs,https://www.youtube.com/watch?v=zFDnDLLHoJs,RiP Trippers,https://www.youtube.com/channel/UCgZd5ygXFoQry9KDGlddSBg,"for more information on what was shown in this video
+visit: http://bit.ly/2pgclyu
 
-website: http://www.findmyvapes.com
-instagram: http://findmyvapes.com/go/instagram
-facebook: http://findmyvapes.com/go/facebook
-twitter: http://findmyvapes.com/go/twitter",2014-11-20T03:57:22Z,Entertainment,91925,630.0,16.0,56.0,[],True,3.0,16.0,False,,,False,,,True,3.0,18.0,True,5.0,9.0,True,6.0,14.0,True,3.0,19.0,True,3.0,18.0,True,6.0,14.0,True,3.0,13.0,False,,,False,,,True,3.0,15.0,True,6.0,12.0,False,,,False,,,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,vape blog website,7
+my instagram: http://www.instagram.com/riptrippers
+
+uwell caliburn review:
+https://www.youtube.com/watch?v=eyop6srx5c4&t=11s",2019-03-05T19:20:04Z,People & Blogs,304592,4015.0,130.0,361.0,[],True,6.0,17.0,False,,,False,,,True,6.0,12.0,False,,,False,,,True,6.0,13.0,True,2.0,10.0,True,7.0,11.0,True,5.0,3.0,False,,,True,2.0,15.0,True,7.0,0.0,True,4.0,0.0,True,7.0,18.0,True,1.0,12.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:36:03.081945,3481,How to EASILY open JAM MONSTER bottles (100ml & 120ml Chubby Gorilla Bottles),XAal6VzNRPg,https://www.youtube.com/watch?v=XAal6VzNRPg,AVAndy,https://www.youtube.com/channel/UCtXKe-W3GY4vd3kXSVJWk2w,"today we go over how to easily open your bottle of jam monster (though this applies to all 100ml & 120ml chubby gorilla bottles like cloud heads, cold war, custard shoppe, chubby bubble vapes, keepit100, and more)
+
+the main problem is that the security seals are too thick to break when applying pressure on the child proof caps. you need to break the security seals with a dull object like the pen i used in this video. it should only take like 15 seconds to break all  six seals and then you'll be able to open/close your jam monster eliquid bottle easily. 
+
+
+
+personal instagram (first looks & more!): https://www.instagram.com/imavandy/
+
+if you did enjoy this video please be sure to leave a thumbs up & subscribe, it would be greatly appreciated. if you have any questions about this setup or any vaping related questions in general, please leave a comment down below.",2017-05-18T00:18:35Z,People & Blogs,225904,1168.0,246.0,193.0,"['tutorial', 'tricks']",False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,15.0,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,,7
+0,Alex,2020-12-04 22:36:35.059604,1058,Smok Vape Mod Setup: What should i set my WATTAGE VOLTAGE OHMAGE TEMP CONTROL Vape Brat Tutorial,iQJ82npzQV4,https://www.youtube.com/watch?v=iQJ82npzQV4,HookahTownUSA,https://www.youtube.com/channel/UCpIxAC_xH5WiEZkXQELArug,"so you got your new mod, you're super excited, but you have no idea what settings, temp, wattage etc to put it on! what the f@#$ is the wattage, ohmage, tc, and voltage stuff? we got you covered, relax this will only take a min and wont hurt one bit :) this video is applicable for all variable wattage or tc vape mods.",2017-08-18T22:41:54Z,Howto & Style,118286,544.0,59.0,62.0,[],True,5.0,9.0,True,7.0,3.0,True,7.0,9.0,True,5.0,0.0,False,,,False,,,True,5.0,1.0,True,5.0,11.0,False,,,True,5.0,7.0,False,,,False,,,True,5.0,8.0,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,,7
+0,Alex,2020-12-04 22:37:52.174377,2175,"New York’s flavored e-cigarette ban delayed by courts — October 3, 2019",xI_RMYzryJM,https://www.youtube.com/watch?v=xI_RMYzryJM,News 8 WROC,https://www.youtube.com/channel/UCzocYTD8J3ezkaoND4iQPGA,"new york state’s ban on flavored e-cigarette and vaping products was scheduled to go into effect friday, but now that ban is being delayed by state courts.",2019-10-03T21:27:26Z,News & Politics,150,4.0,0.0,2.0,[],False,,,False,,,True,5.0,11.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,6.0,0.0,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,,,2
+0,Alex,2020-12-04 22:38:57.330426,1920,Ryan Hall - Out Of Vape Juice,NPO5krSZfkU,https://www.youtube.com/watch?v=NPO5krSZfkU,Ryan Hall,https://www.youtube.com/channel/UC23zfpquyxJLwpLDDzeBVuQ,"for more information on everything you saw in this video & more, please go here: https://www.rkhtv.com
+
+twitter https://twitter.com/rkhtv (@rkhtv)
+instagram https://www.instagram.com/rkhtvinsta/ (rkhtvinsta)
+facebook https://www.facebook.com/rkhtv/",2018-10-08T16:11:35Z,Music,181149,5622.0,157.0,707.0,[],False,,,True,7.0,0.0,True,7.0,13.0,True,7.0,7.0,True,6.0,6.0,False,,,True,7.0,9.0,False,,,False,,,False,,,False,,,True,7.0,4.0,False,,,True,5.0,2.0,False,,,True,6.0,10.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,,vape song,9
+0,Alex,2020-12-04 22:39:57.100372,3685,Stiiizy vs Plug Play: which weed vape pod is best?,DrttwWvLgSI,https://www.youtube.com/watch?v=DrttwWvLgSI,Weeats Reviews,https://www.youtube.com/channel/UC6ocnksL6_J4TUrDJKaWeoA,"fuck off, juul. it's all about weed, baybe! today, we'll be looking at two of the most popular weed vape pods, plug play and stiiizy.
+
+i'll give them both a test drive for a week and will come to ultimate verdict about which is worth your money. 
+
+
+facebook:
+https://www.facebook.com/weeatsreviews/
+
+twitter:
+https://twitter.com/weeatsreviews
+
+email:
+weeats@weeatsreviews.com",2020-02-08T00:34:14Z,Entertainment,4198,98.0,1.0,60.0,['marijuana'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,5.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False,,,0 5 7
+0,Alex,2020-12-04 22:40:27.574610,923,The Future Of Vaping - Mark Ten By Philip Morris Review,RvB2kKar_no,https://www.youtube.com/watch?v=RvB2kKar_no,Matt From SMM,https://www.youtube.com/channel/UCaABLqKOy33BcQBU0bG1mmA,"this is my review of the mark ten by philip morris. point of this review is to show people what vape reviews and the community in general, could look like a few years from now if we don't stand up now and take action!
+
+once again, don't forget to join http://casaa.org & 
+http://thevapingmilitia.org
+
+for suck my mod tee's, hoodies, and decals, click here. http://www.vapingswag.com/suck-my-mod/
+
+please like our facebook page! https://www.facebook.com/smmvapereviews",2015-04-08T07:11:14Z,People & Blogs,327740,2439.0,258.0,766.0,[],True,2.0,16.0,True,2.0,13.0,True,2.0,14.0,True,2.0,15.0,True,3.0,12.0,True,2.0,19.0,True,2.0,15.0,True,2.0,12.0,True,2.0,15.0,True,2.0,10.0,True,2.0,16.0,True,2.0,7.0,True,2.0,17.0,True,2.0,16.0,True,2.0,18.0,True,2.0,14.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:41:21.635671,811,ABC's of How to use Mechanical Vape Mods Safely / Mech Mod Safety Tips,KDYZzU2N9pw,https://www.youtube.com/watch?v=KDYZzU2N9pw,ShadyVapes,https://www.youtube.com/channel/UCGDU6IRhDFkD-daqQE8KqfQ,"after receiving lots questions about this subject, here are my abc's of how to use mechanical vape mods - beginners guide with shadyvapes
+in this video i give an explanation to the ohms law, explain what mechanical mods are, battery safety and coil building......
+
+!
+
+i always use this site to check all of my coil builds and batery safety info: http://www.steam-engine.org/
+
+
+contact me: if your looking for your product to be noticed and reviewed in a professional manner email me : adenh1982@gmail.com
+
+most recent upload: https://goo.gl/urqodq
+most popular upload: https://goo.gl/1tjjtz
+subscribe to channel: https://goo.gl/b6hbxi
+most popular playlist: https://goo.gl/1b6lbb
+
+you can also reach me on my other social networks:
+shadyvapes vape group on facebook: https://www.facebook.com/groups/1915258932052809/
+instagram: https://www.instagram.com/shadyvapes82/
+twitter: http://twitter.com/shadyvapes
+facebook page:https://www.facebook.com/shadyvapes82
+email: adenh1982@gmail.com
+
+help me to support this channel by making a small donation
+all proceeds will go to making this channel better.
+https://www.paypal.me/shadyvapes
+
+disclaimer: all of these links are not affiliate links and i don't earn any money from them,
+i sometimes get sent samples for free which i will state in that video and i don't receive any money for reviewing them, the only money i receive is from yt revenue
+which i put back into the channel by buying more mods or equipment....thank you all for your support....vape on!!",2017-11-23T08:00:02Z,People & Blogs,139800,2721.0,91.0,246.0,['tutorial'],True,3.0,7.0,True,4.0,6.0,True,4.0,8.0,True,4.0,12.0,True,7.0,10.0,True,3.0,15.0,True,4.0,13.0,True,4.0,9.0,True,3.0,4.0,True,4.0,19.0,True,3.0,15.0,True,3.0,4.0,True,3.0,6.0,True,3.0,6.0,True,3.0,16.0,True,4.0,6.0,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,,7
+0,Alex,2020-12-04 22:43:07.137425,948,ePuffer Magnum Review,PEn24R9hIQA,https://www.youtube.com/watch?v=PEn24R9hIQA,Seven Report,https://www.youtube.com/channel/UCgxVM54pZtx6EW_ET3OK1rQ,"it's the new cigalike starter kit from epuffer, the magnum.
+
+order the magnum here:
+http://epuffer.com/e-cigs/magnum-e-cigarettes/e-cig-starter-kit/magnum-snaps-ecigarette/",2016-02-29T19:26:49Z,People & Blogs,14593,58.0,7.0,14.0,[],True,4.0,4.0,True,3.0,17.0,True,3.0,19.0,False,,,False,,,True,4.0,4.0,False,,,True,3.0,17.0,True,4.0,2.0,True,4.0,10.0,True,4.0,4.0,True,3.0,14.0,True,4.0,7.0,True,4.0,3.0,True,4.0,11.0,True,3.0,13.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:43:35.546889,671,The Aurora Play Vape Pod System By Vaporesso!,CMTmXodOfH4,https://www.youtube.com/watch?v=CMTmXodOfH4,RiP Trippers,https://www.youtube.com/channel/UCgZd5ygXFoQry9KDGlddSBg,"for more information on what was shown in this video
+visit: http://bit.ly/2pgclyu
+
+my instagram: http://www.instagram.com/riptrippers
+
+e8 vape pod system video review:
+https://www.youtube.com/watch?v=ykhwag6cnq4
+
+smok nord kit video review:
+https://www.youtube.com/watch?v=68duhcfpoq8&t=1s
+
+smok mico pod kit video review:
+https://www.youtube.com/watch?v=zfdndllhojs
+
+in this vape video riptrippers talks about a vape pod system called the aurora play by vaporesso. included in this vape pod kit is 2 refillable vape pods for your vaping pleasure, a usb cord for charging the vape pod mod, and a 10ml ejuice fill bottle. the liquid riptrippers was using in this vaping review was doe in heat from vapetrik.",2019-03-28T18:22:56Z,People & Blogs,85017,1880.0,60.0,167.0,[],True,2.0,11.0,True,3.0,5.0,True,3.0,8.0,True,3.0,1.0,True,2.0,9.0,True,2.0,14.0,True,3.0,2.0,True,3.0,0.0,True,2.0,13.0,False,,,True,2.0,10.0,True,3.0,2.0,True,2.0,15.0,True,3.0,1.0,True,2.0,12.0,True,6.0,19.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:44:02.978912,2504,Bad Drip Labs e-Liquid Review,IVPhohfct5I,https://www.youtube.com/watch?v=IVPhohfct5I,CageClouds,https://www.youtube.com/channel/UCXcUOcrWK-lfKYvp5bFn3Dw,"this is my review of the bad drip labs e-juice line.  there are four different flavors in this line of e-liquids to fit everyone’s different flavor profiles.  these can be purchased from the e-spot vape shop for $22 for a 30ml bottle.
+
+e-spot vape shop - http://espotvapeshop.com
+
+bad drip labs - http://baddriplabs.com
+
+my website - http://www.cageclouds.com
+
+if you have questions or comments, please leave them in the comments below or you can email me at kevin@cageclouds.com.
+
+until next time, throw away that pack of cigarettes and grab yourself a vape.
+
+thanks for watching!
+
+
+disclaimers:
+some items are sent to me for free for the purpose of review, but that in no way influences my opinion of the product.
+
+vape at your own risk and please vape safely!",2015-12-17T01:48:47Z,People & Blogs,24386,252.0,11.0,80.0,"['marijuana', 'tricks']",False,,,False,,,False,,,False,,,True,2.0,9.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,4.0,14.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:45:02.777652,106,E-LVT Electronic Cigarette Review from Dovpoecig,lgEL7HihL60,https://www.youtube.com/watch?v=lgEL7HihL60,DansVapeReview,https://www.youtube.com/channel/UCv9zHclxpiOfJCHzq45r_Yg,"check out dovpo online
+http://www.dovpoecig.com
+
+here is a direct link to the e-lvt on dovpoecig.com
+http://www.dovpoecig.com/dovpo-e-lvt-ecigarette-manufacturer.html
+
+check out all my videos and subscribe!
+http://goo.gl/l9qvh
+
+check out my tobacco review channel
+http://www.youtube.com/realcigreview
+
+follow me on instagram
+http://www.instagram.com/realvapereview
+
+follow me on twitter
+http://www.twitter.com/realejuice
+
+check my out on tumblr
+http://realcigreview.tumblr.com/
+
+check out my facebook page
+http://www.facebook.com/realcigreview
+
+check out my sons hookah review channel
+http://www.youtube.com/realhookahreviews
+
+check out my other channel
+http://www.youtube.com/haveasmokeandrelax
+
+vine
+search #realcigreview to find me
+
+all thoughts and views in this video are of my opinion! i don't get paid from any vendor that sends me items for review! i give my honest opinion on all products i receive. if you don't see me ""bash"" many products, its because i refuse to review garbage (and yes i have turned down a bunch of reviews). buyer beware on any and all personal vaporizers or ejuice you purchase! remember that taste is subjective and something i love - you may hate, and vice versa! please vape responsibly! also please use special care with your batteries in all of your pv's! for some great info on battery safety check out this video http://youtu.be/phviq8rlodo
+
+
+if you have something that you would like me to review, or maybe something for my realcigreview channel you can send it to me and i will review it! if you just want to send over a thank you note, or maybe a little something something, feel free to do so! please make sure it is in a factory sealed package, and include any information that we would need to make the review (product name, your name, something you want mentioned, shout outs, or description of weird items) and we will make every attempt to get it reviewed. thanx!
+
+here is where to send it
+dan review (or skyler review)
+2536 rimrock ave.
+suite 400-131
+grand junction colorado, 81505
+usa
+
+
+
+thanks for watching!
+
+please subscribe, comment, and thumbs up!",2014-08-23T12:02:50Z,Education,10547,91.0,7.0,16.0,[],True,7.0,6.0,False,,,False,,,True,6.0,16.0,True,7.0,1.0,False,,,True,7.0,0.0,False,,,False,,,False,,,True,7.0,16.0,False,,,True,7.0,9.0,False,,,True,7.0,11.0,False,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:45:35.275478,2505,Naked 100 e-Juice - 6 Flavors! - Vape Don't Smoke Reviews,5aPPoFIBBVg,https://www.youtube.com/watch?v=5aPPoFIBBVg,Vape Don't Smoke,https://www.youtube.com/channel/UCfcvCv80Ke6DrSvglaeog_w,"vendors: if your looking for your product to be reviewed in a professional manner email me : vapedontsmoke82@gmail.com
+
+equipment i use
+panasonic hc-v770 12.76 mp camcorder
+sony a5100 mirrorless camera
+cannon eos 200d with 24mm lens
+rode videomic go - light-weight on-camera microphone",2017-05-20T13:11:11Z,People & Blogs,48959,233.0,34.0,78.0,[],False,,,False,,,False,,,False,,,True,5.0,12.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:45:58.736371,1006,Switching From Smoking To Vaping (Part 2) The Next Step,DZto2uiu0ow,https://www.youtube.com/watch?v=DZto2uiu0ow,Big Lou East Coast  Review,https://www.youtube.com/channel/UCd3HNQ6UWIPUtT8jJznGmpg,"http://www.innokin.com/
+https://www.khree.com/shop
+http://www.vapordna.com/infinite-inone-pod-mod-ultra-portable-kit-p/ifinpm.htm
+http://switchvapor.com/
+
+
+
+
+fight for your right to not smoke cigarettes! call your representatives and ask them to support the cole bishop amendment 
+
+►http://august8th.org
+►http://casaa.org/
+►http://notblowingsmoke.org/
+►http://fdaregs.info/
+►http://www.r2bsmokefree.org",2016-12-15T11:43:18Z,Howto & Style,9689,360.0,6.0,110.0,[],True,7.0,11.0,True,7.0,3.0,True,7.0,6.0,True,7.0,5.0,True,7.0,0.0,False,,,True,7.0,6.0,True,7.0,6.0,True,6.0,9.0,False,,,True,7.0,15.0,True,7.0,8.0,True,7.0,15.0,True,6.0,17.0,True,7.0,15.0,True,6.0,17.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,,7
+0,Alex,2020-12-04 22:47:03.052213,2905,E-cigarettes do not help quit smoking,jQRj7s0rMwQ,https://www.youtube.com/watch?v=jQRj7s0rMwQ,The Hindu,https://www.youtube.com/channel/UC3njZ48-FDxLleBYaP0SZIg,"the narendra modi government’s proposal to ban e-cigarettes and other electronic nicotine delivery systems (ends) needs to be welcomed as such a move will ensure that indians, especially, children, are kept away from these pernicious products. such a ban has also been recommended by the indian council of medical research (icmr), which called for a “complete prohibition on ends and e-cigarettes in india in the greater interest of protecting public health, in accordance with the precautionary principle preventing public harm from a noxious agent.”
+while the tobacco companies promote e-cigarettes as a ‘less risky’ smoking option, some industry documents show that their real goal is to introduce ends products as an alternative to quitting. one company started selling its e-cigarette brand in 2014, promising that it will give the consumers the ‘pleasure of smoking any time anywhere’ (suggesting that they could use the product even at public places, where smoking is banned). 
+research suggests that many youngsters, who would otherwise have never started using nicotine, took up conventional smoking after being introduced to e-cigarettes.",2019-07-27T12:08:20Z,News & Politics,4145,129.0,6.0,4.0,[],False,,,False,,,False,,,False,,,True,6.0,1.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,1
+0,Alex,2020-12-04 22:47:28.711697,3105,"Juul Vapor E-Cig Unboxing, Set Up & First Impressions With Virginia Tobacco",vX9W7Vq-DBk,https://www.youtube.com/watch?v=vX9W7Vq-DBk,Martin Lotsberg,https://www.youtube.com/channel/UCE1gk_WqpRj_7EFuN1uRAVQ,"juul unboxing, set up & first impression with virginia tobaccco.
+their website: http://bit.ly/juulwebsite
+
+v2 e-cig website: http://bit.ly/v2ecigs (v2 coupons: save = 10% off, savenow = 15% off e cig starter kits).
+
+juul vapor review:
+https://www.ecassoc.org/electronic-cigarettes/juul-e-cig-review/
+
+the best electronic cigarettes:
+https://www.ecassoc.org/electronic-cigarettes/",2017-10-11T12:44:15Z,Howto & Style,795495,4955.0,445.0,46.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,11.0,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,6.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,0
+0,Alex,2020-12-04 22:47:48.090066,2738,How to use puff bars after they die (Easy),WO4e9rtdK3I,https://www.youtube.com/watch?v=WO4e9rtdK3I,dopekingcherry 888,https://www.youtube.com/channel/UC8aIrvDBgZZTUynrWB1qzOg,this video shows you how puff bars can still be used after they die #1 trick first on to do it.enjoy and please like and subscribe,2019-12-23T19:50:15Z,Entertainment,333959,4809.0,989.0,802.0,['tricks'],False,,,False,,,False,,,False,,,True,4.0,7.0,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,1.0,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,,,3 7
+0,Alex,2020-12-04 22:48:19.284184,350,How safe is vaping? | 7.30,BaTWfRoUjeU,https://www.youtube.com/watch?v=BaTWfRoUjeU,ABC News (Australia),https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q,"a new study says it is as harmful as smoking, but some doctors are still offering it as a better alternative to cigarettes.
+
+read more here: https://www.abc.net.au/news/2019-11-05/vaping-as-harmful-as-cigarettes-study-finds/11669434
+
+for more from abc news, click here: https://ab.co/2kxyczy
+if you're in australia, you can watch more abc news content on iview: https://ab.co/2mge4kh
+
+subscribe to us on youtube: http://ab.co/1svxlve
+go deeper on our abc news in-depth channel: https://ab.co/2lnebn2
+you can also like us on facebook: http://facebook.com/abcnews.au
+or follow us on instagram: http://instagram.com/abcnews_au
+or even on twitter: http://twitter.com/abcnews",2019-11-05T01:00:00Z,News & Politics,12761,154.0,77.0,,[],True,2.0,10.0,True,4.0,11.0,True,3.0,9.0,True,4.0,17.0,False,,,True,5.0,2.0,True,4.0,19.0,True,2.0,2.0,True,4.0,15.0,True,2.0,12.0,True,4.0,7.0,True,2.0,5.0,True,1.0,14.0,True,2.0,3.0,True,5.0,0.0,True,6.0,8.0,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,True,False,False,False,False,False,,,1 2
