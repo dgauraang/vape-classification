@@ -1,399 +1,243 @@
 ,Name,Timestamp,Index,Video_Title,Video_ID,Video_URL,Channel_Name,Channel_URL,Description,Publish_Date,Category,View_Count,Like_Count,Dislike_Count,Comment_Count,Classification,hispanicmale24_Search_Appearance,hispanicmale24_Page,hispanicmale24_Ranking,hispanicfemale24_Search_Appearance,hispanicfemale24_Page,hispanicfemale24_Ranking,whitemale24_Search_Appearance,whitemale24_Page,whitemale24_Ranking,whitefemale24_Search_Appearance,whitefemale24_Page,whitefemale24_Ranking,africanamericanmale24_Search_Appearance,africanamericanmale24_Page,africanamericanmale24_Ranking,africanamericanfemale24_Search_Appearance,africanamericanfemale24_Page,africanamericanfemale24_Ranking,whitemale24_2_Search_Appearance,whitemale24_2_Page,whitemale24_2_Ranking,whitefemale24_2_Search_Appearance,whitefemale24_2_Page,whitefemale24_2_Ranking,hispanicmale16_Search_Appearance,hispanicmale16_Page,hispanicmale16_Ranking,hispanicfemale16_Search_Appearance,hispanicfemale16_Page,hispanicfemale16_Ranking,whitemale16_Search_Appearance,whitemale16_Page,whitemale16_Ranking,whitefemale16_Search_Appearance,whitefemale16_Page,whitefemale16_Ranking,whitemale16_2_Search_Appearance,whitemale16_2_Page,whitemale16_2_Ranking,whitefemale16_2_Search_Appearance,whitefemale16_2_Page,whitefemale16_2_Ranking,africanamericanmale16_Search_Appearance,africanamericanmale16_Page,africanamericanmale16_Ranking,africanamericanfemale16_Search_Appearance,africanamericanfemale16_Page,africanamericanfemale16_Ranking,electronic_cigarette_search,e-cigarette_search,e-cig_search,vape_search,vaping_search,e-liquid_search,e-juice_search,vape_pods_search,vape_mods_search,cigalikes_search,box_mods_search,vape_pens_search,pod_mods_search,disposable_vape_search,disposable_e-cigs_search,disposables_search,vape_juice_search,ends_search,has_label_0,has_label_1,has_label_2,has_label_3,has_label_4,has_label_5,has_label_6,has_label_7,has_labels,has_label_8,has_label_9,has_label_10,has_label_11,has_label_12,has_label_13,has_label_14,has_label_nan,model 3
-0,Alex,2020-12-07 22:03:07.561497,950,The Truth About Electronic Cigarettes (a.k.a. Vape Products),xnKPsBEtexg,https://www.youtube.com/watch?v=xnKPsBEtexg,Michigan HHS,https://www.youtube.com/channel/UCFUA0N5FjuwuKRPZcQzgvTQ,"this 2019 michigan department of health and human services webinar presents information about electronic cigarettes, also called e-cigarettes or vape products.  
+0,Alex,2020-12-09 00:22:52.471842,2896,Vaping PSA,DdPqLGhdETc,https://www.youtube.com/watch?v=DdPqLGhdETc,Rachelle Balili,https://www.youtube.com/channel/UCrB8gkNl0uO8NX3QY5p_Y3A,"hs 172, spring 2017
+team 6
 
-elaine lyon and carolyn chaudhary, both public health consultants in the mdhhs tobacco section, explain the basics of e-cigarettes, including how they work, what they look like, and how you can recognize them. they also talk about the types of public health consequences and the safety and health concerns posed by e-cigarettes.  the presenters also discuss what makes e-cigarettes especially attractive to youth in our state.  resources are also provided for those who want to learn more about this important health topic.
+psa sources
+center for disease control and prevention (2017). nicotine: systemic agent. retrieved from 
+https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750028.html
+e-cigarettes. (n.d.). retrieved  may 2, 2017 from the wikipedia wiki: 
+https://upload.wikimedia.org/wikipedia/commons/9/94/e-cigarette-electronic_cigarette-
+e-cigs-e-liquid-vaping-cloud_chasing_%2816161316908%29.jpg
+love your lungs (2014). retrieved may 01, 2017 from http://i.dailymail.co.uk/i/pix/2014/08/13/
+article-0-207dd8eb00000578-489_634x439.jpg
+lung health (2016). retrieved may 02, 2017 from https://parade.com/wp-content/uploads/
+2016/09/lunghealth_ftr.jpg
+stanford school of medicine (n.d.). [e-cigarette advertisements]. stanford research into the 
+impact of tobacco advertising electronic cigarettes. retrieved from 
+http://tobacco.stanford.edu/tobacco_main/main_ecigs.php
+terrilg70 (2011, december 3). how many ""hits"" equal smoking a cigarette? [msg 6]. message 
+posted to https://www.e-cigarette-forum.com/forum/threads/how-many-hits-equal-
+smoking-a-cigarette.244923/
+the home of vaping. (n.d.). retrieved may 02, 2017 from http://vaping360.com/wp-content/
+uploads/2017/03/e-cigarettes-are-95percent900x900.png
+u.s. environmental protection agency (2017). health and environmental effects of particulate 
+matter (pm). retrieved from https://www.epa.gov/pm-pollution/health-and-
+environmental-effects-particulate-matter-pm
+u.s. food & drug administration (2017). vaporizers, e-cigarettes, and other electronic 
+nicotine delivery systems (ends). retrieved from
+https://www.fda.gov/tobaccoproducts/labeling/productsingredientscomponents/ucm4566
+10.htm#manufacturing
+vapor blends e-juice (n.d.). retrieved may 02, 2017 from http://i.ebayimg.com/images/i/
+141240513111-0-1/s-l1000.jpg
+your ultimate guide to the best vaping experience. (n.d.). retrieved may 03, 2017 from 
+http://ecigclopedia.com/wp-content/uploads/2015/08/nicotine.png",2017-05-03T00:18:26Z,People & Blogs,323,2.0,2.0,0.0,"['tutorial', 'tricks', 'EVALI']",False,,,False,,,False,,,False,,,True,5.0,9.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
+0,Alex,2020-12-09 00:23:43.407778,338,Damn Vape Wotan Sub-ohm Tank Review (The best flavour I've ever vaped from a tank),8fuzyyJ81tE,https://www.youtube.com/watch?v=8fuzyyJ81tE,VapeCity Reviews,https://www.youtube.com/channel/UCfK13n7P6JUIKMrI2DtUzkA,"for review enquiries contact me on: johncaseymufc@gmail.com
 
-for more information about e-cigarettes, visit https://www.michigan.gov/e-cigarettes.",2019-10-22T16:45:48Z,Nonprofits & Activism,395,,,,[],True,4.0,6.0,False,,,False,,,False,,,True,4.0,13.0,True,4.0,8.0,False,,,False,,,False,,,False,,,True,4.0,8.0,False,,,True,4.0,8.0,True,4.0,5.0,True,4.0,9.0,True,4.0,3.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,,3
-0,Alex,2020-12-07 22:05:22.101959,2461,Cloud Chuckin' Tesla Vape! Invader GT,wmNWdMQMo3k,https://www.youtube.com/watch?v=wmNWdMQMo3k,Ryan Hall,https://www.youtube.com/channel/UC23zfpquyxJLwpLDDzeBVuQ,"for more information on everything you saw in this video & more, please go here: http://bit.ly/ryanhalltv
+also check out this guy for video pieces and epic written reviews 
 
-my website: https://www.rkhtv.com
+https://www.youtube.com/user/ncboreas
+table camera wood and leather set-up from www.facebook//the-pallet-man-241565116430205/
+                          : 
+find me also on facebook: 
+
+https://m.facebook.com/profile.php?id=1585235808461714&ref=content_filter
+
+twitter: https://twitter.com/vapecityreviews
+instagram: @vapecityreviews",2020-07-28T17:46:57Z,People & Blogs,392,,,20.0,[],True,5.0,18.0,False,,,False,,,True,4.0,19.0,False,,,False,,,True,5.0,1.0,False,,,False,,,False,,,False,,,False,,,True,6.0,16.0,False,,,False,,,False,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
+0,Alex,2020-12-09 00:26:35.490340,1354,He Vaped Nothing But Disposables For a Whole Week. Air Bars,onghfey7ACc,https://www.youtube.com/watch?v=onghfey7ACc,Ryan Hall,https://www.youtube.com/channel/UC23zfpquyxJLwpLDDzeBVuQ,"for more information on everything you saw in this video & more, please go here:  https://www.rkhtv.com
 
 twitter https://twitter.com/rkhtv (@rkhtv)
 instagram https://www.instagram.com/rkhtvinsta/ (rkhtvinsta)
-facebook https://www.facebook.com/rkhtv/",2020-07-11T19:00:06Z,Entertainment,17575,864.0,13.0,92.0,[],False,,,False,,,False,,,False,,,True,6.0,11.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,0 1
-0,Alex,2020-12-07 22:07:38.024519,2988,Jmodz Ohmph PWM Box Mod - Mike Vapes,eL9jGZBf1S4,https://www.youtube.com/watch?v=eL9jGZBf1S4,Mike Vapes,https://www.youtube.com/channel/UCt3WcCLs8Zm-zZNcqgixyMw,"advocacy  info
-join http://www.casaa.org/
-http://unitedvapersalliance.org/
-https://www.facebook.com/groups/1398503460303419/
-https://www.whitehouse.gov/get-involved/write-or-call/
-call the white house at (202) 456-1414 and make them hear our voices. tell them you vape flavored eliquids,  we vape and we vote and a thank you.
-contact your governor https://www.usa.gov/state-governor
+facebook https://www.facebook.com/rkhtv/",2020-02-14T00:27:50Z,Entertainment,143208,3339.0,70.0,333.0,[],True,1.0,3.0,True,1.0,8.0,True,1.0,9.0,True,1.0,3.0,True,1.0,3.0,True,1.0,4.0,True,1.0,3.0,True,1.0,6.0,True,1.0,5.0,True,1.0,4.0,True,1.0,5.0,True,1.0,3.0,True,1.0,3.0,True,1.0,1.0,True,1.0,4.0,True,1.0,5.0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,0 1
+0,Alex,2020-12-09 00:27:12.165972,2876,Unregulated Ecigs the truth,wxdAynYzp6g,https://www.youtube.com/watch?v=wxdAynYzp6g,Ian Nicholson,https://www.youtube.com/channel/UCdfLk7-ftQIynZL27Srd3dQ,"http://ecita-regulated-ecigs.myinstapage.com/
+an electronic cigarette, electronic vaping device, personal vaporizer, or electronic nicotine delivery system is a battery-powered.
+ecigs, e-ciggy, e-cig
 
-my patreon - https://www.patreon.com/mikevapes
+ - created at http://animoto.com",2013-12-20T14:58:49Z,Howto & Style,30,1.0,0.0,0.0,[],False,,,False,,,False,,,False,,,True,4.0,7.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
+0,Alex,2020-12-09 00:28:28.317317,3225,This Cool Gadget On Amazon Can Save 6.6 Million Deaths!!,vrsxPJEqg9c,https://www.youtube.com/watch?v=vrsxPJEqg9c,sjDfreak,https://www.youtube.com/channel/UC5WydlxJmEd6h3Ocmx3-FLA,"this cool amazon gadget can save 6.6 million deaths, yes my friends this hitech gadgets on amazon is a new technology-based invention which is known as vaper or e-cigarettes and it helps in quilting cigarettes and this smartphone gadget is 95% safer than smoking cigarettes because it doesn't produce tar which causes cancer.
 
-my other channel https://www.youtube.com/c/mikelife1
+visit our another channel for vlogs and fun stuffs: https://www.youtube.com/channel/uc218r_famj_g0-bkof6ijhg
 
-amazon link for tool i used in video https://amzn.to/2zerx4x
+for latest tech news and information visit our website:- https://www.sjdfreak.in
+------------------------------------------------------------------------------------------------------------------------------------------
+sell used mobile or laptop in 60 seconds:- https://goo.gl/c47kjq
+------------------------------------------------------------------------------
+follow me on instagram to enter into the giveaway:- 
+instagram: https://www.instagram.com/sj_dfreak
+------------------------------------------------------------------------------
+product link:-
+https://amzn.to/2qrnyhj
+-----------------------------------------------------------------------------
+#vape vs cigarettes experiment:- https://www.youtube.com/watch?v=tevwniv1vxc
+------------------------------------------------------------------------------
+more cheap smartphone gadgets on amazon:- 
+-------------------------------------------
+pubg mobile controller:- https://amzn.to/2re0loi
 
-gear i use to record my reviews and live shows
-camera https://amzn.to/2rpg3wj
-camera lens https://amzn.to/2c0m7zp
-back up camera https://amzn.to/2vx3axo
-microphone https://amzn.to/2si3uyl
-sd card https://amzn.to/2ryvgzn
-camera monitor https://amzn.to/2vppia1
-main camera tripod https://amzn.to/2aclimw
-monitor tripod https://amzn.to/2rxm6gb
-lighting https://amzn.to/2xfadgi
-live show microphone https://amzn.to/2vvxmsh
-capture card for live show camera https://amzn.to/2vwpau1
-live show camera https://amzn.to/2ltoplr
-on the go vlog camera https://amzn.to/2xczi5e
-live show clock https://amzn.to/2h52ocx
-ultrasonic cleaner https://amzn.to/2u4mvwq
+wireless charger:- https://amzn.to/2nanwmu 
 
-my amazon store favorites https://www.amazon.com/shop/mikevapes
+bottle cap humidifier:- https://amzn.to/2onttwl
 
-gear i use: these are affiliate links. if you want to buy these items through the following links, i will get a small kick back and it will cost you nothing. thanks! ;) 
+projecting clock:- https://amzn.to/2qtjnm3
 
-check out my website http://www.mikevapes.com/
+magical flower pot:-https://amzn.to/2nwjiu1
 
-my facebook link https://www.facebook.com/mikevapes01?ref=hl
+bluetooth earphone:- https://amzn.to/2hjhzzo
 
-my instagram link https://instagram.com/mikevapes1/
+2 in 1 data cable:- https://amzn.to/2shetqy
 
-my twitter link https://twitter.com/mike_vapes
+cheap smartphone camera lens:- https://amzn.to/2m1m1me 
+             
+fixate gel pads:- https://amzn.to/2skziq6
 
-the vape team youtube channel https://www.youtube.com/channel/uczdlhp7dfln-rlclurrw0xq
+bluetooth controller:- https://amzn.to/2ojbzzr
 
-sign up to fight for your right to vape http://casaa.org/
+power bank:- https://amzn.to/2hmx5ut
 
-(disclaimer)videos may contain adult content/language, must be 18 years of age or older
+e-wallet charger:-  https://amzn.to/2xqgcvw
 
-warning: this product contains nicotine. nicotine is an addictive chemical
+3 in 1 charger:- https://amzn.to/2o1wpyo
 
-#mikevapes",2016-09-25T19:40:43Z,Entertainment,22066,405.0,22.0,70.0,[],False,,,False,,,False,,,False,,,False,,,True,1.0,18.0,False,,,False,,,True,2.0,11.0,False,,,False,,,False,,,False,,,True,2.0,6.0,True,2.0,1.0,True,2.0,16.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:08:23.109341,2660,"Top 5 Most Anticipated New Vape BF Squonk Box Mods 2017 ""PULSE BF, ATHENA KIT & CAPO SQUONK""",9JnJPTvjCdc,https://www.youtube.com/watch?v=9JnJPTvjCdc,ShadyVapes,https://www.youtube.com/channel/UCGDU6IRhDFkD-daqQE8KqfQ,"my top 5 most anticipated new vape bf / squonk box mods 2017 featuring:- the vandy vape pulse bf box mod, geekvape athena squonk starter kit,  coilart azeroth squonk kit, ijoy capo squonk  box mod and aleeder x-drip .... i'm looking for a new bf / squonk box mod and in this video i take a look at best new vape squonk mods 2017 / best vape squonk mech mods 2017 these are the best box mods on the market that are coming out soon, what shall i buy next? 
-in the top 5 are ijoy capo, vandy vape pulse bf box mod, geekvape athena, aleeder x drip and coilart azeroth....... all in the mix but which one shall i buy next???
+spy camera pen:- https://amzn.to/2s6wtdx
 
-vendors: if your looking for your product to be noticed and reviewed in a professional manner email me : adenh1982@gmail.com
+bluetooth speaker:- https://amzn.to/2o1lvzn
+----------------------------------------------------------------------------
 
-most recent upload: https://goo.gl/urqodq
-most popular upload: https://goo.gl/1tjjtz
-subscribe to channel: https://goo.gl/b6hbxi
-most popular playlist: https://goo.gl/1b6lbb
+more videos:-
 
-you can also reach me on my other social networks:
-shadyvapes vape group on facebook: https://www.facebook.com/groups/1915258932052809/
-instagram: https://www.instagram.com/shadyvapes82/
-twitter: http://twitter.com/shadyvapes
-facebook page:https://www.facebook.com/shadyvapes82
-email: adenh1982@gmail.com
+this ghatak android app can trace any smartphone within 3sec!!:- https://youtu.be/4ywhkzpx_a4
 
-help me to support this channel by making a small donation
-all proceeds will go to making this channel better.
-https://www.paypal.me/shadyvapes
+the cheapest smartphone gimble with wireless charging - shoot cinematic videos from smartphones!!:- https://youtu.be/xuh6t8vhdgm
 
+how to track and spy any smartphone location or facebook whatsapp instagram!!:- https://youtu.be/jiyyi9szqhg
 
-disclaimer: all of these links are not affiliate links and i don't earn any money from them,
-i sometimes get sent samples for free which i will state in that video and i don't receive any money for reviewing them, the only money i receive is from yt revenue
-which i put back into the channel by buying more mods or equipment....thank you all for your support....vape on!!
+6 secret new whatsapp tricks and hacks nobody knows!! latest whatsapp hidden features 2018:- https://youtu.be/uhcet7avo8i
 
-intro music:
-https://www.youtube.com/c/ncmepicmusic
-by ender güney
 
-music: http://bensounds.com
+my gears ??
 
-iron is laughter by twin musicom is licensed under a creative commons attribution licence (https://creativecommons.org/licenses/by/4.0/)
-artist: http://www.twinmusicom.org/",2017-09-16T18:36:41Z,People & Blogs,52091,378.0,32.0,120.0,[],False,,,False,,,False,,,False,,,True,7.0,19.0,False,,,False,,,False,,,False,,,True,5.0,15.0,False,,,True,6.0,4.0,False,,,True,6.0,16.0,False,,,True,7.0,8.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:11:42.107656,1187,Medical Marijuana Demo: Watch how it works using a vape pen,chSGzbZgK5A,https://www.youtube.com/watch?v=chSGzbZgK5A,syracuse.com,https://www.youtube.com/channel/UChbYn187BlBxq5LfGqZSv_A,"brian wieder demonstrates how to use a vape pen, the device he uses to ingest cannabis.",2016-04-08T19:08:37Z,Sports,590763,1782.0,298.0,359.0,['tutorial'],True,5.0,19.0,True,3.0,14.0,True,3.0,18.0,True,4.0,17.0,False,,,True,3.0,10.0,True,4.0,17.0,True,4.0,9.0,True,3.0,14.0,True,5.0,3.0,True,3.0,12.0,True,4.0,2.0,True,5.0,16.0,True,3.0,16.0,True,3.0,9.0,True,4.0,8.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,,4
-0,Alex,2020-12-07 22:13:22.920917,616,SOUR SERIES Premium E Liquids By Kilo ~E-Juice Review~,dFaCcq-QEbE,https://www.youtube.com/watch?v=dFaCcq-QEbE,MyFreedomSmokes,https://www.youtube.com/channel/UC3wGP7DWOfOByCmtwDpq11A,"thanks for watching our video!
-sour series premium e liquids by kilo 
-https://www.myfreedomsmokes.com/catalogsearch/result/?cat=0&q=sour+series
 
-products shown here are available for sale at myfreedomsmokes.com.  click the links below to browse our site.
+nikon d5600 camera:- https://amzn.to/2rh5rnn
 
-mfs homepage:  https://www.myfreedomsmokes.com",2019-02-13T15:15:25Z,Howto & Style,3833,28.0,2.0,2.0,[],True,5.0,10.0,True,4.0,8.0,True,4.0,16.0,True,4.0,2.0,False,,,True,5.0,14.0,True,4.0,4.0,True,5.0,5.0,True,5.0,4.0,True,7.0,0.0,True,5.0,10.0,True,4.0,12.0,True,5.0,8.0,True,3.0,0.0,True,5.0,6.0,True,4.0,11.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,0 1
-0,Alex,2020-12-07 22:14:43.783076,418,VAPE VS CIGARETTES (EXPERIMENT),TEVwniV1vxc,https://www.youtube.com/watch?v=TEVwniV1vxc,SlivkiShow EN,https://www.youtube.com/channel/UC37D-JTE7-V-L-VIrxzzZpQ,"experiment!
-slivkivideos@gmail.com
+nikon af-s dx nikkor 18-140mm f/3.5-5.6 g ed vr zoom lens for nikon dslr camera lens:- https://amzn.to/2anlpxz
 
-music: epidemicsounds.com",2018-02-11T16:03:50Z,Entertainment,12793440,121743.0,7596.0,15706.0,[],True,6.0,0.0,True,6.0,9.0,True,6.0,8.0,True,6.0,4.0,True,7.0,6.0,True,6.0,12.0,True,6.0,7.0,True,4.0,14.0,True,6.0,7.0,True,5.0,12.0,True,6.0,10.0,True,4.0,7.0,True,4.0,5.0,True,4.0,0.0,True,6.0,10.0,False,,,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
-0,Alex,2020-12-07 22:20:10.862745,1108,Vape Pen under $10,z8YBw_qa5AI,https://www.youtube.com/watch?v=z8YBw_qa5AI,Samantha Thomas,https://www.youtube.com/channel/UC34-P7S0kSvWEDyISFcxZeQ,"(18+ mature audience) is this the best vape cheap pen ? it's under $10.00 ! another product review. hope you enjoyed making the video. i know i did lol. if you enjoyed this video please give it a like, share with your friends, comment and subscribe ! see yall in the next video!!!!!!!
-👉link to my social media !!!
-www.twitter.com/christineswayy_
-www.twitter.com/shii407beats
-instagram @bow2princesssammie
-snapchat @samkillemsoftly
+nikon af-s fx nikkor 50mm f/1.8g lens with auto focus camera lens:- https://amzn.to/2amumfu
 
-links to my music ✍️
-https://www.beatstars.com/shii407beats
-www.soundcloud.com/christineswayy_
-www.soundcloud.com/shii407beats
+lg 22 inch (55cm) lcd monitor - full hd, ips panel with vga, hdmi, dvi, heaphone ports - 22mp68vq desktop monitor:- https://amzn.to/2cl2fxy 
 
-======================================================
-best cheap vape pen, cheap vape pen, vape pen, e cigarette, portable, cheap ,ebay product, under 10.00, product review, unboxing, taste test, great flavors, technology, unboxing technology, review,how to, how to vape,easy guide,beginner",2018-05-23T20:35:47Z,People & Blogs,278905,,,,"['tutorial', 'tricks']",True,1.0,9.0,True,1.0,4.0,True,1.0,2.0,True,1.0,9.0,True,1.0,13.0,True,1.0,10.0,True,1.0,9.0,True,1.0,8.0,True,1.0,8.0,True,1.0,4.0,True,1.0,6.0,True,1.0,2.0,True,1.0,5.0,True,1.0,4.0,True,1.0,5.0,True,1.0,5.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
-0,Alex,2020-12-07 22:22:18.424657,507,The Best Tobacco ELiquid | Tobacco Docks Review,Bdtc2EY_XCM,https://www.youtube.com/watch?v=Bdtc2EY_XCM,FlavourVapour,https://www.youtube.com/channel/UCgfbXuWeYy6CYEcOL33EpWQ,"tobacco docks eliquid a juice range so good the sulk actually vaped them all during this review... rumour has it that he can still be seen cradling an empty bottle of the juice in the sulknation hq.
+simpex vct- 888rm tall video and photo professional tripod:- https://amzn.to/2ckysa7 
 
-https://flavourvapourltd.wordpress.com/2019/11/04/the-most-popular-vape-e-liquid-flavour-profiles/
+blue microphones snowball ice condenser microphones:-https://amzn.to/2aknwuc
 
---------------------------------------------------------------------
+takstar kingmas sgc-598 photography interview shotgun mic microphone for nikon canon dslr camera face cam mic:- https://amzn.to/2rmw48h
 
+generic studio microphone mic wind screen pop filter/ swivel mount, 360° flexible gooseneck holder:- https://amzn.to/2rsp7kq
 
-subscribe to the channel:
-https://www.youtube.com/user/flavourvapourltd?sub_confirmation=1 sign up to the newsletter: sign up to the newsletter: https://smokefreecommunity.co.uk/flavour-vapour-mailing-list/ https://smokefreecommunity.co.uk/flavour-vapour-mailing-list/",2018-05-18T15:23:02Z,Howto & Style,21766,121.0,12.0,39.0,[],True,4.0,11.0,True,4.0,1.0,True,4.0,1.0,True,3.0,2.0,True,2.0,18.0,True,3.0,14.0,True,3.0,3.0,True,4.0,9.0,True,4.0,3.0,True,2.0,15.0,True,3.0,14.0,True,4.0,4.0,True,4.0,10.0,True,3.0,11.0,True,3.0,15.0,True,3.0,9.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,6
-0,Alex,2020-12-07 22:23:16.732390,945,"VAPER EMPIRE ""V-Pack 11 Kit"" Stater Cigalike Kit Review",Pk3KUAfDl7Q,https://www.youtube.com/watch?v=Pk3KUAfDl7Q,Carpvaper TV Reviews,https://www.youtube.com/channel/UCqqTtLC0n0LQs18myGMtTyA,"watchya and and a warm welcome to
-carpvaper tv
-#teamcarpvaper #vaperempire #vpack2kit
+kadence microphone stand :- https://amzn.to/2vsleby
 
-fri night hardware review
-a high end cigarlike kit
-the v-pack 2 from vaperempire
-made in australia
-https://www.vaperempire.com.au
+harison quadlux mark ii single kit/ studio light/ fluorescent light for still and video/ studio equipment kit / accepts 4 fluorescent spiral cfl lamps:- https://amzn.to/2ahydz1 
 
-reviewing since april 2016, nominated “vape reviewer of the year 2017” subohm mag.
+---------------------------------------------------------------------
+music credits:- instrumental produced by chuki.
+http://www.youtube.com/user/chukimusic
 
-to become a cvtv patreon ( #teamcarpvaper ) free all giveaways auto entry plus free p&p name shoutouts and many benefits this year.
-thank you xx
-paypal £3 link
-here == my paypal link
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=d4f46lhup5rr8
+ retnik beats (https://www.youtube.com/channel/ucnotcm6dh_mtgiuvq1xv7hw)
+🌎 official website (contact):  http://www.retnikbeats.com
+🎧 spotify: https://goo.gl/vhbq6o 
+----------------------------------------------------------------------------
 
-to one off donate towards channel upkeep ( thank you )
-or purchase a single giveaway ticket for subscriber who are not cvtv patreons
-link here
-https://www.paypal.me/carpvaper
+connect with me personally:
 
-👕🧢👚🎁🎁☕️👕
-new carpvaper tv merchandise shop.
-take a peek xx x
-postage is only from £1
-link here === https://carpvapertv.cottoncart.com/
-🧢👕🎁 i will customise to your design/name/colour/sentiments ( no extra cost ) just msg me.
+business mail:- ashokjaiswalkol@gmail.com
 
+instagram: https://www.instagram.com/sj_dfreak
+twitter: https://twitter.com/sjdfreak
+facebook: https://www.facebook.com/sjdfreak
+___
+like | share | subscribe for more videos like this
+~
+thanks for watching! --enjoy-
+---------------------------------------------------------
+hope amazing gadgets on amazon was much interesting and useful for every smartphone gadgets lover...",2018-04-15T13:25:31Z,Science & Technology,809172,33665.0,1448.0,2060.0,"['marijuana', 'tutorial', 'tricks']",False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,6.0,9.0,False,,,True,4.0,8.0,False,,,False,,,False,,,False,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
+0,Alex,2020-12-09 00:29:52.093246,3709,Do Vape Pens Trick Teens?,HnKwHWyHH4g,https://www.youtube.com/watch?v=HnKwHWyHH4g,YR Media,https://www.youtube.com/channel/UCLCZYqqopva7k-4PIVpL7Mw,"vape pens, or e-cigarettes, are often billed as a safer way for smokers to get their fix. the user breathes in water vapor infused with nicotine and exhales what looks like smoke. but with flavors like banana cream pie and alien blood, these pens are attracting a new generation of ""smokers."" according to the cdc, the use of e-cigarettes has doubled in popularity among middle and high school students. and now the fda is considering regulating them as tobacco products. youth radio explores what's attracting young teens to ""vaping"" and the dangers they might be facing.
 
-alchemists cupboard norfolk uk
-content sponsor for cvtv
-great value on line vape store for best value diy supplies and ejuice.
-use my discount code “carp10” for a great 10% off all orders. xx
-live link here == https://www.thealchemistscupboard.co.uk
+produced by: jenny bolario
+editors: chaz hubbard, denise tejada and jenny bolario",2013-12-02T22:44:22Z,Science & Technology,1306826,3940.0,2644.0,2623.0,['EVALI'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,3.0,3.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,,4
+0,Alex,2020-12-09 00:30:32.329407,2752,Zaero Disposable Vape,Wrws13L8XFo,https://www.youtube.com/watch?v=Wrws13L8XFo,Vapor4Life,https://www.youtube.com/channel/UCz4TMjnVLYZBDluy73FDpNQ,"most adult smokers are just looking for a flavorful and easy to use ash and smoke free alternative. and nothing is easier to vape than a disposable. 
 
-hardware mod bundles giveaways
-to enter
-1/ subscribe to this channel.
-2/ become a cvtv patrions/monthly min £3/$4 ( links above )
+the biggest drawback with disposables has been a lack of choice- both flavor and nic strengths. until now. the zaero has 4 nic strengths- ranging from 0 to 5%.",2019-12-17T19:02:29Z,Howto & Style,517,8.0,0.0,0.0,['tutorial'],False,,,False,,,False,,,False,,,True,6.0,6.0,False,,,False,,,False,,,True,6.0,15.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,0 1
+0,Alex,2020-12-09 00:31:11.705648,3778,Black Veil Brides - In The End (Official Video),f0EQlIzPowM,https://www.youtube.com/watch?v=f0EQlIzPowM,BVBArmyVEVO,https://www.youtube.com/channel/UCEHgekvMJSFLphRW_61xQFw,"check out the official music video for ""in the end"" by black veil brides
 
-or ticket purchase for subscribers non patreons for £3/$4
-link here
-https://www.paypal.me/carpvaper
+buy now:
+itunes: http://smarturl.it/bvbwretchedit
+amazon: http://smarturl.it/bvbwretchedamzp
+music video by black veil brides performing in the end. (c) 2012 universal republic records, a division of umg recordings, inc. & lava music, llc
 
-no postage payment required for patrion winners.
+#blackveilbrides #intheend #vevo #rock #vevoofficial",2012-12-12T10:33:00Z,Music,132662935,1293848.0,46686.0,143394.0,[],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,3.0,11.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
+0,Alex,2020-12-09 00:32:20.422976,941,VapeWild Releases Their Own Cigalike Product,ACDDISkW8SY,https://www.youtube.com/watch?v=ACDDISkW8SY,VapePassion,https://www.youtube.com/channel/UCOp5pwIPSPA1l5eeISZ5DDw,"disclosure: vapepassion.com is a blog and professional review site. i receive compensation in the form of free product from the companies whose products i review.
 
-ejuice bundle giveaways are free for all subscribers and patreons just comment like videos in video instructions .
-subscribers pay postage £4 or $6 patreons free p&p
+to get more details about the products or content mentioned in this video, please visit https://www.vapepassion.com
 
-use my discount code “carp” for 10% off all orders at caledonianvapes ejuice.
-live link here == https://www.caledonianvapes.com/product-category/eliquid/
+protect your rights to vape and support casaa - http://casaa.org/
 
-a vape review channel with reviews/builds/tutorials/giveaways/vape banter/vlogs also including a little carping/ nature/photography/underwater films/life banter/outside broadcasts etc etc
+social media links:
+facebook ► https://www.facebook.com/vapepassion
+instagram ► https://www.instagram.com/vapepassion
+twitter ► https://twitter.com/vapepassion",2017-03-16T14:30:44Z,People & Blogs,542,7.0,2.0,2.0,[],True,3.0,17.0,True,3.0,9.0,True,3.0,11.0,True,3.0,13.0,True,4.0,6.0,True,3.0,19.0,True,3.0,13.0,True,3.0,11.0,True,3.0,16.0,False,,,True,3.0,19.0,True,3.0,8.0,True,3.0,17.0,True,3.0,15.0,True,4.0,0.0,True,3.0,11.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,6
+0,Alex,2020-12-09 00:32:35.919565,1773,Lecrae - Deep End (Official Video),s4EToyMHq2Y,https://www.youtube.com/watch?v=s4EToyMHq2Y,LecraeVEVO,https://www.youtube.com/channel/UC5hgXzgv6iF6NjfLcE0DmAg,"official video for ""deep end"" by lecrae.
 
-i strive on interaction and respond to all comments/advice x
+listen & download “deep end"" out now: https://lecrae.lnk.to/deepend
 
-no under 18 for vape content
+amazon - https://lecrae.lnk.to/deepend/amazon
+apple music - https://lecrae.lnk.to/deepend/applemusic
+itunes - https://lecrae.lnk.to/deepend/itunes
+spotify - https://lecrae.lnk.to/deepend/spotify
+youtube music - https://lecrae.lnk.to/deepend/youtubemusic
 
-these are my unpayed/honest opinions
+concepted by oust (weareoust.co)
+produced by ritual film co (weareritual.co)
 
-please research further if unsure.
+follow lecrae
+facebook - https://www.facebook.com/lecrae/
+instagram - https://www.instagram.com/lecrae/
+twitter - https://twitter.com/lecrae
 
-i will answer any comment or question to help you in your vaping journey and advise/help with stopping smoking.
+https://www.lecrae.com/
 
-vaping is a safer alternative
+#lecrae #deepend #restoration
 
-and works to get of those cigs.
+http://vevo.ly/yctvdk",2020-06-25T08:36:29Z,Music,808398,39258.0,762.0,2026.0,['marijuana'],True,4.0,6.0,True,4.0,16.0,True,5.0,9.0,True,4.0,1.0,False,,,True,3.0,18.0,True,4.0,4.0,True,4.0,1.0,True,5.0,12.0,True,4.0,9.0,True,4.0,9.0,True,3.0,15.0,True,4.0,3.0,True,3.0,16.0,True,4.0,6.0,True,4.0,18.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
+0,Alex,2020-12-09 00:34:09.364692,865,Anchor Box Mods Custom 3d Printed Mod & Crunch Time Eliquid,C6ue4cHWJWk,https://www.youtube.com/watch?v=C6ue4cHWJWk,Vapor Trail Channel,https://www.youtube.com/channel/UCvsAmm5z8q_BitOYvQvKAjA,"**this channel is for adults of legal vaping age only!
 
-vaping saves lives fact
+loving my custom 3d printed box mod from anchor box mods! 
 
-thank you for taking your time to view and please subscribe its free and inform others of my vape channel.
+---------------------------
 
-comments welcome !
+find my the latest episode on new channel, picky eater channel, here: https://www.youtube.com/watch?v=hicmb5va-ww
 
+and the sea glass hunter channel is here: https://www.youtube.com/channel/uc36jkomn35-25wvwnaq4isg
 
-great vaping forum chat advice reviews. here vapingtrain forum advice reviews ==. https://vapingtrain.com/
+-----------------------------------------
+fundraiser for advocacy campaign (rip trippers): http://bit.ly/2bbv6om
 
+central advocacy link: http://www.august8th.org
 
-any vape venders that would like to be scheduled in my reviews and video of there ejuice line or hardware please just get in touch on
+the 5th, and largest, lawsuit filed agains the fda needs your support here: http://www.r2bsmokefree.org
 
-f/b
+my facebook: http://www.facebook.com/vaportrailchannel
 
-twitter
+join casaa and help keep our right to vape! this has saved me from the nastiness of smoking cigs, and we don't want it to be taken away from us: http://www.casaa.org
 
-messenger
+also: http://www.notblowingsmoke.org
 
-gmail
+and: sfata: http://sfata.org
 
-or dm/ mail
+you might notice a support button on my channel and a pop-up in the videos saying ""support vapor trail channel"". if you are so inclined, you can click that and donate anywhere from $1 to...well, whatever. running this channel costs time and money. every dollar counts and helps to keep it going. 
 
-estuffabcreviews.thecarpvaper@gmail.com
+these are solely my opinions, based on my use of these products. please do your research, and use caution when using these devices. buy or use at your own risk! these items were provided free so i could share them with you here on the channel. vapor trail channel makes no claims regarding these items being ""healthy"". 
 
-or
-
-kissvilla.bennett@gmail.com
-
-thanks all
-
-vape on
-
-vape safe
-
-taaarrrraaaaaaa. !
-
-sent from mail for windows 10
-
-
-sent from my iphone",2019-02-15T19:27:04Z,People & Blogs,987,,,21.0,['tutorial'],True,4.0,1.0,True,3.0,15.0,True,3.0,8.0,True,3.0,15.0,False,,,False,,,True,3.0,15.0,True,3.0,14.0,True,3.0,18.0,True,6.0,11.0,True,4.0,2.0,True,3.0,15.0,False,,,True,3.0,17.0,True,4.0,2.0,True,3.0,17.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:25:25.210730,414,What are you really vaping?,OldQfuh5pSc,https://www.youtube.com/watch?v=OldQfuh5pSc,KGW News,https://www.youtube.com/channel/UCKgAB8lqTbqbwXC-e6_9lhQ,"a mysterious vaping-related illness has sickened 1,800 people and killed 37 others across the country. kgw news tested six vaping products (3 thc, 1 cbd, 1 juul and 1 vq pod) at portland's lightscale lab to see what's really inside of them. 
-
-read more: https://www.kgw.com/article/news/investigations/vaping-samples-tested-vitamin-e-is-vaping-bad-for-you-vape-toxicity/283-7b8c9947-18ab-4895-9283-04c93b6f7a46
-
-read more: https://bit.ly/34qdlgu
-subscribe: https://www.youtube.com/c/kgwnews8
-get the new kgw app: https://kgw.com/appredirect",2019-11-04T22:53:51Z,News & Politics,6587,16.0,37.0,35.0,['EVALI'],True,5.0,12.0,True,6.0,4.0,True,6.0,4.0,True,5.0,17.0,False,,,True,6.0,4.0,True,6.0,0.0,False,,,True,5.0,12.0,True,5.0,7.0,True,6.0,3.0,False,,,False,,,False,,,True,6.0,2.0,False,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,,4
-0,Alex,2020-12-07 22:27:44.082906,1289,Geek Vape Aegis Boost Kit!,1xhg4vQpdng,https://www.youtube.com/watch?v=1xhg4vQpdng,RiP Trippers,https://www.youtube.com/channel/UCgZd5ygXFoQry9KDGlddSBg,"for more information on what was shown in this video
-visit: http://bit.ly/2pgclyu
-
-my instagram: http://www.instagram.com/riptrippers",2019-12-02T01:49:39Z,People & Blogs,291801,3935.0,164.0,491.0,[],True,5.0,0.0,True,5.0,6.0,True,5.0,15.0,True,5.0,8.0,False,,,True,5.0,5.0,True,5.0,7.0,True,5.0,0.0,True,4.0,16.0,False,,,True,5.0,7.0,True,4.0,18.0,False,,,False,,,False,,,True,7.0,9.0,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:30:22.063951,2525,Make Your Own E-liquid in 5 Steps,2XzPh0NOsTg,https://www.youtube.com/watch?v=2XzPh0NOsTg,DIY or DIE,https://www.youtube.com/channel/UCFoe3PEb1_7sAY1ZgehNP3A,"links:
-https://diyordievaping.com - for more on diy e-liquid mixing
-https://e-liquid-recipes.com - e-liquid calculator and recipe site
-https://alltheflavors.com - e-liquid calculator and recipe site
-https://liquidbarn.com - vg/pg/additive and flavoring shop
-https://diyordievaping.com/2018/02/19/quik-strawberry-malted-milk-diy-e-liquid-recipe/ - the recipe in the video
-
-join the discord here!
-https://discord.gg/ydytzxu
-
-pick up diyordie one-shot flavorings
-ecx (us) - https://diyordie.link/oneshots-ecx-yt
-liquidbarn (us) - https://diyordie.link/oneshots-lb-yt
-chef's flavours (uk) - https://diyordie.link/oneshots-chefs-yt
-
----------- { social media } ----------
-twitch: https://twitch.tv/nolifedigital
-twitter: https://twitter.com/diyordievaping
-instagram: https://instagram.com/diyordievaping
-facebook: http://facebook.com/diyordievaping
-
-----------------------------------------­----------------------------------------­----------------------------------------­------------------------------
-
-**attention**
-[diyordie, walker vapor group llc, or any of its associations, do not condone or encourage the use of nicotine or other addicting and mood altering chemicals or drugs. all the information provided is for entertainment purposes only, and not meant to be seen as educational nor informational.  must be 21+ years or older to view any of the content provided]",2019-07-17T21:45:00Z,Science & Technology,73204,1081.0,51.0,83.0,[],False,,,False,,,False,,,False,,,True,4.0,15.0,False,,,False,,,False,,,False,,,True,2.0,17.0,False,,,False,,,False,,,True,7.0,4.0,False,,,False,,,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,1
-0,Alex,2020-12-07 22:30:57.419979,1342,Disposable vapes: Are they any good?..,tYWPn3uLScY,https://www.youtube.com/watch?v=tYWPn3uLScY,DashVapes,https://www.youtube.com/channel/UCaxBVm0RTllwCweQtbcuotg,"http://www.dashtv.cc/
-
-disposable vapes are gaining an immense amount of traction. while they are fairly cheap and easy to use, this may be a step in the wrong direction.
-
-subscribe for more #vapenews!
-
-follow us!
-
-instagram - @dashvapes
-twitter - @dashvapes
-facebook - www.fb.me/dashvapes
-
-dashvapes is canada's leading electronic cigarette and e-juice retailer and distributor.",2020-02-08T13:08:15Z,Film & Animation,117472,3444.0,74.0,590.0,['tutorial'],True,1.0,0.0,True,1.0,2.0,True,1.0,6.0,True,1.0,2.0,True,1.0,5.0,True,1.0,1.0,True,1.0,2.0,True,1.0,1.0,True,1.0,0.0,True,1.0,0.0,True,1.0,0.0,True,1.0,2.0,True,1.0,0.0,True,1.0,3.0,True,1.0,0.0,True,1.0,11.0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,6
-0,Alex,2020-12-07 22:31:24.683412,135,E cigarettes as a smoking cessation tool | Cancer Research UK (2018),6aBf7gmH98Y,https://www.youtube.com/watch?v=6aBf7gmH98Y,Cancer Research UK,https://www.youtube.com/channel/UC01cT8kXmbVH6-mzwaa2qIQ,"research so far shows that e-cigarettes are far less harmful than smoking. dr richard roope (cruk and rcgp clinical champion for cancer) outlines the latest evidence on the use of e-cigarettes and how gps can support patients to stop smoking.
-
-https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/smoking-and-cancer/are-e-cigarettes-harmful
-https://www.cancerresearchuk.org/health-professional/awareness-and-prevention/e-cigarette-hub-information-for-health-professionals",2019-06-24T10:18:30Z,Nonprofits & Activism,5459,75.0,5.0,,[],True,3.0,5.0,True,3.0,1.0,True,3.0,3.0,True,3.0,1.0,True,3.0,16.0,True,3.0,0.0,True,3.0,2.0,True,3.0,0.0,True,3.0,0.0,True,2.0,11.0,True,3.0,3.0,True,3.0,4.0,True,3.0,6.0,True,3.0,8.0,True,3.0,0.0,False,,,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,,3
-0,Alex,2020-12-07 22:33:19.365406,3200,How to Speed Steep,uVmVwTtcDOk,https://www.youtube.com/watch?v=uVmVwTtcDOk,Lizard Juice,https://www.youtube.com/channel/UCS2JW9ynmS76Pyg80RIS-hQ,"get 120ml of vape juice from our partners at broke dick for only $11.75:
-https://www.brokedick.com
-
-big j teaches you how to speed steep by by going over the three most common ways. strap in..... pay attention..... and steep on!!!",2017-04-11T14:46:19Z,Science & Technology,92528,1239.0,77.0,174.0,['tutorial'],False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,19.0,True,7.0,17.0,False,,,False,,,False,,,False,,,False,,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,1
-0,Alex,2020-12-07 22:36:22.483697,339,Amazing TikTok: The art of Vape- Vape Trick (Nghệ thuật hút Vape đỉnh cao),qhuXyGeTCw0,https://www.youtube.com/watch?v=qhuXyGeTCw0,Amazing TikTok,https://www.youtube.com/channel/UCLpRDl_5kfcb9qyTFQjcjCA,"▶️clips form #tiktok #amazing #vape #hot 
-▶️like and subscribe my channel
-▶️music: listen to alan walker - fade [ncs release] by ncs #np on #soundcloud
-https://soundcloud.com/nocopyrightsounds/alan-walker-fade-ncs-release
-▶️if anythings about copyright, please contact me at sonlevideos@gmail.com",2019-04-19T07:42:03Z,People & Blogs,593239,2439.0,401.0,74.0,['tricks'],True,6.0,0.0,False,,,True,7.0,16.0,False,,,False,,,True,3.0,15.0,True,3.0,1.0,True,5.0,17.0,True,3.0,13.0,True,5.0,11.0,True,4.0,18.0,True,4.0,10.0,False,,,True,3.0,0.0,True,3.0,11.0,False,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
-0,Alex,2020-12-07 22:39:05.319652,2541,E-JUICE REVIEW - DR. FROST E-LIQUID,qJxlSkYcmeQ,https://www.youtube.com/watch?v=qJxlSkYcmeQ,spit in your dripper reviews,https://www.youtube.com/channel/UCxeMYIQk5S4aP354gTMwkFw,"e-juice review - dr. frost e-liquid
-
-vg/pg - 70/30
-nicotine - 0
-bottle size 100ml
-
-each 100ml comes with 80ml of 0mg e-liquid with space for x2 nic shots
-
-strawberry ice 01:11
-
-grape ice 03:30
-
-orange and mango ice 05:59
-
-for more info... https://vswholesale.co.uk/",2017-06-05T02:13:44Z,People & Blogs,12744,53.0,6.0,,[],False,,,False,,,False,,,False,,,True,7.0,10.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,7.0,10.0,False,,,False,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:40:32.064870,254,Ether RTA | Vaping Bogan X Suicide Mods | Show 'n' Tell,wAEqngk8s-A,https://www.youtube.com/watch?v=wAEqngk8s-A,Vaping Bogan,https://www.youtube.com/channel/UCExqR7C-PZp9aTEF-hUIRsA,"instagram - @vapingbogan
-www.facebook.com/thevapingbogan
-
-support here - patreon: https://www.patreon.com/vapingbogan
-one off donations - paypal.me/sparsons886
-
-email - sam@vapingbogan.com.au
-
-postal address for products/viewer mail:
-sam p 
-po box 10017
-adelaide bc 
-south australia 
-5000
-
-advocacy:
-
-email your local politician here - https://www.legalisevaping.com.au/act_now
-
-help fight for australia's right to make a healthier choice, donate to athra - https://athra.org.au/donations/?fbclid=iwar3-_ottqyybwxdun2pharoxtfz2lzxwtr3iohfluffczybbt4ggya5rt38
-
-keep up to date with the aussie fight here - https://asn.us19.list-manage.com/subscribe?u=166a3e64f7d1fd667425531a2&id=924b272d0a
-
-https://www.legalisevaping.com.au/
-
-new zealand advocacy:
-- http://avca.org.nz/
-- https://www.facebook.com/groups/ nzavca
-- https://www.facebook.com/groups/414222635837853/ 
-
-us:
-http://casaa.org/
-https://www.sfata.org/content.aspx?page_id=0&club_id=89995
-http://vaping.org/
-
-uk - https://nnalliance.org/
-
-canada:
-https://www.canadianvapingassociation.org/home
-
-https://www.facebook.com/thecanadianvapingassociationorg/
-
-south africa - http://vpasa.org.za/
-
-royal college of physicians reports:  
-https://www.rcplondon.ac.uk/news/next-steps-long-journey-tobacco-harm-reduction
-https://www.rcplondon.ac.uk/projects/outputs/nicotine-without-smoke-tobacco-harm-reduction-0
-
-https://www.rcplondon.ac.uk/news/promote-e-cigarettes-widely-substitute-smoking-says-new-rcp-report",2020-07-29T16:36:42Z,Entertainment,10199,775.0,17.0,187.0,[],True,2.0,13.0,True,3.0,1.0,True,1.0,6.0,True,3.0,9.0,False,,,True,2.0,7.0,True,1.0,15.0,True,6.0,2.0,True,2.0,2.0,True,1.0,8.0,True,1.0,7.0,True,3.0,7.0,True,4.0,0.0,True,2.0,15.0,True,2.0,3.0,True,3.0,11.0,True,True,False,True,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:42:04.104566,3009,Using a Cartridge Vape Pen and Choosing Your Voltage - featuring Chris with Liquid Gold,X6LwrJqHDQQ,https://www.youtube.com/watch?v=X6LwrJqHDQQ,G Farma TV,https://www.youtube.com/channel/UCUrO2c4pFUqcev4obUoaSFg,"chris gives us a tutorial for the liquid gold vape pen explaining its functions such as:
-
-preheating (warms oil at 1.1-1.8 volts prepping it for a better vape)
-
-5 clicks to turn on/off
-
-once on, click the button 3 times to select different voltages:
-green light = 3.6volts
-red light = 3.8volts
-blue light = 4.0volts
-
-universal 510 tread compatible with liquid gold c02 oil cartridges",2016-03-10T21:40:33Z,People & Blogs,141584,758.0,71.0,71.0,['tutorial'],False,,,False,,,False,,,False,,,False,,,True,5.0,12.0,False,,,False,,,False,,,False,,,False,,,False,,,False,,,True,3.0,7.0,False,,,True,7.0,6.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:43:09.617163,1537,"Electronic cigarette-ALD-TOP 10 e-cig manufacturer in china,Disposable, rechargeable, ego series.",anJMf9omHwE,https://www.youtube.com/watch?v=anJMf9omHwE,lily y,https://www.youtube.com/channel/UCkHRBC9lprc0hc1uY1Dc7hQ,"ald-top 10 e-cig manufacturer in china, dust-free workshop, attained gmp, bv, ce, fcc, rohs,iso certification. disposable, rechargeable, ego series.",2014-04-17T05:29:07Z,People & Blogs,4766,27.0,1.0,5.0,[],True,6.0,18.0,False,,,False,,,False,,,True,4.0,8.0,False,,,False,,,True,7.0,10.0,True,4.0,19.0,True,3.0,11.0,True,6.0,13.0,True,5.0,8.0,True,7.0,2.0,True,2.0,11.0,False,,,True,7.0,5.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,,5
-0,Alex,2020-12-07 22:47:14.214329,82,How to refill your Electronic Cigarette Cartridges simple trick,oupH_Zmf6_U,https://www.youtube.com/watch?v=oupH_Zmf6_U,TheSmokenjoey,https://www.youtube.com/channel/UCzTzjQ6Wobn42VFHL4yUDRg,"this is a very simple, easy and no mess way to refill your electronic cigarette cartridges, a 12 year old can do it. even if you have no desire to refill your own, watch this video and it may change your mind. you can do this for just pennies compared to buying prefilled cartridges. after testing out many ecigs i am comfortable in endorsing prosmoke. they have the best vg flavors with a good throat hit. you can check out the pricing on their starter kits here  http://www.prosmokestore.com/affiliates/jrox.php?id=544_1. you can contact me at joey@smokenjoey.com. for any questions.  thanks",2012-04-21T13:41:15Z,Howto & Style,149992,347.0,34.0,96.0,"['tutorial', 'tricks']",True,6.0,2.0,True,6.0,4.0,True,6.0,5.0,False,,,False,,,False,,,True,6.0,8.0,True,6.0,18.0,True,7.0,17.0,True,6.0,6.0,True,6.0,16.0,True,6.0,6.0,True,6.0,7.0,True,7.0,14.0,False,,,True,7.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
-0,Alex,2020-12-07 22:49:15.605487,1017,"The Aegis Has Finally Met Its Match, Sigelei Humvee 215 Box Mod",fruZ_mlbmR8,https://www.youtube.com/watch?v=fruZ_mlbmR8,Jai Haze,https://www.youtube.com/channel/UCHzwxdmRbNXadfzPWVFpcXA,"◈ links ◈
-youtube privileges/hazer: https://youtube.com/jaihaze/join
-support channel, join patreon: https://www.patreon.com/jaihaze 
-
-★ rating: medium
-
-◈ social media & web ◈
-supporters and fans: https://www.patreon.com/jaihaze
-youtube member w/perks: https://www.youtube.com/jaihaze/join
-younow (personal lives): https://www.younow.com/jaihaze
-jai haze clothing: https://teespring.com/stores/jai-haze
-twitter: http://twitter.com/jaihaze
-instagram: http://instagram.com/jaihaze
-gaming on twitch: https://www.twitch.tv/jaihaze
-jai haze facebook page: https://www.facebook.com/officialjaihaze/",2019-12-11T07:05:46Z,Entertainment,49014,1071.0,65.0,193.0,[],True,2.0,5.0,True,7.0,17.0,False,,,True,2.0,2.0,True,2.0,9.0,False,,,True,2.0,4.0,True,2.0,2.0,False,,,True,2.0,14.0,True,1.0,19.0,True,1.0,18.0,True,2.0,3.0,False,,,False,,,True,2.0,4.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
+links:
+https://instagram.com/vaportrailchannel/
+http://www.facebook.com/vaportrailchannel
+https://twitter.com/vaportrailch
+https://www.pinterest.com/vaportrailc/",2016-12-02T00:27:45Z,People & Blogs,27759,486.0,24.0,221.0,[],True,6.0,5.0,True,6.0,7.0,True,6.0,10.0,True,5.0,16.0,True,6.0,3.0,True,5.0,5.0,True,5.0,17.0,True,6.0,2.0,True,4.0,17.0,False,,,True,5.0,3.0,False,,,True,6.0,4.0,True,2.0,5.0,True,5.0,3.0,True,3.0,5.0,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,,2
